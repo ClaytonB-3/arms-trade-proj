@@ -1,0 +1,236 @@
+,Category,Sub-category,Description
+0,Aircraft,Fighter/Combat Aircraft,fighter aircraft
+1,Aircraft,Fighter/Combat Aircraft,trainer/combat aircraft
+2,Aircraft,Fighter/Combat Aircraft,FGA aircraft
+3,Aircraft,Fighter/Combat Aircraft,FGA/EW aircraft
+4,Aircraft,Fighter/Combat Aircraft,ground attack aircraft
+5,Aircraft,Fighter/Combat Aircraft,ASW aircraft
+6,Aircraft,Bomber/Heavy Aircraft,bomber aircraft
+7,Aircraft,Bomber/Heavy Aircraft,heavy transport aircraft
+8,Aircraft,Reconnaissance/Surveillance Aircraft,reconnaissance aircraft
+9,Aircraft,Reconnaissance/Surveillance Aircraft,AEW&C aircraft
+10,Aircraft,Reconnaissance/Surveillance Aircraft,SIGINT aircraft
+11,Aircraft,Reconnaissance/Surveillance Aircraft,AGS aircraft
+12,Aircraft,Reconnaissance/Surveillance Aircraft,light aircraft
+13,Aircraft,Reconnaissance/Surveillance Aircraft,AEW aircraft
+14,Aircraft,Reconnaissance/Surveillance Aircraft,AEW/AGS aircraft
+15,Aircraft,Reconnaissance/Surveillance Aircraft,reconnaissance/SIGINT aircraft
+16,Aircraft,Reconnaissance/Surveillance Aircraft,airship
+17,Aircraft,Trainer Aircraft,trainer aircraft
+18,Aircraft,Trainer Aircraft,trainer/light aircraft
+19,Aircraft,Trainer Aircraft,light/trainer aircraft
+20,Aircraft,Trainer Aircraft,target tow aircraft
+21,Aircraft,Transport Aircraft,transport aircraft
+22,Aircraft,Transport Aircraft,light transport aircraft
+23,Aircraft,Transport Aircraft,tanker/transport aircraft
+24,Aircraft,Transport Aircraft,transport ac/helicopter
+25,Aircraft,Transport Aircraft,transport/trainer aircraft
+26,Helicopters,Combat Helicopters,combat helicopter
+27,Helicopters,Combat Helicopters,ASW helicopter
+28,Helicopters,Combat Helicopters,anti-ship helicopter
+29,Helicopters,Combat Helicopters,SIGINT helicopter
+30,Helicopters,Transport/Utility Helicopters,transport helicopter
+31,Helicopters,Transport/Utility Helicopters,light helicopter
+32,Helicopters,Specialized Helicopters,AEW helicopter
+33,Helicopters,Specialized Helicopters,ASW Helicopter
+34,Helicopters,Specialized Helicopters,helicopter
+35,Unmanned Vehicles,UAV/Drone,UAV
+36,Unmanned Vehicles,UAV/Drone,armed UAV
+37,Unmanned Vehicles,UAV/Drone,light aircraft/UAV
+38,Unmanned Vehicles,UAV/Drone,loitering munition
+39,Unmanned Vehicles,Reconnaissance/Surveillance UAV,reconnaissance AV
+40,Unmanned Vehicles,Reconnaissance/Surveillance UAV,maritime patrol UAV
+41,Naval Vessels,Combat Vessel,frigate
+42,Naval Vessels,Combat Vessel,destroyer
+43,Naval Vessels,Combat Vessel,corvette
+44,Naval Vessels,Combat Vessel,submarine
+45,Naval Vessels,Combat Vessel,gunboat
+46,Naval Vessels,Combat Vessel,cruiser
+47,Naval Vessels,Combat Vessel,aircraft carrier
+48,Naval Vessels,Combat Vessel,corvette/minesweeper
+49,Naval Vessels,Combat Vessel,FAC (Fast Attack Craft)
+50,Naval Vessels,Combat Vessel,minesweeper
+51,Naval Vessels,Combat Vessel,nuclear submarine
+52,Naval Vessels,Combat Vessel,SSB (Ballistic Missile Submarine)
+53,Naval Vessels,Combat Vessel,midget submarine
+54,Naval Vessels,Combat Vessel,FAC
+55,Naval Vessels,Combat Vessel,SSB
+56,Naval Vessels,Support Vessel,patrol craft
+57,Naval Vessels,Support Vessel,cargo ship
+58,Naval Vessels,Support Vessel,tanker
+59,Naval Vessels,Support Vessel,support ship
+60,Naval Vessels,Support Vessel,training ship
+61,Naval Vessels,Support Vessel,MCM ship
+62,Naval Vessels,Support Vessel,replenishment ship
+63,Naval Vessels,Support Vessel,minehunter
+64,Naval Vessels,Support Vessel,icebreaker
+65,Naval Vessels,Support Vessel,OPV
+66,Naval Vessels,Support Vessel,OPV/training ship
+67,Naval Vessels,Support Vessel,OPV/support ship
+68,Naval Vessels,Support Vessel,landing ship
+69,Naval Vessels,Support Vessel,salvage ship
+70,Naval Vessels,Support Vessel,survey ship
+71,Naval Vessels,Support Vessel,minelayer
+72,Naval Vessels,Support Vessel,replenishment tanker
+73,Naval Vessels,Support Vessel,OPV/transport ship
+74,Naval Vessels,Support Vessel,support/landing ship
+75,Naval Vessels,Support Vessel,landing/patrol craft
+76,Naval Vessels,Support Vessel,transport ship
+77,Naval Vessels,Support Vessel,landing craft
+78,Naval Vessels,Support Vessel,tug
+79,Naval Vessels,Support Vessel,OPV/tug
+80,Naval Vessels,Support Vessel,frigate/landing ship
+81,Naval Vessels,Support Vessel,SIGINT ship
+82,Naval Vessels,Support Vessel,patrol craft/transport craft
+83,Naval Vessels,Support Vessel,transport craft
+84,Naval Vessels,Support Vessel,support craft
+85,Naval Vessels,Support Vessel,cargo craft
+86,Naval Vessels,Support Vessel,icebreaker/OPV
+87,Ground Vehicles/Artillery,Main Battle Tanks,tank
+88,Ground Vehicles/Artillery,Main Battle Tanks,light tank
+89,Ground Vehicles/Artillery,Main Battle Tanks,training tank
+90,Ground Vehicles/Artillery,Main Battle Tanks,tank chassis
+91,Ground Vehicles/Artillery,Main Battle Tanks,tank destroyer
+92,Ground Vehicles/Artillery,Armored Personnel Carriers (APC),APC
+93,Ground Vehicles/Artillery,Armored Personnel Carriers (APC),APC/APV
+94,Ground Vehicles/Artillery,Armored Personnel Carriers (APC),APC/IFV
+95,Ground Vehicles/Artillery,Armored Personnel Carriers (APC),APC/CP
+96,Ground Vehicles/Artillery,Armored Personnel Carriers (APC),apc (Armored Personnel Carrier)
+97,Ground Vehicles/Artillery,Armored Personnel Carriers (APC),apc
+98,Ground Vehicles/Artillery,Infantry Fighting Vehicles (IFV),IFV
+99,Ground Vehicles/Artillery,Infantry Fighting Vehicles (IFV),IFV/AFSV
+100,Ground Vehicles/Artillery,Infantry Fighting Vehicles (IFV),IFV/APC turret
+101,Ground Vehicles/Artillery,Infantry Fighting Vehicles (IFV),IFV turret
+102,Ground Vehicles/Artillery,Armored Reconnaissance Vehicles (ARV),ARV
+103,Ground Vehicles/Artillery,Armored Reconnaissance Vehicles (ARV),AEV/ARV
+104,Ground Vehicles/Artillery,Armored Fighting Support Vehicles (AFSV),AFSV
+105,Ground Vehicles/Artillery,Armored Fighting Support Vehicles (AFSV),AMV
+106,Ground Vehicles/Artillery,Armored Fighting Support Vehicles (AFSV),ALV (Armored Logistics Vehicle)
+107,Ground Vehicles/Artillery,Armored Fighting Support Vehicles (AFSV),ALV
+108,Ground Vehicles/Artillery,Light Armored Vehicles (APV),APV
+109,Ground Vehicles/Artillery,Light Armored Vehicles (APV),armoured car
+110,Ground Vehicles/Artillery,Self-Propelled Artillery,self-propelled gun chassis
+111,Ground Vehicles/Artillery,Self-Propelled Artillery,self-propelled AD system
+112,Ground Vehicles/Artillery,Self-Propelled Artillery,self-propelled gun
+113,Ground Vehicles/Artillery,Self-Propelled Artillery,self-propelled MRL
+114,Ground Vehicles/Artillery,Self-Propelled Artillery,self-propelled AA gun
+115,Ground Vehicles/Artillery,Self-Propelled Artillery,AA gun (Anti-Aircraft Gun)
+116,Ground Vehicles/Artillery,Self-Propelled Artillery,self-propelled mortar
+117,Ground Vehicles/Artillery,Self-Propelled Artillery,SPG turret
+118,Ground Vehicles/Artillery,Self-Propelled Artillery,self-propelled AA gun turret
+119,Ground Vehicles/Artillery,Engineering Vehicles,armoured bridgelayer
+120,Ground Vehicles/Artillery,Engineering Vehicles,AEV (Armored Engineering Vehicle)
+121,Ground Vehicles/Artillery,Engineering Vehicles,AEV
+122,Ground Vehicles/Artillery,Tank Components,tank turret
+123,Ground Vehicles/Artillery,Artillery,towed gun
+124,Ground Vehicles/Artillery,Artillery,mortar
+125,Ground Vehicles/Artillery,Artillery,coastal defence system
+126,Ground Vehicles/Artillery,Artillery,towed MRL
+127,Ground Vehicles/Artillery,Artillery,naval gun
+128,Ground Vehicles/Artillery,Artillery,anti-aircraft gun
+129,Ground Vehicles/Artillery,Artillery,ASW mortar
+130,Ground Vehicles/Artillery,Artillery,helicopter turret
+131,Ground Vehicles/Artillery,Artillery,anti-tank AV turret
+132,Ground Vehicles/Artillery,Artillery,APC turret
+133,Ground Vehicles/Artillery,Artillery,AA gun/SAM system
+134,Ground Vehicles/Artillery,Artillery,AA gun system
+135,Ground Vehicles/Artillery,Artillery,coastal defence gun
+136,Ground Vehicles/Artillery,Artillery,mortar turret
+137,Ground Vehicles/Artillery,Artillery,AA gun
+138,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),SAM
+139,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),portable SAM
+140,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),mobile SAM system
+141,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),naval SAM system
+142,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),SAM system
+143,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),SAM/ABM
+144,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),ABM missile
+145,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),ABM/SAM system
+146,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),ASM (Anti-Ship Missile)
+147,Missiles/Rockets/Bombs,Surface-to-Air Missiles (SAM),ABM system
+148,Missiles/Rockets/Bombs,Surface-to-Surface Missiles (SSM),SSM
+149,Missiles/Rockets/Bombs,Surface-to-Surface Missiles (SSM),SSM launcher
+150,Missiles/Rockets/Bombs,Surface-to-Surface Missiles (SSM),SSM TEL
+151,Missiles/Rockets/Bombs,Surface-to-Surface Missiles (SSM),SSM/ASM
+152,Missiles/Rockets/Bombs,Surface-to-Surface Missiles (SSM),SSM/anti-ship missile
+153,Missiles/Rockets/Bombs,Surface-to-Surface Missiles (SSM),anti-ship missile/SSM
+154,Missiles/Rockets/Bombs,Surface-to-Surface Missiles (SSM),land-attack missile
+155,Missiles/Rockets/Bombs,Air-to-Air Missiles (AAM),BVRAAM
+156,Missiles/Rockets/Bombs,Air-to-Air Missiles (AAM),SRAAM
+157,Missiles/Rockets/Bombs,Air-to-Air Missiles (AAM),BVRAAM/SAM
+158,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),anti-ship missile
+159,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),anti-ship missile/ASM
+160,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),anti-ship/ASW torpedo
+161,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),anti-ship torpedo
+162,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),SSM/anti-ship missile
+163,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),anti-ship/anti-radar missile
+164,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),naval mine/torpedo
+165,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),anti-ship missile/ASM/SAM
+166,Missiles/Rockets/Bombs,Anti-Ship Missiles (ASM),ASM
+167,Missiles/Rockets/Bombs,Anti-Radar Missiles,anti-radar missile
+168,Missiles/Rockets/Bombs,Anti-Radar Missiles,anti-radar missile/ASM
+169,Missiles/Rockets/Bombs,Anti-Tank Missiles,anti-tank missile
+170,Missiles/Rockets/Bombs,Anti-Tank Missiles,anti-tank missile/ASM
+171,Missiles/Rockets/Bombs,Guided Bombs and Rockets,guided bomb
+172,Missiles/Rockets/Bombs,Guided Bombs and Rockets,guided rocket
+173,Missiles/Rockets/Bombs,Guided Bombs and Rockets,guided glide bomb
+174,Missiles/Rockets/Bombs,Guided Bombs and Rockets,guided rocket/SSM
+175,Missiles/Rockets/Bombs,Guided Bombs and Rockets,guided rocket/ASM
+176,Missiles/Rockets/Bombs,Guided Bombs and Rockets,guided shell
+177,Missiles/Rockets/Bombs,Land-Attack Missiles,anti-ship/land-attack missile
+178,Missiles/Rockets/Bombs,Land-Attack Missiles,land-attack missile
+179,Missiles/Rockets/Bombs,Anti-Submarine Warfare (ASW) Weapons,ASW torpedo
+180,Missiles/Rockets/Bombs,Anti-Submarine Warfare (ASW) Weapons,ASW MRL
+181,Missiles/Rockets/Bombs,Anti-Submarine Warfare (ASW) Weapons,anti-ship/ASW torpedo
+182,Missiles/Rockets/Bombs,Anti-Submarine Warfare (ASW) Weapons,ASW missile
+183,Missiles/Rockets/Bombs,Anti-Submarine Warfare (ASW) Weapons,ASW rocket launcher
+184,Missiles/Rockets/Bombs,Naval Rocket Launchers,naval MRL
+185,Missiles/Rockets/Bombs,Ballistic Missiles,SLBM (Submarine-Launched Ballistic Missile)
+186,Missiles/Rockets/Bombs,Ballistic Missiles,SLBM
+187,Radar/Detection Systems,Air Search Radar,air search radar
+188,Radar/Detection Systems,Air Search Radar,AEW radar
+189,Radar/Detection Systems,Air Search Radar,air search system
+190,Radar/Detection Systems,Air Search Radar,air/sea search radar
+191,Radar/Detection Systems,Air Search Radar,air/ground surv radar
+192,Radar/Detection Systems,Sea Search Detection Systems,sea search radar
+193,Radar/Detection Systems,Sea Search Detection Systems,ground/sea search radar
+194,Radar/Detection Systems,Sea Search Detection Systems,ASW sonar
+195,Radar/Detection Systems,Sea Search Detection Systems,SONAR
+196,Radar/Detection Systems,Sea Search Detection Systems,submarine sonar
+197,Radar/Detection Systems,Sea Search Detection Systems,AGS/MP aircraft radar
+198,Radar/Detection Systems,Ground Surveillance Radar,ground surv radar
+199,Radar/Detection Systems,Ground Surveillance Radar,ground/sea search radar
+200,Radar/Detection Systems,Ground Surveillance Radar,air/ground surv radar
+201,Radar/Detection Systems,Ground Surveillance Radar,AGS/SIGINT system
+202,Radar/Detection Systems,Multi-function Radar,multi-function radar
+203,Radar/Detection Systems,Multi-function Radar,multi-role radar
+204,Radar/Detection Systems,Fire Control Radar,fire control radar
+205,Radar/Detection Systems,Fire Control Radar,SAM system radar
+206,Radar/Detection Systems,Fire Control Radar,AGS radar
+207,Radar/Detection Systems,Fire Control Radar,EO system
+208,Radar/Detection Systems,Fire Control Radar,EO search/fire control
+209,Radar/Detection Systems,Fire Control Radar,Naval EO system
+210,Radar/Detection Systems,Artillery/Weapon Locating Radar,artillery locating radar
+211,Radar/Detection Systems,Aircraft-Mounted Systems,MP aircraft radar
+212,Radar/Detection Systems,Aircraft-Mounted Systems,aircraft EO system
+213,Radar/Detection Systems,Aircraft-Mounted Systems,aircraft EO/radar system
+214,Radar/Detection Systems,Aircraft-Mounted Systems,combat aircraft radar
+215,Radar/Detection Systems,Aircraft-Mounted Systems,combat heli radar
+216,Radar/Detection Systems,Aircraft-Mounted Systems,aircraft recce system
+217,Radar/Detection Systems,Other Detection Systems,height-finding radar
+218,Radar/Detection Systems,Other Detection Systems,recce satellite
+219,Radar/Detection Systems,Other Detection Systems,surveillance satellite
+220,Specialized Equipment,Aircraft Engines,aircraft engine
+221,Specialized Equipment,Aircraft Engines,turbofan
+222,Specialized Equipment,Aircraft Engines,turbojet
+223,Specialized Equipment,Aircraft Engines,turboprop
+224,Specialized Equipment,Vehicle Engines,vehicle engine
+225,Specialized Equipment,Vehicle Engines,VEHICLE ENGINE
+226,Specialized Equipment,Vehicle Engines,gas turbine
+227,Specialized Equipment,Vehicle Engines,AIP engine
+228,Specialized Equipment,Vehicle Engines,nuclear reactor
+229,Specialized Equipment,Vehicle Engines,ship engine
+230,Specialized Equipment,Refueling and Logistics Systems,air refuel system
+231,Specialized Equipment,Refueling and Logistics Systems,AALS
+232,Specialized Equipment,Intelligence and Surveillance Systems,SIGINT system
+233,Specialized Equipment,Intelligence and Surveillance Systems,SIGINT aircraft
+234,Specialized Equipment,Intelligence and Surveillance Systems,maritime patrol aircraft
