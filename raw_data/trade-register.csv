@@ -1,14 +1,3 @@
-Transfers of major conventional arms from All countries  to All countries . Deals with deliveries or orders made for year range 'Not specified' to 'Not specified' 
-A '?' in a column indicates uncertain data. The 'Number delivered' and the 'Year(s) of deliveries' refer only to deliveries in the selected year(s).
-An empty field for 'Number ordered' indicates that data is not yet available.
-SIPRI trend-indicator values (TIVs) are in millions.
-An empty field for 'SIPRI TIV for total order' indicates that data (on the number ordered and/or the TIV per unit) is not available.
-A '0' for 'SIPRI TIV of delivered weapons' indicates that the volume of deliveries is between 0 and 0.5 million SIPRI TIV; and an empty field indicates that no deliveries have been identified.
-Figures may not add up to stated totals due to the conventions of rounding.
-For the method used for the SIPRI TIV and explanations of the conventions; abbreviations and acronyms see <https://www.sipri.org/databases/armstransfers/sources-and-methods>.
-
-Source: SIPRI Arms Transfers Database (c) SIPRI.
-Data generated: 21 Oct 2024 7:31:24 AM
 Recipient,Supplier,Year of order, ,Number ordered, ,Weapon designation,Weapon description,Number delivered, ,Year(s) of delivery,status,Comments,SIPRI TIV per unit,SIPRI TIV for total order,SIPRI TIV of delivered weapons
 Afghanistan,Brazil,2017,,6,,EMB-314 Super Tucano,trainer/combat aircraft,6,?,2018,New,A-29B version; financed by USA; ordered via USA from US production line,4.5,27,27
 Afghanistan,Russia,2004,,6,,aircraft engine,aircraft engine,6,,2005,New,Klimov TV-3-117 turboshaft; spare engines for Mi-24 combat helicopters,0.5,3,3
