@@ -63,7 +63,6 @@
 61,Afghanistan,AFG,2021,South Asia,Low income,,1.827933856217,,23040000000.0,Afghanistan
 62,Afghanistan,AFG,2022,South Asia,Low income,,,,,Afghanistan
 63,Afghanistan,AFG,2023,South Asia,Low income,,,,,Afghanistan
-64,Afghanistan,AFG,Long Name,South Asia,Low income,Islamic State of Afghanistan,Islamic State of Afghanistan,Islamic State of Afghanistan,Islamic State of Afghanistan,Afghanistan
 195,Albania,ALB,1960,Europe & Central Asia,Upper middle income,,,,,Albania
 196,Albania,ALB,1961,Europe & Central Asia,Upper middle income,,,,,Albania
 197,Albania,ALB,1962,Europe & Central Asia,Upper middle income,,,,,Albania
@@ -128,7 +127,6 @@
 256,Albania,ALB,2021,Europe & Central Asia,Upper middle income,,1.22084466120546,3.86773395918025,23072000000.0,Albania
 257,Albania,ALB,2022,Europe & Central Asia,Upper middle income,,1.58488092384586,5.11833191911175,32633000000.0,Albania
 258,Albania,ALB,2023,Europe & Central Asia,Upper middle income,,,,,Albania
-259,Albania,ALB,Long Name,Europe & Central Asia,Upper middle income,Republic of Albania,Republic of Albania,Republic of Albania,Republic of Albania,Albania
 260,Algeria,DZA,1960,Middle East & North Africa,Upper middle income,,,,,Algeria
 261,Algeria,DZA,1961,Middle East & North Africa,Upper middle income,,,,,Algeria
 262,Algeria,DZA,1962,Middle East & North Africa,Upper middle income,,,,,Algeria
@@ -193,7 +191,6 @@
 321,Algeria,DZA,2021,Middle East & North Africa,Upper middle income,,5.585446667751659,16.557461458469998,1230000000000.0,Algeria
 322,Algeria,DZA,2022,Middle East & North Africa,Upper middle income,,4.77943828648395,13.2994422623129,1300000000000.0,Algeria
 323,Algeria,DZA,2023,Middle East & North Africa,Upper middle income,,,,,Algeria
-324,Algeria,DZA,Long Name,Middle East & North Africa,Upper middle income,People's Democratic Republic of Algeria,People's Democratic Republic of Algeria,People's Democratic Republic of Algeria,People's Democratic Republic of Algeria,Algeria
 325,American Samoa,ASM,1960,East Asia & Pacific,High income,,,,,American Samoa
 326,American Samoa,ASM,1961,East Asia & Pacific,High income,,,,,American Samoa
 327,American Samoa,ASM,1962,East Asia & Pacific,High income,,,,,American Samoa
@@ -258,7 +255,6 @@
 386,American Samoa,ASM,2021,East Asia & Pacific,High income,,,,,American Samoa
 387,American Samoa,ASM,2022,East Asia & Pacific,High income,,,,,American Samoa
 388,American Samoa,ASM,2023,East Asia & Pacific,High income,,,,,American Samoa
-389,American Samoa,ASM,Long Name,East Asia & Pacific,High income,American Samoa,American Samoa,American Samoa,American Samoa,American Samoa
 390,Andorra,AND,1960,Europe & Central Asia,High income,,,,,Andorra
 391,Andorra,AND,1961,Europe & Central Asia,High income,,,,,Andorra
 392,Andorra,AND,1962,Europe & Central Asia,High income,,,,,Andorra
@@ -323,7 +319,6 @@
 451,Andorra,AND,2021,Europe & Central Asia,High income,,,,,Andorra
 452,Andorra,AND,2022,Europe & Central Asia,High income,,,,,Andorra
 453,Andorra,AND,2023,Europe & Central Asia,High income,,,,,Andorra
-454,Andorra,AND,Long Name,Europe & Central Asia,High income,Principality of Andorra,Principality of Andorra,Principality of Andorra,Principality of Andorra,Andorra
 455,Angola,AGO,1960,Sub-Saharan Africa,Lower middle income,,,,,Angola
 456,Angola,AGO,1961,Sub-Saharan Africa,Lower middle income,,,,,Angola
 457,Angola,AGO,1962,Sub-Saharan Africa,Lower middle income,,,,,Angola
@@ -388,7 +383,6 @@
 516,Angola,AGO,2021,Sub-Saharan Africa,Lower middle income,,1.28992265308256,6.77614336703989,614988000000.0,Angola
 517,Angola,AGO,2022,Sub-Saharan Africa,Lower middle income,,1.32872232786494,6.89899541403726,747658000000.0,Angola
 518,Angola,AGO,2023,Sub-Saharan Africa,Lower middle income,,,,,Angola
-519,Angola,AGO,Long Name,Sub-Saharan Africa,Lower middle income,People's Republic of Angola,People's Republic of Angola,People's Republic of Angola,People's Republic of Angola,Angola
 520,Antigua and Barbuda,ATG,1960,Latin America & Caribbean,High income,,,,,Antigua and Barbuda
 521,Antigua and Barbuda,ATG,1961,Latin America & Caribbean,High income,,,,,Antigua and Barbuda
 522,Antigua and Barbuda,ATG,1962,Latin America & Caribbean,High income,,,,,Antigua and Barbuda
@@ -453,7 +447,6 @@
 581,Antigua and Barbuda,ATG,2021,Latin America & Caribbean,High income,,,,,Antigua and Barbuda
 582,Antigua and Barbuda,ATG,2022,Latin America & Caribbean,High income,,,,,Antigua and Barbuda
 583,Antigua and Barbuda,ATG,2023,Latin America & Caribbean,High income,,,,,Antigua and Barbuda
-584,Antigua and Barbuda,ATG,Long Name,Latin America & Caribbean,High income,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda
 650,Argentina,ARG,1960,Latin America & Caribbean,Upper middle income,,1.55,,0.00155,Argentina
 651,Argentina,ARG,1961,Latin America & Caribbean,Upper middle income,,2.1399999999999997,,0.00214,Argentina
 652,Argentina,ARG,1962,Latin America & Caribbean,Upper middle income,6000000.0,2.6599999999999997,,0.00266,Argentina
@@ -518,7 +511,6 @@
 711,Argentina,ARG,2021,Latin America & Caribbean,Upper middle income,,0.630928835372215,1.65014171669906,292006900000.0,Argentina
 712,Argentina,ARG,2022,Latin America & Caribbean,Upper middle income,,0.411211298762518,1.25834190254311,336188400000.0,Argentina
 713,Argentina,ARG,2023,Latin America & Caribbean,Upper middle income,,,,,Argentina
-714,Argentina,ARG,Long Name,Latin America & Caribbean,Upper middle income,Argentine Republic,Argentine Republic,Argentine Republic,Argentine Republic,Argentina
 715,Armenia,ARM,1960,Europe & Central Asia,Upper middle income,,,,,Armenia
 716,Armenia,ARM,1961,Europe & Central Asia,Upper middle income,,,,,Armenia
 717,Armenia,ARM,1962,Europe & Central Asia,Upper middle income,,,,,Armenia
@@ -583,7 +575,6 @@
 776,Armenia,ARM,2021,Europe & Central Asia,Upper middle income,,4.47078156298276,15.5761534819371,312193000000.0,Armenia
 777,Armenia,ARM,2022,Europe & Central Asia,Upper middle income,,4.3171066723051705,15.9978147518084,347007000000.0,Armenia
 778,Armenia,ARM,2023,Europe & Central Asia,Upper middle income,,,,,Armenia
-779,Armenia,ARM,Long Name,Europe & Central Asia,Upper middle income,Republic of Armenia,Republic of Armenia,Republic of Armenia,Republic of Armenia,Armenia
 780,Aruba,ABW,1960,Latin America & Caribbean,High income,,,,,Aruba
 781,Aruba,ABW,1961,Latin America & Caribbean,High income,,,,,Aruba
 782,Aruba,ABW,1962,Latin America & Caribbean,High income,,,,,Aruba
@@ -648,7 +639,6 @@
 841,Aruba,ABW,2021,Latin America & Caribbean,High income,,,,,Aruba
 842,Aruba,ABW,2022,Latin America & Caribbean,High income,,,,,Aruba
 843,Aruba,ABW,2023,Latin America & Caribbean,High income,,,,,Aruba
-844,Aruba,ABW,Long Name,Latin America & Caribbean,High income,Aruba,Aruba,Aruba,Aruba,Aruba
 845,Australia,AUS,1960,East Asia & Pacific,High income,,2.3695451396906,,410500000.0,Australia
 846,Australia,AUS,1961,East Asia & Pacific,High income,2000000.0,2.41513985411521,,420500000.0,Australia
 847,Australia,AUS,1962,East Asia & Pacific,High income,4000000.0,2.3636953699697103,,437000000.0,Australia
@@ -713,7 +703,6 @@
 906,Australia,AUS,2021,East Asia & Pacific,High income,188000000.0,1.98912270035816,4.6826979487895795,43580465000.0,Australia
 907,Australia,AUS,2022,East Asia & Pacific,High income,33000000.0,1.89882434777792,5.01507424572227,46563510000.0,Australia
 908,Australia,AUS,2023,East Asia & Pacific,High income,,,,,Australia
-909,Australia,AUS,Long Name,East Asia & Pacific,High income,Commonwealth of Australia,Commonwealth of Australia,Commonwealth of Australia,Commonwealth of Australia,Australia
 910,Austria,AUT,1960,Europe & Central Asia,High income,,1.4581856994971,,173000000.0,Austria
 911,Austria,AUT,1961,Europe & Central Asia,High income,,1.30933752302764,,172000000.0,Austria
 912,Austria,AUT,1962,Europe & Central Asia,High income,,1.35207185896469,,189000000.0,Austria
@@ -778,7 +767,6 @@
 971,Austria,AUT,2021,Europe & Central Asia,High income,23000000.0,0.8736948467663329,1.5820823654773002,3548500000.0,Austria
 972,Austria,AUT,2022,Europe & Central Asia,High income,14000000.0,0.772607157386914,1.51814498370475,3447100000.0,Austria
 973,Austria,AUT,2023,Europe & Central Asia,High income,,,,,Austria
-974,Austria,AUT,Long Name,Europe & Central Asia,High income,Republic of Austria,Republic of Austria,Republic of Austria,Republic of Austria,Austria
 975,Azerbaijan,AZE,1960,Europe & Central Asia,Upper middle income,,,,,Azerbaijan
 976,Azerbaijan,AZE,1961,Europe & Central Asia,Upper middle income,,,,,Azerbaijan
 977,Azerbaijan,AZE,1962,Europe & Central Asia,Upper middle income,,,,,Azerbaijan
@@ -843,7 +831,6 @@
 1036,Azerbaijan,AZE,2021,Europe & Central Asia,Upper middle income,,5.270059006284971,15.3831218826365,4595400000.0,Azerbaijan
 1037,Azerbaijan,AZE,2022,Europe & Central Asia,Upper middle income,,4.54596853675007,14.9240116227877,5084760000.0,Azerbaijan
 1038,Azerbaijan,AZE,2023,Europe & Central Asia,Upper middle income,,,,,Azerbaijan
-1039,Azerbaijan,AZE,Long Name,Europe & Central Asia,Upper middle income,Republic of Azerbaijan,Republic of Azerbaijan,Republic of Azerbaijan,Republic of Azerbaijan,Azerbaijan
 1040,"Bahamas, The",BHS,1960,Latin America & Caribbean,High income,,,,,"Bahamas, The"
 1041,"Bahamas, The",BHS,1961,Latin America & Caribbean,High income,,,,,"Bahamas, The"
 1042,"Bahamas, The",BHS,1962,Latin America & Caribbean,High income,,,,,"Bahamas, The"
@@ -908,7 +895,6 @@
 1101,"Bahamas, The",BHS,2021,Latin America & Caribbean,High income,,,,,"Bahamas, The"
 1102,"Bahamas, The",BHS,2022,Latin America & Caribbean,High income,,,,,"Bahamas, The"
 1103,"Bahamas, The",BHS,2023,Latin America & Caribbean,High income,,,,,"Bahamas, The"
-1104,"Bahamas, The",BHS,Long Name,Latin America & Caribbean,High income,Commonwealth of The Bahamas,Commonwealth of The Bahamas,Commonwealth of The Bahamas,Commonwealth of The Bahamas,"Bahamas, The"
 1105,Bahrain,BHR,1960,Middle East & North Africa,High income,,,,,Bahrain
 1106,Bahrain,BHR,1961,Middle East & North Africa,High income,,,,,Bahrain
 1107,Bahrain,BHR,1962,Middle East & North Africa,High income,,,,,Bahrain
@@ -973,7 +959,6 @@
 1166,Bahrain,BHR,2021,Middle East & North Africa,High income,,3.55388299692097,11.0935497650577,519400000.0,Bahrain
 1167,Bahrain,BHR,2022,Middle East & North Africa,High income,,3.17213705490747,10.8045350530476,519374000.0,Bahrain
 1168,Bahrain,BHR,2023,Middle East & North Africa,High income,,,,,Bahrain
-1169,Bahrain,BHR,Long Name,Middle East & North Africa,High income,Kingdom of Bahrain,Kingdom of Bahrain,Kingdom of Bahrain,Kingdom of Bahrain,Bahrain
 1170,Bangladesh,BGD,1960,South Asia,Lower middle income,,,,,Bangladesh
 1171,Bangladesh,BGD,1961,South Asia,Lower middle income,,,,,Bangladesh
 1172,Bangladesh,BGD,1962,South Asia,Lower middle income,,,,,Bangladesh
@@ -1038,7 +1023,6 @@
 1231,Bangladesh,BGD,2021,South Asia,Lower middle income,,1.19664698573287,9.22822259310393,422438500000.0,Bangladesh
 1232,Bangladesh,BGD,2022,South Asia,Lower middle income,,1.1288201054868698,7.70210538959145,448871000000.0,Bangladesh
 1233,Bangladesh,BGD,2023,South Asia,Lower middle income,,,,,Bangladesh
-1234,Bangladesh,BGD,Long Name,South Asia,Lower middle income,People's Republic of Bangladesh,People's Republic of Bangladesh,People's Republic of Bangladesh,People's Republic of Bangladesh,Bangladesh
 1235,Barbados,BRB,1960,Latin America & Caribbean,High income,,,,,Barbados
 1236,Barbados,BRB,1961,Latin America & Caribbean,High income,,,,,Barbados
 1237,Barbados,BRB,1962,Latin America & Caribbean,High income,,,,,Barbados
@@ -1103,7 +1087,6 @@
 1296,Barbados,BRB,2021,Latin America & Caribbean,High income,,,,,Barbados
 1297,Barbados,BRB,2022,Latin America & Caribbean,High income,,,,,Barbados
 1298,Barbados,BRB,2023,Latin America & Caribbean,High income,,,,,Barbados
-1299,Barbados,BRB,Long Name,Latin America & Caribbean,High income,Barbados,Barbados,Barbados,Barbados,Barbados
 1300,Belarus,BLR,1960,Europe & Central Asia,Upper middle income,,,,,Belarus
 1301,Belarus,BLR,1961,Europe & Central Asia,Upper middle income,,,,,Belarus
 1302,Belarus,BLR,1962,Europe & Central Asia,Upper middle income,,,,,Belarus
@@ -1168,7 +1151,6 @@
 1361,Belarus,BLR,2021,Europe & Central Asia,Upper middle income,98000000.0,1.11835004010897,30.1742084268262,19364600000.0,Belarus
 1362,Belarus,BLR,2022,Europe & Central Asia,Upper middle income,57000000.0,1.20328256808078,32.116170061127704,23432600000.0,Belarus
 1363,Belarus,BLR,2023,Europe & Central Asia,Upper middle income,,,,,Belarus
-1364,Belarus,BLR,Long Name,Europe & Central Asia,Upper middle income,Republic of Belarus,Republic of Belarus,Republic of Belarus,Republic of Belarus,Belarus
 1365,Belgium,BEL,1960,Europe & Central Asia,High income,3000000.0,3.39734786713587,,474990000.0,Belgium
 1366,Belgium,BEL,1961,Europe & Central Asia,High income,0.0,3.2590700737972695,,484904000.0,Belgium
 1367,Belgium,BEL,1962,Europe & Central Asia,High income,2000000.0,3.28475216700874,,523330000.0,Belgium
@@ -1233,7 +1215,6 @@
 1426,Belgium,BEL,2021,Europe & Central Asia,High income,92000000.0,1.05034404939086,1.87510439952945,5276000000.0,Belgium
 1427,Belgium,BEL,2022,Europe & Central Asia,High income,121000000.0,1.17973708133594,2.22953753060535,6529000000.0,Belgium
 1428,Belgium,BEL,2023,Europe & Central Asia,High income,,,,,Belgium
-1429,Belgium,BEL,Long Name,Europe & Central Asia,High income,Kingdom of Belgium,Kingdom of Belgium,Kingdom of Belgium,Kingdom of Belgium,Belgium
 1430,Belize,BLZ,1960,Latin America & Caribbean,Upper middle income,,,,,Belize
 1431,Belize,BLZ,1961,Latin America & Caribbean,Upper middle income,,,,,Belize
 1432,Belize,BLZ,1962,Latin America & Caribbean,Upper middle income,,,,,Belize
@@ -1298,7 +1279,6 @@
 1491,Belize,BLZ,2021,Latin America & Caribbean,Upper middle income,,1.00947819584936,4.070048543689319,50305800.0,Belize
 1492,Belize,BLZ,2022,Latin America & Caribbean,Upper middle income,,0.861167113650318,3.57067119155354,47347100.0,Belize
 1493,Belize,BLZ,2023,Latin America & Caribbean,Upper middle income,,,,,Belize
-1494,Belize,BLZ,Long Name,Latin America & Caribbean,Upper middle income,Belize,Belize,Belize,Belize,Belize
 1495,Benin,BEN,1960,Sub-Saharan Africa,Lower middle income,,0.8715846994535519,,319000000.0,Benin
 1496,Benin,BEN,1961,Sub-Saharan Africa,Lower middle income,,1.39528795811518,,533000000.0,Benin
 1497,Benin,BEN,1962,Sub-Saharan Africa,Lower middle income,,1.7516339869281,,670000000.0,Benin
@@ -1363,7 +1343,6 @@
 1556,Benin,BEN,2021,Sub-Saharan Africa,Lower middle income,,0.5508836488062431,2.77454320668191,54040000000.0,Benin
 1557,Benin,BEN,2022,Sub-Saharan Africa,Lower middle income,,0.557461260604776,3.03155498113343,60610000000.0,Benin
 1558,Benin,BEN,2023,Sub-Saharan Africa,Lower middle income,,,,,Benin
-1559,Benin,BEN,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Benin,Republic of Benin,Republic of Benin,Republic of Benin,Benin
 1560,Bermuda,BMU,1960,North America,High income,,,,,Bermuda
 1561,Bermuda,BMU,1961,North America,High income,,,,,Bermuda
 1562,Bermuda,BMU,1962,North America,High income,,,,,Bermuda
@@ -1428,7 +1407,6 @@
 1621,Bermuda,BMU,2021,North America,High income,,,,,Bermuda
 1622,Bermuda,BMU,2022,North America,High income,,,,,Bermuda
 1623,Bermuda,BMU,2023,North America,High income,,,,,Bermuda
-1624,Bermuda,BMU,Long Name,North America,High income,The Bermudas,The Bermudas,The Bermudas,The Bermudas,Bermuda
 1625,Bhutan,BTN,1960,South Asia,Lower middle income,,,,,Bhutan
 1626,Bhutan,BTN,1961,South Asia,Lower middle income,,,,,Bhutan
 1627,Bhutan,BTN,1962,South Asia,Lower middle income,,,,,Bhutan
@@ -1493,7 +1471,6 @@
 1686,Bhutan,BTN,2021,South Asia,Lower middle income,,,,,Bhutan
 1687,Bhutan,BTN,2022,South Asia,Lower middle income,,,,,Bhutan
 1688,Bhutan,BTN,2023,South Asia,Lower middle income,,,,,Bhutan
-1689,Bhutan,BTN,Long Name,South Asia,Lower middle income,Kingdom of Bhutan,Kingdom of Bhutan,Kingdom of Bhutan,Kingdom of Bhutan,Bhutan
 1690,Bolivia,BOL,1960,Latin America & Caribbean,Lower middle income,,,,,Bolivia
 1691,Bolivia,BOL,1961,Latin America & Caribbean,Lower middle income,,1.20346398630851,,58.6327654129508,Bolivia
 1692,Bolivia,BOL,1962,Latin America & Caribbean,Lower middle income,,1.15869999293218,,61.7239486234975,Bolivia
@@ -1558,7 +1535,6 @@
 1751,Bolivia,BOL,2021,Latin America & Caribbean,Lower middle income,,1.41111958813376,4.0128565542918295,3934003923.0,Bolivia
 1752,Bolivia,BOL,2022,Latin America & Caribbean,Lower middle income,,1.48373193294262,3.93701552980635,4413670000.0,Bolivia
 1753,Bolivia,BOL,2023,Latin America & Caribbean,Lower middle income,,,,,Bolivia
-1754,Bolivia,BOL,Long Name,Latin America & Caribbean,Lower middle income,Plurinational State of Bolivia,Plurinational State of Bolivia,Plurinational State of Bolivia,Plurinational State of Bolivia,Bolivia
 1755,Bosnia and Herzegovina,BIH,1960,Europe & Central Asia,Upper middle income,,,,,Bosnia and Herzegovina
 1756,Bosnia and Herzegovina,BIH,1961,Europe & Central Asia,Upper middle income,,,,,Bosnia and Herzegovina
 1757,Bosnia and Herzegovina,BIH,1962,Europe & Central Asia,Upper middle income,,,,,Bosnia and Herzegovina
@@ -1623,7 +1599,6 @@
 1816,Bosnia and Herzegovina,BIH,2021,Europe & Central Asia,Upper middle income,,0.929365426321555,2.1737059781927597,346880000.0,Bosnia and Herzegovina
 1817,Bosnia and Herzegovina,BIH,2022,Europe & Central Asia,Upper middle income,,0.8104422401908911,2.00340457836954,343063000.0,Bosnia and Herzegovina
 1818,Bosnia and Herzegovina,BIH,2023,Europe & Central Asia,Upper middle income,,,,,Bosnia and Herzegovina
-1819,Bosnia and Herzegovina,BIH,Long Name,Europe & Central Asia,Upper middle income,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina
 1820,Botswana,BWA,1960,Sub-Saharan Africa,Upper middle income,,,,,Botswana
 1821,Botswana,BWA,1961,Sub-Saharan Africa,Upper middle income,,,,,Botswana
 1822,Botswana,BWA,1962,Sub-Saharan Africa,Upper middle income,,,,,Botswana
@@ -1688,7 +1663,6 @@
 1881,Botswana,BWA,2021,Sub-Saharan Africa,Upper middle income,,3.0455693242641897,8.25241601037289,5948011363.63636,Botswana
 1882,Botswana,BWA,2022,Sub-Saharan Africa,Upper middle income,,2.74395956341177,8.07238404675491,6049767500.0,Botswana
 1883,Botswana,BWA,2023,Sub-Saharan Africa,Upper middle income,,,,,Botswana
-1884,Botswana,BWA,Long Name,Sub-Saharan Africa,Upper middle income,Republic of Botswana,Republic of Botswana,Republic of Botswana,Republic of Botswana,Botswana
 1885,Brazil,BRA,1960,Latin America & Caribbean,Upper middle income,2000000.0,2.67913472590723,,3.1e-05,Brazil
 1886,Brazil,BRA,1961,Latin America & Caribbean,Upper middle income,12000000.0,2.36406619385343,,4e-05,Brazil
 1887,Brazil,BRA,1962,Latin America & Caribbean,Upper middle income,,2.39868330737835,,6.5e-05,Brazil
@@ -1753,7 +1727,6 @@
 1946,Brazil,BRA,2021,Latin America & Caribbean,Upper middle income,84000000.0,1.16368211072875,3.31972886380933,103552900000.0,Brazil
 1947,Brazil,BRA,2022,Latin America & Caribbean,Upper middle income,6000000.0,1.05342201124086,2.86525534147382,104367900000.0,Brazil
 1948,Brazil,BRA,2023,Latin America & Caribbean,Upper middle income,,,,,Brazil
-1949,Brazil,BRA,Long Name,Latin America & Caribbean,Upper middle income,Federative Republic of Brazil,Federative Republic of Brazil,Federative Republic of Brazil,Federative Republic of Brazil,Brazil
 1950,British Virgin Islands,VGB,1960,Latin America & Caribbean,High income,,,,,British Virgin Islands
 1951,British Virgin Islands,VGB,1961,Latin America & Caribbean,High income,,,,,British Virgin Islands
 1952,British Virgin Islands,VGB,1962,Latin America & Caribbean,High income,,,,,British Virgin Islands
@@ -1818,7 +1791,6 @@
 2011,British Virgin Islands,VGB,2021,Latin America & Caribbean,High income,,,,,British Virgin Islands
 2012,British Virgin Islands,VGB,2022,Latin America & Caribbean,High income,,,,,British Virgin Islands
 2013,British Virgin Islands,VGB,2023,Latin America & Caribbean,High income,,,,,British Virgin Islands
-2014,British Virgin Islands,VGB,Long Name,Latin America & Caribbean,High income,British Virgin Islands,British Virgin Islands,British Virgin Islands,British Virgin Islands,British Virgin Islands
 2015,Brunei Darussalam,BRN,1960,East Asia & Pacific,High income,,,,,Brunei Darussalam
 2016,Brunei Darussalam,BRN,1961,East Asia & Pacific,High income,,,,,Brunei Darussalam
 2017,Brunei Darussalam,BRN,1962,East Asia & Pacific,High income,,,,,Brunei Darussalam
@@ -1883,7 +1855,6 @@
 2076,Brunei Darussalam,BRN,2021,East Asia & Pacific,High income,,3.2363674820972204,10.1677516274412,609150000.0,Brunei Darussalam
 2077,Brunei Darussalam,BRN,2022,East Asia & Pacific,High income,,2.3696474066313,9.15752171925011,600825000.0,Brunei Darussalam
 2078,Brunei Darussalam,BRN,2023,East Asia & Pacific,High income,,,,,Brunei Darussalam
-2079,Brunei Darussalam,BRN,Long Name,East Asia & Pacific,High income,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam
 2080,Bulgaria,BGR,1960,Europe & Central Asia,High income,,,,,Bulgaria
 2081,Bulgaria,BGR,1961,Europe & Central Asia,High income,,,,,Bulgaria
 2082,Bulgaria,BGR,1962,Europe & Central Asia,High income,,,,,Bulgaria
@@ -1948,7 +1919,6 @@
 2141,Bulgaria,BGR,2021,Europe & Central Asia,High income,7000000.0,1.51713160983634,3.9306681576740297,2109000000.0,Bulgaria
 2142,Bulgaria,BGR,2022,Europe & Central Asia,High income,18000000.0,1.50812345474607,4.05997712044452,2484300000.0,Bulgaria
 2143,Bulgaria,BGR,2023,Europe & Central Asia,High income,,,,,Bulgaria
-2144,Bulgaria,BGR,Long Name,Europe & Central Asia,High income,Republic of Bulgaria,Republic of Bulgaria,Republic of Bulgaria,Republic of Bulgaria,Bulgaria
 2145,Burkina Faso,BFA,1960,Sub-Saharan Africa,Low income,,0.682017543859649,,311000000.0,Burkina Faso
 2146,Burkina Faso,BFA,1961,Sub-Saharan Africa,Low income,,0.834368530020704,,403000000.0,Burkina Faso
 2147,Burkina Faso,BFA,1962,Sub-Saharan Africa,Low income,,2.345703125,,1201000000.0,Burkina Faso
@@ -2013,7 +1983,6 @@
 2206,Burkina Faso,BFA,2021,Sub-Saharan Africa,Low income,,2.40194309061394,9.77703298601028,254201000000.0,Burkina Faso
 2207,Burkina Faso,BFA,2022,Sub-Saharan Africa,Low income,,3.09476704494336,12.4257577394159,350865500000.0,Burkina Faso
 2208,Burkina Faso,BFA,2023,Sub-Saharan Africa,Low income,,,,,Burkina Faso
-2209,Burkina Faso,BFA,Long Name,Sub-Saharan Africa,Low income,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso
 2210,Burundi,BDI,1960,Sub-Saharan Africa,Low income,,,,,Burundi
 2211,Burundi,BDI,1961,Sub-Saharan Africa,Low income,,,,,Burundi
 2212,Burundi,BDI,1962,Sub-Saharan Africa,Low income,,3.9437939110070297,,421000000.0,Burundi
@@ -2078,7 +2047,6 @@
 2271,Burundi,BDI,2021,Sub-Saharan Africa,Low income,,2.04300976329884,7.46866450217288,135100000000.0,Burundi
 2272,Burundi,BDI,2022,Sub-Saharan Africa,Low income,,2.76041457754835,7.21666226974077,207077000000.0,Burundi
 2273,Burundi,BDI,2023,Sub-Saharan Africa,Low income,,,,,Burundi
-2274,Burundi,BDI,Long Name,Sub-Saharan Africa,Low income,Republic of Burundi,Republic of Burundi,Republic of Burundi,Republic of Burundi,Burundi
 2275,Cabo Verde,CPV,1960,Sub-Saharan Africa,Lower middle income,,,,,Cabo Verde
 2276,Cabo Verde,CPV,1961,Sub-Saharan Africa,Lower middle income,,,,,Cabo Verde
 2277,Cabo Verde,CPV,1962,Sub-Saharan Africa,Lower middle income,,,,,Cabo Verde
@@ -2143,7 +2111,6 @@
 2336,Cabo Verde,CPV,2021,Sub-Saharan Africa,Lower middle income,,0.579317677142293,1.76191358856835,1045590000.0,Cabo Verde
 2337,Cabo Verde,CPV,2022,Sub-Saharan Africa,Lower middle income,,0.5480762818420579,1.5663897269957898,1074653000.0,Cabo Verde
 2338,Cabo Verde,CPV,2023,Sub-Saharan Africa,Lower middle income,,,,,Cabo Verde
-2339,Cabo Verde,CPV,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Cabo Verde,Republic of Cabo Verde,Republic of Cabo Verde,Republic of Cabo Verde,Cabo Verde
 2340,Cambodia,KHM,1960,East Asia & Pacific,Lower middle income,,,,,Cambodia
 2341,Cambodia,KHM,1961,East Asia & Pacific,Lower middle income,,,,,Cambodia
 2342,Cambodia,KHM,1962,East Asia & Pacific,Lower middle income,,,,,Cambodia
@@ -2208,7 +2175,6 @@
 2401,Cambodia,KHM,2021,East Asia & Pacific,Lower middle income,,2.34734246417442,8.12953882617558,2565900000000.0,Cambodia
 2402,Cambodia,KHM,2022,East Asia & Pacific,Lower middle income,,2.09964232456006,7.6649039719340895,2498200000000.0,Cambodia
 2403,Cambodia,KHM,2023,East Asia & Pacific,Lower middle income,,,,,Cambodia
-2404,Cambodia,KHM,Long Name,East Asia & Pacific,Lower middle income,Kingdom of Cambodia,Kingdom of Cambodia,Kingdom of Cambodia,Kingdom of Cambodia,Cambodia
 2405,Cameroon,CMR,1960,Sub-Saharan Africa,Lower middle income,,,,,Cameroon
 2406,Cameroon,CMR,1961,Sub-Saharan Africa,Lower middle income,,,,,Cameroon
 2407,Cameroon,CMR,1962,Sub-Saharan Africa,Lower middle income,,,,,Cameroon
@@ -2273,7 +2239,6 @@
 2466,Cameroon,CMR,2021,Sub-Saharan Africa,Lower middle income,,0.978117031343036,5.7975938074881,245913000000.0,Cameroon
 2467,Cameroon,CMR,2022,Sub-Saharan Africa,Lower middle income,,0.94915422763619,5.57496522136888,259844000000.0,Cameroon
 2468,Cameroon,CMR,2023,Sub-Saharan Africa,Lower middle income,,,,,Cameroon
-2469,Cameroon,CMR,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Cameroon,Republic of Cameroon,Republic of Cameroon,Republic of Cameroon,Cameroon
 2470,Canada,CAN,1960,North America,High income,67000000.0,4.18525654025553,,1651000000.0,Canada
 2471,Canada,CAN,1961,North America,High income,300000000.0,4.1283122434605195,,1699750000.0,Canada
 2472,Canada,CAN,1962,North America,High income,188000000.0,3.99921638867122,,1786250000.0,Canada
@@ -2338,7 +2303,6 @@
 2531,Canada,CAN,2021,North America,High income,118000000.0,1.26729446473527,2.78680056709947,31804250000.0,Canada
 2532,Canada,CAN,2022,North America,High income,171000000.0,1.23665591258666,2.87769133568517,35003000000.0,Canada
 2533,Canada,CAN,2023,North America,High income,,,,,Canada
-2534,Canada,CAN,Long Name,North America,High income,Canada,Canada,Canada,Canada,Canada
 2600,Cayman Islands,CYM,1960,Latin America & Caribbean,High income,,,,,Cayman Islands
 2601,Cayman Islands,CYM,1961,Latin America & Caribbean,High income,,,,,Cayman Islands
 2602,Cayman Islands,CYM,1962,Latin America & Caribbean,High income,,,,,Cayman Islands
@@ -2403,7 +2367,6 @@
 2661,Cayman Islands,CYM,2021,Latin America & Caribbean,High income,,,,,Cayman Islands
 2662,Cayman Islands,CYM,2022,Latin America & Caribbean,High income,,,,,Cayman Islands
 2663,Cayman Islands,CYM,2023,Latin America & Caribbean,High income,,,,,Cayman Islands
-2664,Cayman Islands,CYM,Long Name,Latin America & Caribbean,High income,Cayman Islands,Cayman Islands,Cayman Islands,Cayman Islands,Cayman Islands
 2665,Central African Republic,CAF,1960,Sub-Saharan Africa,Low income,,,,,Central African Republic
 2666,Central African Republic,CAF,1961,Sub-Saharan Africa,Low income,,,,,Central African Republic
 2667,Central African Republic,CAF,1962,Sub-Saharan Africa,Low income,,,,,Central African Republic
@@ -2468,7 +2431,6 @@
 2726,Central African Republic,CAF,2021,Sub-Saharan Africa,Low income,,2.15034556057488,10.9237127299172,30793400000.0,Central African Republic
 2727,Central African Republic,CAF,2022,Sub-Saharan Africa,Low income,,1.69643629147357,8.95553208001286,26195200000.0,Central African Republic
 2728,Central African Republic,CAF,2023,Sub-Saharan Africa,Low income,,,,,Central African Republic
-2729,Central African Republic,CAF,Long Name,Sub-Saharan Africa,Low income,Central African Republic,Central African Republic,Central African Republic,Central African Republic,Central African Republic
 2795,Chad,TCD,1960,Sub-Saharan Africa,Low income,,,,,Chad
 2796,Chad,TCD,1961,Sub-Saharan Africa,Low income,,,,,Chad
 2797,Chad,TCD,1962,Sub-Saharan Africa,Low income,,,,,Chad
@@ -2533,7 +2495,6 @@
 2856,Chad,TCD,2021,Sub-Saharan Africa,Low income,,2.80826952779774,16.4363400675179,183600000000.0,Chad
 2857,Chad,TCD,2022,Sub-Saharan Africa,Low income,,2.92548684152958,17.5211330489916,222900000000.0,Chad
 2858,Chad,TCD,2023,Sub-Saharan Africa,Low income,,,,,Chad
-2859,Chad,TCD,Long Name,Sub-Saharan Africa,Low income,Republic of Chad,Republic of Chad,Republic of Chad,Republic of Chad,Chad
 2860,Channel Islands,CHI,1960,Europe & Central Asia,High income,,,,,Channel Islands
 2861,Channel Islands,CHI,1961,Europe & Central Asia,High income,,,,,Channel Islands
 2862,Channel Islands,CHI,1962,Europe & Central Asia,High income,,,,,Channel Islands
@@ -2598,7 +2559,6 @@
 2921,Channel Islands,CHI,2021,Europe & Central Asia,High income,,,,,Channel Islands
 2922,Channel Islands,CHI,2022,Europe & Central Asia,High income,,,,,Channel Islands
 2923,Channel Islands,CHI,2023,Europe & Central Asia,High income,,,,,Channel Islands
-2924,Channel Islands,CHI,Long Name,Europe & Central Asia,High income,Channel Islands,Channel Islands,Channel Islands,Channel Islands,Channel Islands
 2925,Chile,CHL,1960,Latin America & Caribbean,High income,,3.11840562719812,,133000.0,Chile
 2926,Chile,CHL,1961,Latin America & Caribbean,High income,,3.5274472970152395,,169000.0,Chile
 2927,Chile,CHL,1962,Latin America & Caribbean,High income,,3.04370907803929,,172000.0,Chile
@@ -2663,7 +2623,6 @@
 2986,Chile,CHL,2021,Latin America & Caribbean,High income,,1.93228691717414,5.78506065018789,4649725142406.57,Chile
 2987,Chile,CHL,2022,Latin America & Caribbean,High income,,1.8339814713597,7.01302319982213,4867843195739.9,Chile
 2988,Chile,CHL,2023,Latin America & Caribbean,High income,,,,,Chile
-2989,Chile,CHL,Long Name,Latin America & Caribbean,High income,Republic of Chile,Republic of Chile,Republic of Chile,Republic of Chile,Chile
 2990,China,CHN,1960,East Asia & Pacific,Upper middle income,285000000.0,,,,China
 2991,China,CHN,1961,East Asia & Pacific,Upper middle income,35000000.0,,,,China
 2992,China,CHN,1962,East Asia & Pacific,Upper middle income,47000000.0,,,,China
@@ -2728,7 +2687,6 @@
 3051,China,CHN,2021,East Asia & Pacific,Upper middle income,1462000000.0,1.61307386433133,4.95925296055413,1844823702497.65,China
 3052,China,CHN,2022,East Asia & Pacific,Upper middle income,2017000000.0,1.59538074333145,4.79210231718465,1964343311987.28,China
 3053,China,CHN,2023,East Asia & Pacific,Upper middle income,,,,,China
-3054,China,CHN,Long Name,East Asia & Pacific,Upper middle income,People's Republic of China,People's Republic of China,People's Republic of China,People's Republic of China,China
 3055,Colombia,COL,1960,Latin America & Caribbean,Upper middle income,,1.8843234755299705,,504000000.0,Colombia
 3056,Colombia,COL,1961,Latin America & Caribbean,Upper middle income,,2.1432563032116,,652000000.0,Colombia
 3057,Colombia,COL,1962,Latin America & Caribbean,Upper middle income,,3.0994152046783596,,1060000000.0,Colombia
@@ -2793,7 +2751,6 @@
 3116,Colombia,COL,2021,Latin America & Caribbean,Upper middle income,,3.23758910406394,9.38770039055077,38113700000000.0,Colombia
 3117,Colombia,COL,2022,Latin America & Caribbean,Upper middle income,,3.07910775361056,9.178198229842527,42302296000000.0,Colombia
 3118,Colombia,COL,2023,Latin America & Caribbean,Upper middle income,,,,,Colombia
-3119,Colombia,COL,Long Name,Latin America & Caribbean,Upper middle income,Republic of Colombia,Republic of Colombia,Republic of Colombia,Republic of Colombia,Colombia
 3120,Comoros,COM,1960,Sub-Saharan Africa,Lower middle income,,,,,Comoros
 3121,Comoros,COM,1961,Sub-Saharan Africa,Lower middle income,,,,,Comoros
 3122,Comoros,COM,1962,Sub-Saharan Africa,Lower middle income,,,,,Comoros
@@ -2858,7 +2815,6 @@
 3181,Comoros,COM,2021,Sub-Saharan Africa,Lower middle income,,,,,Comoros
 3182,Comoros,COM,2022,Sub-Saharan Africa,Lower middle income,,,,,Comoros
 3183,Comoros,COM,2023,Sub-Saharan Africa,Lower middle income,,,,,Comoros
-3184,Comoros,COM,Long Name,Sub-Saharan Africa,Lower middle income,Union of the Comoros,Union of the Comoros,Union of the Comoros,Union of the Comoros,Comoros
 3185,"Congo, Dem. Rep.",COD,1960,Sub-Saharan Africa,Low income,,,,,"Congo, Dem. Rep."
 3186,"Congo, Dem. Rep.",COD,1961,Sub-Saharan Africa,Low income,,,,,"Congo, Dem. Rep."
 3187,"Congo, Dem. Rep.",COD,1962,Sub-Saharan Africa,Low income,,,,,"Congo, Dem. Rep."
@@ -2923,7 +2879,6 @@
 3246,"Congo, Dem. Rep.",COD,2021,Sub-Saharan Africa,Low income,,0.542970228782383,,611112000000.0,"Congo, Dem. Rep."
 3247,"Congo, Dem. Rep.",COD,2022,Sub-Saharan Africa,Low income,,0.5788943668332279,,749348000000.0,"Congo, Dem. Rep."
 3248,"Congo, Dem. Rep.",COD,2023,Sub-Saharan Africa,Low income,,,,,"Congo, Dem. Rep."
-3249,"Congo, Dem. Rep.",COD,Long Name,Sub-Saharan Africa,Low income,Democratic Republic of the Congo,Democratic Republic of the Congo,Democratic Republic of the Congo,Democratic Republic of the Congo,"Congo, Dem. Rep."
 3250,"Congo, Rep.",COG,1960,Sub-Saharan Africa,Lower middle income,,,,,"Congo, Rep."
 3251,"Congo, Rep.",COG,1961,Sub-Saharan Africa,Lower middle income,,,,,"Congo, Rep."
 3252,"Congo, Rep.",COG,1962,Sub-Saharan Africa,Lower middle income,,,,,"Congo, Rep."
@@ -2988,7 +2943,6 @@
 3311,"Congo, Rep.",COG,2021,Sub-Saharan Africa,Lower middle income,,2.47848232699844,11.2537458911851,173648000000.0,"Congo, Rep."
 3312,"Congo, Rep.",COG,2022,Sub-Saharan Africa,Lower middle income,,1.8471891564902705,10.1328817362936,165801000000.0,"Congo, Rep."
 3313,"Congo, Rep.",COG,2023,Sub-Saharan Africa,Lower middle income,,,,,"Congo, Rep."
-3314,"Congo, Rep.",COG,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Congo,Republic of Congo,Republic of Congo,Republic of Congo,"Congo, Rep."
 3315,Costa Rica,CRI,1960,Latin America & Caribbean,Upper middle income,,,,0.0,Costa Rica
 3316,Costa Rica,CRI,1961,Latin America & Caribbean,Upper middle income,,,,0.0,Costa Rica
 3317,Costa Rica,CRI,1962,Latin America & Caribbean,Upper middle income,,,,0.0,Costa Rica
@@ -3053,7 +3007,6 @@
 3376,Costa Rica,CRI,2021,Latin America & Caribbean,Upper middle income,,,,0.0,Costa Rica
 3377,Costa Rica,CRI,2022,Latin America & Caribbean,Upper middle income,,,,0.0,Costa Rica
 3378,Costa Rica,CRI,2023,Latin America & Caribbean,Upper middle income,,,,,Costa Rica
-3379,Costa Rica,CRI,Long Name,Latin America & Caribbean,Upper middle income,Republic of Costa Rica,Republic of Costa Rica,Republic of Costa Rica,Republic of Costa Rica,Costa Rica
 3445,Croatia,HRV,1960,Europe & Central Asia,High income,,,,,Croatia
 3446,Croatia,HRV,1961,Europe & Central Asia,High income,,,,,Croatia
 3447,Croatia,HRV,1962,Europe & Central Asia,High income,,,,,Croatia
@@ -3118,7 +3071,6 @@
 3506,Croatia,HRV,2021,Europe & Central Asia,High income,,2.01266537086965,3.9380060521796,8667000000.0,Croatia
 3507,Croatia,HRV,2022,Europe & Central Asia,High income,4000000.0,2.1674905163411697,3.9303580638803703,9373000000.0,Croatia
 3508,Croatia,HRV,2023,Europe & Central Asia,High income,,,,,Croatia
-3509,Croatia,HRV,Long Name,Europe & Central Asia,High income,Republic of Croatia,Republic of Croatia,Republic of Croatia,Republic of Croatia,Croatia
 3510,Cuba,CUB,1960,Latin America & Caribbean,Upper middle income,,,,,Cuba
 3511,Cuba,CUB,1961,Latin America & Caribbean,Upper middle income,,,,,Cuba
 3512,Cuba,CUB,1962,Latin America & Caribbean,Upper middle income,,,,,Cuba
@@ -3183,7 +3135,6 @@
 3571,Cuba,CUB,2021,Latin America & Caribbean,Upper middle income,,,,,Cuba
 3572,Cuba,CUB,2022,Latin America & Caribbean,Upper middle income,,,,,Cuba
 3573,Cuba,CUB,2023,Latin America & Caribbean,Upper middle income,,,,,Cuba
-3574,Cuba,CUB,Long Name,Latin America & Caribbean,Upper middle income,Republic of Cuba,Republic of Cuba,Republic of Cuba,Republic of Cuba,Cuba
 3640,Cyprus,CYP,1960,Europe & Central Asia,High income,,,,,Cyprus
 3641,Cyprus,CYP,1961,Europe & Central Asia,High income,,,,,Cyprus
 3642,Cyprus,CYP,1962,Europe & Central Asia,High income,,,,,Cyprus
@@ -3248,7 +3199,6 @@
 3701,Cyprus,CYP,2021,Europe & Central Asia,High income,,1.9074600234848904,4.4549786075457005,458150000.0,Cyprus
 3702,Cyprus,CYP,2022,Europe & Central Asia,High income,,1.81479665162789,4.52314948503225,469910000.0,Cyprus
 3703,Cyprus,CYP,2023,Europe & Central Asia,High income,,,,,Cyprus
-3704,Cyprus,CYP,Long Name,Europe & Central Asia,High income,Republic of Cyprus,Republic of Cyprus,Republic of Cyprus,Republic of Cyprus,Cyprus
 3705,Czechia,CZE,1960,Europe & Central Asia,High income,,,,,Czechia
 3706,Czechia,CZE,1961,Europe & Central Asia,High income,,,,,Czechia
 3707,Czechia,CZE,1962,Europe & Central Asia,High income,,,,,Czechia
@@ -3313,7 +3263,6 @@
 3766,Czechia,CZE,2021,Europe & Central Asia,High income,5000000.0,1.39741190368455,2.96273118597546,85359900000.0,Czechia
 3767,Czechia,CZE,2022,Europe & Central Asia,High income,116000000.0,1.35806383214179,3.17331986365684,93544900000.0,Czechia
 3768,Czechia,CZE,2023,Europe & Central Asia,High income,,,,,Czechia
-3769,Czechia,CZE,Long Name,Europe & Central Asia,High income,Czech Republic,Czech Republic,Czech Republic,Czech Republic,Czechia
 3770,Denmark,DNK,1960,Europe & Central Asia,High income,20000000.0,2.72887755602413,,1113000000.0,Denmark
 3771,Denmark,DNK,1961,Europe & Central Asia,High income,,2.58681164503683,,1180000000.0,Denmark
 3772,Denmark,DNK,1962,Europe & Central Asia,High income,,3.01827310409247,,1551000000.0,Denmark
@@ -3378,7 +3327,6 @@
 3831,Denmark,DNK,2021,Europe & Central Asia,High income,24000000.0,1.32422710157036,2.52582686725413,33161000000.0,Denmark
 3832,Denmark,DNK,2022,Europe & Central Asia,High income,67000000.0,1.418960371433,2.92808786989103,38676000000.0,Denmark
 3833,Denmark,DNK,2023,Europe & Central Asia,High income,,,,,Denmark
-3834,Denmark,DNK,Long Name,Europe & Central Asia,High income,Kingdom of Denmark,Kingdom of Denmark,Kingdom of Denmark,Kingdom of Denmark,Denmark
 3835,Djibouti,DJI,1960,Middle East & North Africa,Lower middle income,,,,,Djibouti
 3836,Djibouti,DJI,1961,Middle East & North Africa,Lower middle income,,,,,Djibouti
 3837,Djibouti,DJI,1962,Middle East & North Africa,Lower middle income,,,,,Djibouti
@@ -3443,7 +3391,6 @@
 3896,Djibouti,DJI,2021,Middle East & North Africa,Lower middle income,,,,,Djibouti
 3897,Djibouti,DJI,2022,Middle East & North Africa,Lower middle income,,,,,Djibouti
 3898,Djibouti,DJI,2023,Middle East & North Africa,Lower middle income,,,,,Djibouti
-3899,Djibouti,DJI,Long Name,Middle East & North Africa,Lower middle income,Republic of Djibouti,Republic of Djibouti,Republic of Djibouti,Republic of Djibouti,Djibouti
 3900,Dominica,DMA,1960,Latin America & Caribbean,Upper middle income,,,,,Dominica
 3901,Dominica,DMA,1961,Latin America & Caribbean,Upper middle income,,,,,Dominica
 3902,Dominica,DMA,1962,Latin America & Caribbean,Upper middle income,,,,,Dominica
@@ -3508,7 +3455,6 @@
 3961,Dominica,DMA,2021,Latin America & Caribbean,Upper middle income,,,,,Dominica
 3962,Dominica,DMA,2022,Latin America & Caribbean,Upper middle income,,,,,Dominica
 3963,Dominica,DMA,2023,Latin America & Caribbean,Upper middle income,,,,,Dominica
-3964,Dominica,DMA,Long Name,Latin America & Caribbean,Upper middle income,Commonwealth of Dominica,Commonwealth of Dominica,Commonwealth of Dominica,Commonwealth of Dominica,Dominica
 3965,Dominican Republic,DOM,1960,Latin America & Caribbean,Upper middle income,,5.23152574784865,,38300000.0,Dominican Republic
 3966,Dominican Republic,DOM,1961,Latin America & Caribbean,Upper middle income,,5.229793977813,,36300000.0,Dominican Republic
 3967,Dominican Republic,DOM,1962,Latin America & Caribbean,Upper middle income,,4.31965442764579,,38000000.0,Dominican Republic
@@ -3573,7 +3519,6 @@
 4026,Dominican Republic,DOM,2021,Latin America & Caribbean,Upper middle income,,0.65056272603802,3.32258164593889,33200000000.0,Dominican Republic
 4027,Dominican Republic,DOM,2022,Latin America & Caribbean,Upper middle income,,0.717637598102462,3.92627433308455,41821300000.0,Dominican Republic
 4028,Dominican Republic,DOM,2023,Latin America & Caribbean,Upper middle income,,,,,Dominican Republic
-4029,Dominican Republic,DOM,Long Name,Latin America & Caribbean,Upper middle income,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic
 4290,Ecuador,ECU,1960,Latin America & Caribbean,Upper middle income,,2.37623678350892,,22400000.0,Ecuador
 4291,Ecuador,ECU,1961,Latin America & Caribbean,Upper middle income,,2.04676698378785,,18700000.0,Ecuador
 4292,Ecuador,ECU,1962,Latin America & Caribbean,Upper middle income,,2.04545378336297,,18300000.0,Ecuador
@@ -3638,7 +3583,6 @@
 4351,Ecuador,ECU,2021,Latin America & Caribbean,Upper middle income,,2.24439369241334,6.32221603120274,2382780000.0,Ecuador
 4352,Ecuador,ECU,2022,Latin America & Caribbean,Upper middle income,,2.15522186999422,,2488610000.0,Ecuador
 4353,Ecuador,ECU,2023,Latin America & Caribbean,Upper middle income,,,,,Ecuador
-4354,Ecuador,ECU,Long Name,Latin America & Caribbean,Upper middle income,Republic of Ecuador,Republic of Ecuador,Republic of Ecuador,Republic of Ecuador,Ecuador
 4355,"Egypt, Arab Rep.",EGY,1960,Middle East & North Africa,Lower middle income,,,,,"Egypt, Arab Rep."
 4356,"Egypt, Arab Rep.",EGY,1961,Middle East & North Africa,Lower middle income,0.0,,,,"Egypt, Arab Rep."
 4357,"Egypt, Arab Rep.",EGY,1962,Middle East & North Africa,Lower middle income,7000000.0,6.67547918043622,,101000000.0,"Egypt, Arab Rep."
@@ -3703,7 +3647,6 @@
 4416,"Egypt, Arab Rep.",EGY,2021,Middle East & North Africa,Lower middle income,41000000.0,1.12200927143154,4.68827065017216,81082000000.0,"Egypt, Arab Rep."
 4417,"Egypt, Arab Rep.",EGY,2022,Middle East & North Africa,Lower middle income,41000000.0,1.06181004427704,4.34400484767714,89179900000.0,"Egypt, Arab Rep."
 4418,"Egypt, Arab Rep.",EGY,2023,Middle East & North Africa,Lower middle income,,,,,"Egypt, Arab Rep."
-4419,"Egypt, Arab Rep.",EGY,Long Name,Middle East & North Africa,Lower middle income,Arab Republic of Egypt,Arab Republic of Egypt,Arab Republic of Egypt,Arab Republic of Egypt,"Egypt, Arab Rep."
 4420,El Salvador,SLV,1960,Latin America & Caribbean,Upper middle income,,,,4384473.69549372,El Salvador
 4421,El Salvador,SLV,1961,Latin America & Caribbean,Upper middle income,,,,4441787.07713416,El Salvador
 4422,El Salvador,SLV,1962,Latin America & Caribbean,Upper middle income,,,,6218501.90798782,El Salvador
@@ -3768,7 +3711,6 @@
 4481,El Salvador,SLV,2021,Latin America & Caribbean,Upper middle income,,1.22343572258204,3.87243088445864,351578000.0,El Salvador
 4482,El Salvador,SLV,2022,Latin America & Caribbean,Upper middle income,,1.32039410209497,4.2977207977208,422380000.0,El Salvador
 4483,El Salvador,SLV,2023,Latin America & Caribbean,Upper middle income,,,,,El Salvador
-4484,El Salvador,SLV,Long Name,Latin America & Caribbean,Upper middle income,Republic of El Salvador,Republic of El Salvador,Republic of El Salvador,Republic of El Salvador,El Salvador
 4485,Equatorial Guinea,GNQ,1960,Sub-Saharan Africa,Upper middle income,,,,,Equatorial Guinea
 4486,Equatorial Guinea,GNQ,1961,Sub-Saharan Africa,Upper middle income,,,,,Equatorial Guinea
 4487,Equatorial Guinea,GNQ,1962,Sub-Saharan Africa,Upper middle income,,,,,Equatorial Guinea
@@ -3833,7 +3775,6 @@
 4546,Equatorial Guinea,GNQ,2021,Sub-Saharan Africa,Upper middle income,,1.46249872263959,10.2080102366085,90307000000.0,Equatorial Guinea
 4547,Equatorial Guinea,GNQ,2022,Sub-Saharan Africa,Upper middle income,,1.09726208496911,8.02739885712222,97786000000.0,Equatorial Guinea
 4548,Equatorial Guinea,GNQ,2023,Sub-Saharan Africa,Upper middle income,,,,,Equatorial Guinea
-4549,Equatorial Guinea,GNQ,Long Name,Sub-Saharan Africa,Upper middle income,Republic of Equatorial Guinea,Republic of Equatorial Guinea,Republic of Equatorial Guinea,Republic of Equatorial Guinea,Equatorial Guinea
 4550,Eritrea,ERI,1960,Sub-Saharan Africa,Low income,,,,,Eritrea
 4551,Eritrea,ERI,1961,Sub-Saharan Africa,Low income,,,,,Eritrea
 4552,Eritrea,ERI,1962,Sub-Saharan Africa,Low income,,,,,Eritrea
@@ -3898,7 +3839,6 @@
 4611,Eritrea,ERI,2021,Sub-Saharan Africa,Low income,,,,,Eritrea
 4612,Eritrea,ERI,2022,Sub-Saharan Africa,Low income,,,,,Eritrea
 4613,Eritrea,ERI,2023,Sub-Saharan Africa,Low income,,,,,Eritrea
-4614,Eritrea,ERI,Long Name,Sub-Saharan Africa,Low income,State of Eritrea,State of Eritrea,State of Eritrea,State of Eritrea,Eritrea
 4615,Estonia,EST,1960,Europe & Central Asia,High income,,,,,Estonia
 4616,Estonia,EST,1961,Europe & Central Asia,High income,,,,,Estonia
 4617,Estonia,EST,1962,Europe & Central Asia,High income,,,,,Estonia
@@ -3963,7 +3903,6 @@
 4676,Estonia,EST,2021,Europe & Central Asia,High income,,2.01304423406157,4.828743611259441,633000000.0,Estonia
 4677,Estonia,EST,2022,Europe & Central Asia,High income,6000000.0,2.08666579059428,5.34192475576803,771000000.0,Estonia
 4678,Estonia,EST,2023,Europe & Central Asia,High income,,,,,Estonia
-4679,Estonia,EST,Long Name,Europe & Central Asia,High income,Republic of Estonia,Republic of Estonia,Republic of Estonia,Republic of Estonia,Estonia
 4680,Eswatini,SWZ,1960,Sub-Saharan Africa,Lower middle income,,,,,Eswatini
 4681,Eswatini,SWZ,1961,Sub-Saharan Africa,Lower middle income,,,,,Eswatini
 4682,Eswatini,SWZ,1962,Sub-Saharan Africa,Lower middle income,,,,,Eswatini
@@ -4028,7 +3967,6 @@
 4741,Eswatini,SWZ,2021,Sub-Saharan Africa,Lower middle income,,1.78385478033566,,1229815000.0,Eswatini
 4742,Eswatini,SWZ,2022,Sub-Saharan Africa,Lower middle income,,1.6451213939413698,,1215897500.0,Eswatini
 4743,Eswatini,SWZ,2023,Sub-Saharan Africa,Lower middle income,,,,,Eswatini
-4744,Eswatini,SWZ,Long Name,Sub-Saharan Africa,Lower middle income,Kingdom of Eswatini,Kingdom of Eswatini,Kingdom of Eswatini,Kingdom of Eswatini,Eswatini
 4745,Ethiopia,ETH,1960,Sub-Saharan Africa,Low income,,,,38100000.0,Ethiopia
 4746,Ethiopia,ETH,1961,Sub-Saharan Africa,Low income,,1.85587761674718,,46100000.0,Ethiopia
 4747,Ethiopia,ETH,1962,Sub-Saharan Africa,Low income,,1.9321903294163,,50150000.0,Ethiopia
@@ -4093,7 +4031,6 @@
 4806,Ethiopia,ETH,2021,Sub-Saharan Africa,Low income,,0.49197376876991,3.56565115265765,21358500000.0,Ethiopia
 4807,Ethiopia,ETH,2022,Sub-Saharan Africa,Low income,,0.903892013953936,6.14951034706857,53557500000.0,Ethiopia
 4808,Ethiopia,ETH,2023,Sub-Saharan Africa,Low income,,,,,Ethiopia
-4809,Ethiopia,ETH,Long Name,Sub-Saharan Africa,Low income,Federal Democratic Republic of Ethiopia,Federal Democratic Republic of Ethiopia,Federal Democratic Republic of Ethiopia,Federal Democratic Republic of Ethiopia,Ethiopia
 5135,Faroe Islands,FRO,1960,Europe & Central Asia,High income,,,,,Faroe Islands
 5136,Faroe Islands,FRO,1961,Europe & Central Asia,High income,,,,,Faroe Islands
 5137,Faroe Islands,FRO,1962,Europe & Central Asia,High income,,,,,Faroe Islands
@@ -4158,7 +4095,6 @@
 5196,Faroe Islands,FRO,2021,Europe & Central Asia,High income,,,,,Faroe Islands
 5197,Faroe Islands,FRO,2022,Europe & Central Asia,High income,,,,,Faroe Islands
 5198,Faroe Islands,FRO,2023,Europe & Central Asia,High income,,,,,Faroe Islands
-5199,Faroe Islands,FRO,Long Name,Europe & Central Asia,High income,Faroe Islands,Faroe Islands,Faroe Islands,Faroe Islands,Faroe Islands
 5200,Fiji,FJI,1960,East Asia & Pacific,Upper middle income,,,,,Fiji
 5201,Fiji,FJI,1961,East Asia & Pacific,Upper middle income,,,,,Fiji
 5202,Fiji,FJI,1962,East Asia & Pacific,Upper middle income,,,,,Fiji
@@ -4223,7 +4159,6 @@
 5261,Fiji,FJI,2021,East Asia & Pacific,Upper middle income,,1.5997674680295,4.5007642842083095,142314166.666667,Fiji
 5262,Fiji,FJI,2022,East Asia & Pacific,Upper middle income,,1.39581319775425,4.21837896253602,146377750.0,Fiji
 5263,Fiji,FJI,2023,East Asia & Pacific,Upper middle income,,,,,Fiji
-5264,Fiji,FJI,Long Name,East Asia & Pacific,Upper middle income,Republic of Fiji,Republic of Fiji,Republic of Fiji,Republic of Fiji,Fiji
 5265,Finland,FIN,1960,Europe & Central Asia,High income,75000000.0,1.76904104762464,,48200000.0,Finland
 5266,Finland,FIN,1961,Europe & Central Asia,High income,1000000.0,1.8361815196588,,56700000.0,Finland
 5267,Finland,FIN,1962,Europe & Central Asia,High income,1000000.0,2.51317830864007,,83100000.0,Finland
@@ -4288,7 +4223,6 @@
 5326,Finland,FIN,2021,Europe & Central Asia,High income,15000000.0,1.26152989821883,2.26975213705783,3173000000.0,Finland
 5327,Finland,FIN,2022,Europe & Central Asia,High income,29000000.0,1.72168290261653,3.22067468762511,4585500000.0,Finland
 5328,Finland,FIN,2023,Europe & Central Asia,High income,,,,,Finland
-5329,Finland,FIN,Long Name,Europe & Central Asia,High income,Republic of Finland,Republic of Finland,Republic of Finland,Republic of Finland,Finland
 5395,France,FRA,1960,Europe & Central Asia,High income,931000000.0,5.42848588493053,,2453735333.33333,France
 5396,France,FRA,1961,Europe & Central Asia,High income,978000000.0,5.29560753876716,,2611650656.71642,France
 5397,France,FRA,1962,Europe & Central Asia,High income,1015000000.0,5.15887134953187,,2840711873.13433,France
@@ -4353,7 +4287,6 @@
 5456,France,FRA,2021,Europe & Central Asia,High income,3853000000.0,1.91536145421393,3.22443995527585,47900700000.0,France
 5457,France,FRA,2022,Europe & Central Asia,High income,3021000000.0,1.93872341806871,3.4341201076596004,50998435000.0,France
 5458,France,FRA,2023,Europe & Central Asia,High income,,,,,France
-5459,France,FRA,Long Name,Europe & Central Asia,High income,French Republic,French Republic,French Republic,French Republic,France
 5460,French Polynesia,PYF,1960,East Asia & Pacific,High income,,,,,French Polynesia
 5461,French Polynesia,PYF,1961,East Asia & Pacific,High income,,,,,French Polynesia
 5462,French Polynesia,PYF,1962,East Asia & Pacific,High income,,,,,French Polynesia
@@ -4418,7 +4351,6 @@
 5521,French Polynesia,PYF,2021,East Asia & Pacific,High income,,,,,French Polynesia
 5522,French Polynesia,PYF,2022,East Asia & Pacific,High income,,,,,French Polynesia
 5523,French Polynesia,PYF,2023,East Asia & Pacific,High income,,,,,French Polynesia
-5524,French Polynesia,PYF,Long Name,East Asia & Pacific,High income,French Polynesia,French Polynesia,French Polynesia,French Polynesia,French Polynesia
 5525,Gabon,GAB,1960,Sub-Saharan Africa,Upper middle income,,,,,Gabon
 5526,Gabon,GAB,1961,Sub-Saharan Africa,Upper middle income,,,,,Gabon
 5527,Gabon,GAB,1962,Sub-Saharan Africa,Upper middle income,,,,,Gabon
@@ -4483,7 +4415,6 @@
 5586,Gabon,GAB,2021,Sub-Saharan Africa,Upper middle income,,1.5398824689606,9.53918071049117,172760000000.0,Gabon
 5587,Gabon,GAB,2022,Sub-Saharan Africa,Upper middle income,,1.25778433704406,8.4861982956745,173177000000.0,Gabon
 5588,Gabon,GAB,2023,Sub-Saharan Africa,Upper middle income,,,,,Gabon
-5589,Gabon,GAB,Long Name,Sub-Saharan Africa,Upper middle income,Gabonese Republic,Gabonese Republic,Gabonese Republic,Gabonese Republic,Gabon
 5590,"Gambia, The",GMB,1960,Sub-Saharan Africa,Low income,,,,,"Gambia, The"
 5591,"Gambia, The",GMB,1961,Sub-Saharan Africa,Low income,,,,,"Gambia, The"
 5592,"Gambia, The",GMB,1962,Sub-Saharan Africa,Low income,,,,,"Gambia, The"
@@ -4548,7 +4479,6 @@
 5651,"Gambia, The",GMB,2021,Sub-Saharan Africa,Low income,,0.76855558144666,3.62214396456257,817699000.0,"Gambia, The"
 5652,"Gambia, The",GMB,2022,Sub-Saharan Africa,Low income,,0.693939998753325,2.96432169655124,841482000.0,"Gambia, The"
 5653,"Gambia, The",GMB,2023,Sub-Saharan Africa,Low income,,,,,"Gambia, The"
-5654,"Gambia, The",GMB,Long Name,Sub-Saharan Africa,Low income,Republic of The Gambia,Republic of The Gambia,Republic of The Gambia,Republic of The Gambia,"Gambia, The"
 5655,Georgia,GEO,1960,Europe & Central Asia,Upper middle income,,,,,Georgia
 5656,Georgia,GEO,1961,Europe & Central Asia,Upper middle income,,,,,Georgia
 5657,Georgia,GEO,1962,Europe & Central Asia,Upper middle income,,,,,Georgia
@@ -4613,7 +4543,6 @@
 5716,Georgia,GEO,2021,Europe & Central Asia,Upper middle income,,1.60542784800892,5.10573419927135,966975000.0,Georgia
 5717,Georgia,GEO,2022,Europe & Central Asia,Upper middle income,,1.43098609970017,5.26441585744319,1051725000.0,Georgia
 5718,Georgia,GEO,2023,Europe & Central Asia,Upper middle income,,,,,Georgia
-5719,Georgia,GEO,Long Name,Europe & Central Asia,Upper middle income,Georgia,Georgia,Georgia,Georgia,Georgia
 5720,Germany,DEU,1960,Europe & Central Asia,High income,156000000.0,3.7698628621708,,5830696094.40509,Germany
 5721,Germany,DEU,1961,Europe & Central Asia,High income,12000000.0,3.73990627566646,,6340786696.01595,Germany
 5722,Germany,DEU,1962,Europe & Central Asia,High income,147000000.0,4.4959672202832905,,8293890569.94539,Germany
@@ -4678,7 +4607,6 @@
 5781,Germany,DEU,2021,Europe & Central Asia,High income,938000000.0,1.32678559033803,2.5996630434132197,47787500000.0,Germany
 5782,Germany,DEU,2022,Europe & Central Asia,High income,1510000000.0,1.3900550095965298,2.74617276506781,53015030000.0,Germany
 5783,Germany,DEU,2023,Europe & Central Asia,High income,,,,,Germany
-5784,Germany,DEU,Long Name,Europe & Central Asia,High income,Federal Republic of Germany,Federal Republic of Germany,Federal Republic of Germany,Federal Republic of Germany,Germany
 5785,Ghana,GHA,1960,Sub-Saharan Africa,Lower middle income,,1.70665901262916,,1486.5,Ghana
 5786,Ghana,GHA,1961,Sub-Saharan Africa,Lower middle income,,2.1030042918454903,,1960.0,Ghana
 5787,Ghana,GHA,1962,Sub-Saharan Africa,Lower middle income,,2.00100300902708,,1995.0,Ghana
@@ -4743,7 +4671,6 @@
 5846,Ghana,GHA,2021,Sub-Saharan Africa,Lower middle income,,0.384879261038789,1.51683705439532,1767100000.0,Ghana
 5847,Ghana,GHA,2022,Sub-Saharan Africa,Lower middle income,,0.35007061763268,1.5355696702085702,2062224000.0,Ghana
 5848,Ghana,GHA,2023,Sub-Saharan Africa,Lower middle income,,,,,Ghana
-5849,Ghana,GHA,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Ghana,Republic of Ghana,Republic of Ghana,Republic of Ghana,Ghana
 5850,Gibraltar,GIB,1960,Europe & Central Asia,High income,,,,,Gibraltar
 5851,Gibraltar,GIB,1961,Europe & Central Asia,High income,,,,,Gibraltar
 5852,Gibraltar,GIB,1962,Europe & Central Asia,High income,,,,,Gibraltar
@@ -4808,7 +4735,6 @@
 5911,Gibraltar,GIB,2021,Europe & Central Asia,High income,,,,,Gibraltar
 5912,Gibraltar,GIB,2022,Europe & Central Asia,High income,,,,,Gibraltar
 5913,Gibraltar,GIB,2023,Europe & Central Asia,High income,,,,,Gibraltar
-5914,Gibraltar,GIB,Long Name,Europe & Central Asia,High income,Gibraltar,Gibraltar,Gibraltar,Gibraltar,Gibraltar
 5915,Greece,GRC,1960,Europe & Central Asia,High income,,4.85730295953435,,14996000.0,Greece
 5916,Greece,GRC,1961,Europe & Central Asia,High income,,4.24357000022985,,14770000.0,Greece
 5917,Greece,GRC,1962,Europe & Central Asia,High income,,4.04842971228294,,14970000.0,Greece
@@ -4873,7 +4799,6 @@
 5976,Greece,GRC,2021,Europe & Central Asia,High income,,3.8631706100809,6.63377379534585,7018400000.0,Greece
 5977,Greece,GRC,2022,Europe & Central Asia,High income,7000000.0,3.69207449516864,7.26423453996983,7705900000.0,Greece
 5978,Greece,GRC,2023,Europe & Central Asia,High income,,,,,Greece
-5979,Greece,GRC,Long Name,Europe & Central Asia,High income,Hellenic Republic,Hellenic Republic,Hellenic Republic,Hellenic Republic,Greece
 5980,Greenland,GRL,1960,Europe & Central Asia,High income,,,,,Greenland
 5981,Greenland,GRL,1961,Europe & Central Asia,High income,,,,,Greenland
 5982,Greenland,GRL,1962,Europe & Central Asia,High income,,,,,Greenland
@@ -4938,7 +4863,6 @@
 6041,Greenland,GRL,2021,Europe & Central Asia,High income,,,,,Greenland
 6042,Greenland,GRL,2022,Europe & Central Asia,High income,,,,,Greenland
 6043,Greenland,GRL,2023,Europe & Central Asia,High income,,,,,Greenland
-6044,Greenland,GRL,Long Name,Europe & Central Asia,High income,Greenland,Greenland,Greenland,Greenland,Greenland
 6045,Grenada,GRD,1960,Latin America & Caribbean,Upper middle income,,,,,Grenada
 6046,Grenada,GRD,1961,Latin America & Caribbean,Upper middle income,,,,,Grenada
 6047,Grenada,GRD,1962,Latin America & Caribbean,Upper middle income,,,,,Grenada
@@ -5003,7 +4927,6 @@
 6106,Grenada,GRD,2021,Latin America & Caribbean,Upper middle income,,,,,Grenada
 6107,Grenada,GRD,2022,Latin America & Caribbean,Upper middle income,,,,,Grenada
 6108,Grenada,GRD,2023,Latin America & Caribbean,Upper middle income,,,,,Grenada
-6109,Grenada,GRD,Long Name,Latin America & Caribbean,Upper middle income,Grenada,Grenada,Grenada,Grenada,Grenada
 6110,Guam,GUM,1960,East Asia & Pacific,High income,,,,,Guam
 6111,Guam,GUM,1961,East Asia & Pacific,High income,,,,,Guam
 6112,Guam,GUM,1962,East Asia & Pacific,High income,,,,,Guam
@@ -5068,7 +4991,6 @@
 6171,Guam,GUM,2021,East Asia & Pacific,High income,,,,,Guam
 6172,Guam,GUM,2022,East Asia & Pacific,High income,,,,,Guam
 6173,Guam,GUM,2023,East Asia & Pacific,High income,,,,,Guam
-6174,Guam,GUM,Long Name,East Asia & Pacific,High income,Guam,Guam,Guam,Guam,Guam
 6175,Guatemala,GTM,1960,Latin America & Caribbean,Upper middle income,,1.15792223391347,,12084076.433121,Guatemala
 6176,Guatemala,GTM,1961,Latin America & Caribbean,Upper middle income,,1.12222106548301,,12084076.433121,Guatemala
 6177,Guatemala,GTM,1962,Latin America & Caribbean,Upper middle income,,1.0453078110693,,11954140.1273885,Guatemala
@@ -5133,7 +5055,6 @@
 6236,Guatemala,GTM,2021,Latin America & Caribbean,Upper middle income,,0.3976704238184509,2.93640219394666,2644700000.0,Guatemala
 6237,Guatemala,GTM,2022,Latin America & Caribbean,Upper middle income,,0.462491769474559,3.20722963361655,3336930000.0,Guatemala
 6238,Guatemala,GTM,2023,Latin America & Caribbean,Upper middle income,,,,,Guatemala
-6239,Guatemala,GTM,Long Name,Latin America & Caribbean,Upper middle income,Republic of Guatemala,Republic of Guatemala,Republic of Guatemala,Republic of Guatemala,Guatemala
 6240,Guinea,GIN,1960,Sub-Saharan Africa,Lower middle income,,,,,Guinea
 6241,Guinea,GIN,1961,Sub-Saharan Africa,Lower middle income,,,,,Guinea
 6242,Guinea,GIN,1962,Sub-Saharan Africa,Lower middle income,,,,,Guinea
@@ -5198,7 +5119,6 @@
 6301,Guinea,GIN,2021,Sub-Saharan Africa,Lower middle income,,1.48454111736468,9.95862088027878,2406750000000.0,Guinea
 6302,Guinea,GIN,2022,Sub-Saharan Africa,Lower middle income,,2.0371576186367797,11.3324538927662,3887958000000.0,Guinea
 6303,Guinea,GIN,2023,Sub-Saharan Africa,Lower middle income,,,,,Guinea
-6304,Guinea,GIN,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Guinea,Republic of Guinea,Republic of Guinea,Republic of Guinea,Guinea
 6305,Guinea-Bissau,GNB,1960,Sub-Saharan Africa,Low income,,,,,Guinea-Bissau
 6306,Guinea-Bissau,GNB,1961,Sub-Saharan Africa,Low income,,,,,Guinea-Bissau
 6307,Guinea-Bissau,GNB,1962,Sub-Saharan Africa,Low income,,,,,Guinea-Bissau
@@ -5263,7 +5183,6 @@
 6366,Guinea-Bissau,GNB,2021,Sub-Saharan Africa,Low income,,1.60258794398635,6.12946392063185,14240890000.0,Guinea-Bissau
 6367,Guinea-Bissau,GNB,2022,Sub-Saharan Africa,Low income,,1.6147644517108002,7.24182313749243,15304000000.0,Guinea-Bissau
 6368,Guinea-Bissau,GNB,2023,Sub-Saharan Africa,Low income,,,,,Guinea-Bissau
-6369,Guinea-Bissau,GNB,Long Name,Sub-Saharan Africa,Low income,Republic of Guinea-Bissau,Republic of Guinea-Bissau,Republic of Guinea-Bissau,Republic of Guinea-Bissau,Guinea-Bissau
 6370,Guyana,GUY,1960,Latin America & Caribbean,High income,,,,,Guyana
 6371,Guyana,GUY,1961,Latin America & Caribbean,High income,,,,,Guyana
 6372,Guyana,GUY,1962,Latin America & Caribbean,High income,,,,,Guyana
@@ -5328,7 +5247,6 @@
 6431,Guyana,GUY,2021,Latin America & Caribbean,High income,,0.995030769840688,3.85349099722492,16010600000.0,Guyana
 6432,Guyana,GUY,2022,Latin America & Caribbean,High income,,0.569847554986499,3.78046233577988,17630980000.0,Guyana
 6433,Guyana,GUY,2023,Latin America & Caribbean,High income,,,,,Guyana
-6434,Guyana,GUY,Long Name,Latin America & Caribbean,High income,Co-operative Republic of Guyana,Co-operative Republic of Guyana,Co-operative Republic of Guyana,Co-operative Republic of Guyana,Guyana
 6435,Haiti,HTI,1960,Latin America & Caribbean,Lower middle income,,,,,Haiti
 6436,Haiti,HTI,1961,Latin America & Caribbean,Lower middle income,,,,,Haiti
 6437,Haiti,HTI,1962,Latin America & Caribbean,Lower middle income,,,,,Haiti
@@ -5393,7 +5311,6 @@
 6496,Haiti,HTI,2021,Latin America & Caribbean,Lower middle income,,0.110133662270893,1.01615951000195,1871400000.0,Haiti
 6497,Haiti,HTI,2022,Latin America & Caribbean,Lower middle income,,0.0691842245934902,0.692615685555352,1472965000.0,Haiti
 6498,Haiti,HTI,2023,Latin America & Caribbean,Lower middle income,,,,,Haiti
-6499,Haiti,HTI,Long Name,Latin America & Caribbean,Lower middle income,Republic of Haiti,Republic of Haiti,Republic of Haiti,Republic of Haiti,Haiti
 6630,Honduras,HND,1960,Latin America & Caribbean,Lower middle income,,1.16840536512668,,7840000.0,Honduras
 6631,Honduras,HND,1961,Latin America & Caribbean,Lower middle income,,1.07584269662921,,7660000.0,Honduras
 6632,Honduras,HND,1962,Latin America & Caribbean,Lower middle income,,0.9883870967741928,,7660000.0,Honduras
@@ -5458,7 +5375,6 @@
 6691,Honduras,HND,2021,Latin America & Caribbean,Lower middle income,,1.5411197657773898,5.51442093977983,10544400000.0,Honduras
 6692,Honduras,HND,2022,Latin America & Caribbean,Lower middle income,,1.52909744390138,5.6086547686668,11750300000.0,Honduras
 6693,Honduras,HND,2023,Latin America & Caribbean,Lower middle income,,,,,Honduras
-6694,Honduras,HND,Long Name,Latin America & Caribbean,Lower middle income,Republic of Honduras,Republic of Honduras,Republic of Honduras,Republic of Honduras,Honduras
 6695,"Hong Kong SAR, China",HKG,1960,East Asia & Pacific,High income,,,,,"Hong Kong SAR, China"
 6696,"Hong Kong SAR, China",HKG,1961,East Asia & Pacific,High income,,,,,"Hong Kong SAR, China"
 6697,"Hong Kong SAR, China",HKG,1962,East Asia & Pacific,High income,,,,,"Hong Kong SAR, China"
@@ -5523,7 +5439,6 @@
 6756,"Hong Kong SAR, China",HKG,2021,East Asia & Pacific,High income,,,,,"Hong Kong SAR, China"
 6757,"Hong Kong SAR, China",HKG,2022,East Asia & Pacific,High income,,,,,"Hong Kong SAR, China"
 6758,"Hong Kong SAR, China",HKG,2023,East Asia & Pacific,High income,,,,,"Hong Kong SAR, China"
-6759,"Hong Kong SAR, China",HKG,Long Name,East Asia & Pacific,High income,Hong Kong Special Administrative Region of the People's Republic of China,Hong Kong Special Administrative Region of the People's Republic of China,Hong Kong Special Administrative Region of the People's Republic of China,Hong Kong Special Administrative Region of the People's Republic of China,"Hong Kong SAR, China"
 6760,Hungary,HUN,1960,Europe & Central Asia,High income,,,,4220000000.0,Hungary
 6761,Hungary,HUN,1961,Europe & Central Asia,High income,,,,4860000000.0,Hungary
 6762,Hungary,HUN,1962,Europe & Central Asia,High income,,,,6810000000.0,Hungary
@@ -5588,7 +5503,6 @@
 6821,Hungary,HUN,2021,Europe & Central Asia,High income,,1.68336608855554,3.5853668242922403,927965000000.0,Hungary
 6822,Hungary,HUN,2022,Europe & Central Asia,High income,,1.52573720690762,3.3040738208876403,957964000000.0,Hungary
 6823,Hungary,HUN,2023,Europe & Central Asia,High income,,,,,Hungary
-6824,Hungary,HUN,Long Name,Europe & Central Asia,High income,Hungary,Hungary,Hungary,Hungary,Hungary
 7150,Iceland,ISL,1960,Europe & Central Asia,High income,,,,,Iceland
 7151,Iceland,ISL,1961,Europe & Central Asia,High income,,,,,Iceland
 7152,Iceland,ISL,1962,Europe & Central Asia,High income,,,,,Iceland
@@ -5653,7 +5567,6 @@
 7211,Iceland,ISL,2021,Europe & Central Asia,High income,,,,0.0,Iceland
 7212,Iceland,ISL,2022,Europe & Central Asia,High income,,,,0.0,Iceland
 7213,Iceland,ISL,2023,Europe & Central Asia,High income,,,,,Iceland
-7214,Iceland,ISL,Long Name,Europe & Central Asia,High income,Republic of Iceland,Republic of Iceland,Republic of Iceland,Republic of Iceland,Iceland
 7215,India,IND,1960,South Asia,Lower middle income,,2.0040123456790098,,3246500000.0,India
 7216,India,IND,1961,South Asia,Lower middle income,,2.07435972060536,,3563750000.0,India
 7217,India,IND,1962,South Asia,Lower middle income,,2.7454004329004302,,5073500000.0,India
@@ -5718,7 +5631,6 @@
 7276,India,IND,2021,South Asia,Lower middle income,33000000.0,2.47144662861613,7.92204657831344,5636507225000.0,India
 7277,India,IND,2022,South Asia,Lower middle income,11000000.0,2.42522711696615,8.260101812478151,6388332675000.0,India
 7278,India,IND,2023,South Asia,Lower middle income,,,,,India
-7279,India,IND,Long Name,South Asia,Lower middle income,Republic of India,Republic of India,Republic of India,Republic of India,India
 7280,Indonesia,IDN,1960,East Asia & Pacific,Upper middle income,,,,,Indonesia
 7281,Indonesia,IDN,1961,East Asia & Pacific,Upper middle income,,,,,Indonesia
 7282,Indonesia,IDN,1962,East Asia & Pacific,Upper middle income,,,,,Indonesia
@@ -5783,7 +5695,6 @@
 7341,Indonesia,IDN,2021,East Asia & Pacific,Upper middle income,17000000.0,0.74178636312329,4.07298838014338,125887000000000.0,Indonesia
 7342,Indonesia,IDN,2022,East Asia & Pacific,Upper middle income,,0.702587599419717,4.11335227330504,133407000000000.0,Indonesia
 7343,Indonesia,IDN,2023,East Asia & Pacific,Upper middle income,,,,,Indonesia
-7344,Indonesia,IDN,Long Name,East Asia & Pacific,Upper middle income,Republic of Indonesia,Republic of Indonesia,Republic of Indonesia,Republic of Indonesia,Indonesia
 7345,"Iran, Islamic Rep.",IRN,1960,Middle East & North Africa,Upper middle income,,2.29490883301967,,7475000000.0,"Iran, Islamic Rep."
 7346,"Iran, Islamic Rep.",IRN,1961,Middle East & North Africa,Upper middle income,,2.3466421816608096,,8025000000.0,"Iran, Islamic Rep."
 7347,"Iran, Islamic Rep.",IRN,1962,Middle East & North Africa,Upper middle income,3000000.0,2.30741087712102,,8325000000.0,"Iran, Islamic Rep."
@@ -5848,7 +5759,6 @@
 7406,"Iran, Islamic Rep.",IRN,2021,Middle East & North Africa,Upper middle income,0.0,2.19253403937114,16.5956142997008,1263916745000000.0,"Iran, Islamic Rep."
 7407,"Iran, Islamic Rep.",IRN,2022,Middle East & North Africa,Upper middle income,123000000.0,2.5858676814208,17.3191009342424,1850575250000000.0,"Iran, Islamic Rep."
 7408,"Iran, Islamic Rep.",IRN,2023,Middle East & North Africa,Upper middle income,,,,,"Iran, Islamic Rep."
-7409,"Iran, Islamic Rep.",IRN,Long Name,Middle East & North Africa,Upper middle income,Islamic Republic of Iran,Islamic Republic of Iran,Islamic Republic of Iran,Islamic Republic of Iran,"Iran, Islamic Rep."
 7410,Iraq,IRQ,1960,Middle East & North Africa,Upper middle income,3000000.0,7.05063185899568,,42402500.0,Iraq
 7411,Iraq,IRQ,1961,Middle East & North Africa,Upper middle income,,6.851398868674511,,44815000.0,Iraq
 7412,Iraq,IRQ,1962,Middle East & North Africa,Upper middle income,,6.91081661891118,,48237500.0,Iraq
@@ -5913,7 +5823,6 @@
 7471,Iraq,IRQ,2021,Middle East & North Africa,Upper middle income,,2.30492820761499,5.78618433773244,6909786000000.0,Iraq
 7472,Iraq,IRQ,2022,Middle East & North Africa,Upper middle income,,1.6669677433245,4.121196198563879,6837400000000.0,Iraq
 7473,Iraq,IRQ,2023,Middle East & North Africa,Upper middle income,,,,,Iraq
-7474,Iraq,IRQ,Long Name,Middle East & North Africa,Upper middle income,Republic of Iraq,Republic of Iraq,Republic of Iraq,Republic of Iraq,Iraq
 7475,Ireland,IRL,1960,Europe & Central Asia,High income,,1.33038674274387,,11700000.0,Ireland
 7476,Ireland,IRL,1961,Europe & Central Asia,High income,,1.32014208497048,,12500000.0,Ireland
 7477,Ireland,IRL,1962,Europe & Central Asia,High income,,1.29021997609629,,13225000.0,Ireland
@@ -5978,7 +5887,6 @@
 7536,Ireland,IRL,2021,Europe & Central Asia,High income,13000000.0,0.251475874908046,1.02312530421753,1072000000.0,Ireland
 7537,Ireland,IRL,2022,Europe & Central Asia,High income,46000000.0,0.2251091217167019,1.02734958655443,1107000000.0,Ireland
 7538,Ireland,IRL,2023,Europe & Central Asia,High income,,,,,Ireland
-7539,Ireland,IRL,Long Name,Europe & Central Asia,High income,Ireland,Ireland,Ireland,Ireland,Ireland
 7540,Isle of Man,IMN,1960,Europe & Central Asia,High income,,,,,Isle of Man
 7541,Isle of Man,IMN,1961,Europe & Central Asia,High income,,,,,Isle of Man
 7542,Isle of Man,IMN,1962,Europe & Central Asia,High income,,,,,Isle of Man
@@ -6043,7 +5951,6 @@
 7601,Isle of Man,IMN,2021,Europe & Central Asia,High income,,,,,Isle of Man
 7602,Isle of Man,IMN,2022,Europe & Central Asia,High income,,,,,Isle of Man
 7603,Isle of Man,IMN,2023,Europe & Central Asia,High income,,,,,Isle of Man
-7604,Isle of Man,IMN,Long Name,Europe & Central Asia,High income,Isle of Man,Isle of Man,Isle of Man,Isle of Man,Isle of Man
 7605,Israel,ISR,1960,Middle East & North Africa,High income,,7.46024831191462,,34250.0,Israel
 7606,Israel,ISR,1961,Middle East & North Africa,High income,,7.86501626310083,,43525.0,Israel
 7607,Israel,ISR,1962,Middle East & North Africa,High income,,9.16079196040198,,61075.0,Israel
@@ -6108,7 +6015,6 @@
 7666,Israel,ISR,2021,Middle East & North Africa,High income,543000000.0,4.976052225861969,12.2059612171142,78524000000.0,Israel
 7667,Israel,ISR,2022,Middle East & North Africa,High income,831000000.0,4.51139144256367,12.1650496257175,78590600000.0,Israel
 7668,Israel,ISR,2023,Middle East & North Africa,High income,,,,,Israel
-7669,Israel,ISR,Long Name,Middle East & North Africa,High income,State of Israel,State of Israel,State of Israel,State of Israel,Israel
 7670,Italy,ITA,1960,Europe & Central Asia,High income,105000000.0,2.71382598828575,,325262900.0,Italy
 7671,Italy,ITA,1961,Europe & Central Asia,High income,246000000.0,2.57386907530496,,343091600.0,Italy
 7672,Italy,ITA,1962,Europe & Central Asia,High income,262000000.0,2.6338383568595503,,394448900.0,Italy
@@ -6173,7 +6079,6 @@
 7731,Italy,ITA,2021,Europe & Central Asia,High income,1673000000.0,1.72006283098808,3.1135931008563,30652390000.0,Italy
 7732,Italy,ITA,2022,Europe & Central Asia,High income,1825000000.0,1.67909233846156,3.1744387617765804,31841208000.0,Italy
 7733,Italy,ITA,2023,Europe & Central Asia,High income,,,,,Italy
-7734,Italy,ITA,Long Name,Europe & Central Asia,High income,Italian Republic,Italian Republic,Italian Republic,Italian Republic,Italy
 7735,Jamaica,JAM,1960,Latin America & Caribbean,Upper middle income,,,,,Jamaica
 7736,Jamaica,JAM,1961,Latin America & Caribbean,Upper middle income,,,,,Jamaica
 7737,Jamaica,JAM,1962,Latin America & Caribbean,Upper middle income,,,,,Jamaica
@@ -6238,7 +6143,6 @@
 7796,Jamaica,JAM,2021,Latin America & Caribbean,Upper middle income,,1.46676867767402,4.63109836234186,32418800000.0,Jamaica
 7797,Jamaica,JAM,2022,Latin America & Caribbean,Upper middle income,,1.31337260079363,4.48188116969801,33002825000.0,Jamaica
 7798,Jamaica,JAM,2023,Latin America & Caribbean,Upper middle income,,,,,Jamaica
-7799,Jamaica,JAM,Long Name,Latin America & Caribbean,Upper middle income,Jamaica,Jamaica,Jamaica,Jamaica,Jamaica
 7800,Japan,JPN,1960,East Asia & Pacific,High income,1000000.0,1.08059488934833,,173000000000.0,Japan
 7801,Japan,JPN,1961,East Asia & Pacific,High income,61000000.0,0.9166602022082592,,177250000000.0,Japan
 7802,Japan,JPN,1962,East Asia & Pacific,High income,100000000.0,0.8829815838524879,,193750000000.0,Japan
@@ -6303,7 +6207,6 @@
 7861,Japan,JPN,2021,East Asia & Pacific,High income,,1.01829737669403,2.39162145467695,5594315000000.0,Japan
 7862,Japan,JPN,2022,East Asia & Pacific,High income,13000000.0,1.07773443701688,2.53159308059221,6040309750000.0,Japan
 7863,Japan,JPN,2023,East Asia & Pacific,High income,,,,,Japan
-7864,Japan,JPN,Long Name,East Asia & Pacific,High income,Japan,Japan,Japan,Japan,Japan
 7865,Jordan,JOR,1960,Middle East & North Africa,Lower middle income,,20.3967446592065,,20050000.0,Jordan
 7866,Jordan,JOR,1961,Middle East & North Africa,Lower middle income,,16.5070774354704,,19825000.0,Jordan
 7867,Jordan,JOR,1962,Middle East & North Africa,Lower middle income,,18.145500420521397,,21575000.0,Jordan
@@ -6368,7 +6271,6 @@
 7926,Jordan,JOR,2021,Middle East & North Africa,Lower middle income,80000000.0,4.81123191507576,14.4682643699682,1545500000.0,Jordan
 7927,Jordan,JOR,2022,Middle East & North Africa,Lower middle income,51000000.0,4.84048780209003,15.0784003656307,1649577000.0,Jordan
 7928,Jordan,JOR,2023,Middle East & North Africa,Lower middle income,,,,,Jordan
-7929,Jordan,JOR,Long Name,Middle East & North Africa,Lower middle income,Hashemite Kingdom of Jordan,Hashemite Kingdom of Jordan,Hashemite Kingdom of Jordan,Hashemite Kingdom of Jordan,Jordan
 7930,Kazakhstan,KAZ,1960,Europe & Central Asia,Upper middle income,,,,,Kazakhstan
 7931,Kazakhstan,KAZ,1961,Europe & Central Asia,Upper middle income,,,,,Kazakhstan
 7932,Kazakhstan,KAZ,1962,Europe & Central Asia,Upper middle income,,,,,Kazakhstan
@@ -6433,7 +6335,6 @@
 7991,Kazakhstan,KAZ,2021,Europe & Central Asia,Upper middle income,,0.819281683646492,3.71225420618695,687800000000.0,Kazakhstan
 7992,Kazakhstan,KAZ,2022,Europe & Central Asia,Upper middle income,,0.5093643893577521,2.45471752597776,523045000000.0,Kazakhstan
 7993,Kazakhstan,KAZ,2023,Europe & Central Asia,Upper middle income,,,,,Kazakhstan
-7994,Kazakhstan,KAZ,Long Name,Europe & Central Asia,Upper middle income,Republic of Kazakhstan,Republic of Kazakhstan,Republic of Kazakhstan,Republic of Kazakhstan,Kazakhstan
 7995,Kenya,KEN,1960,Sub-Saharan Africa,Lower middle income,,,,,Kenya
 7996,Kenya,KEN,1961,Sub-Saharan Africa,Lower middle income,,,,,Kenya
 7997,Kenya,KEN,1962,Sub-Saharan Africa,Lower middle income,,,,,Kenya
@@ -6498,7 +6399,6 @@
 8056,Kenya,KEN,2021,Sub-Saharan Africa,Lower middle income,,1.07091960171957,4.3248948668870195,129562000000.0,Kenya
 8057,Kenya,KEN,2022,Sub-Saharan Africa,Lower middle income,,1.00120092261,4.07961449579928,134220500000.0,Kenya
 8058,Kenya,KEN,2023,Sub-Saharan Africa,Lower middle income,,,,,Kenya
-8059,Kenya,KEN,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Kenya,Republic of Kenya,Republic of Kenya,Republic of Kenya,Kenya
 8060,Kiribati,KIR,1960,East Asia & Pacific,Lower middle income,,,,,Kiribati
 8061,Kiribati,KIR,1961,East Asia & Pacific,Lower middle income,,,,,Kiribati
 8062,Kiribati,KIR,1962,East Asia & Pacific,Lower middle income,,,,,Kiribati
@@ -6563,7 +6463,6 @@
 8121,Kiribati,KIR,2021,East Asia & Pacific,Lower middle income,,,,,Kiribati
 8122,Kiribati,KIR,2022,East Asia & Pacific,Lower middle income,,,,,Kiribati
 8123,Kiribati,KIR,2023,East Asia & Pacific,Lower middle income,,,,,Kiribati
-8124,Kiribati,KIR,Long Name,East Asia & Pacific,Lower middle income,Republic of Kiribati,Republic of Kiribati,Republic of Kiribati,Republic of Kiribati,Kiribati
 8125,"Korea, Dem. People's Rep.",PRK,1960,East Asia & Pacific,Low income,,,,,"Korea, Dem. People's Rep."
 8126,"Korea, Dem. People's Rep.",PRK,1961,East Asia & Pacific,Low income,,,,,"Korea, Dem. People's Rep."
 8127,"Korea, Dem. People's Rep.",PRK,1962,East Asia & Pacific,Low income,,,,,"Korea, Dem. People's Rep."
@@ -6628,7 +6527,6 @@
 8186,"Korea, Dem. People's Rep.",PRK,2021,East Asia & Pacific,Low income,,,,,"Korea, Dem. People's Rep."
 8187,"Korea, Dem. People's Rep.",PRK,2022,East Asia & Pacific,Low income,,,,,"Korea, Dem. People's Rep."
 8188,"Korea, Dem. People's Rep.",PRK,2023,East Asia & Pacific,Low income,,,,,"Korea, Dem. People's Rep."
-8189,"Korea, Dem. People's Rep.",PRK,Long Name,East Asia & Pacific,Low income,Democratic People's Republic of Korea,Democratic People's Republic of Korea,Democratic People's Republic of Korea,Democratic People's Republic of Korea,"Korea, Dem. People's Rep."
 8190,"Korea, Rep.",KOR,1960,East Asia & Pacific,High income,,7.15754833401892,,17400000000.0,"Korea, Rep."
 8191,"Korea, Rep.",KOR,1961,East Asia & Pacific,High income,,6.726149622512009,,19600000000.0,"Korea, Rep."
 8192,"Korea, Rep.",KOR,1962,East Asia & Pacific,High income,,6.8671963677639,,24200000000.0,"Korea, Rep."
@@ -6693,7 +6591,6 @@
 8251,"Korea, Rep.",KOR,2021,East Asia & Pacific,High income,544000000.0,2.8090061197359804,10.7536983377266,58193000000000.0,"Korea, Rep."
 8252,"Korea, Rep.",KOR,2022,East Asia & Pacific,High income,209000000.0,2.7177456962085,10.56961019702,59870500000000.0,"Korea, Rep."
 8253,"Korea, Rep.",KOR,2023,East Asia & Pacific,High income,,,,,"Korea, Rep."
-8254,"Korea, Rep.",KOR,Long Name,East Asia & Pacific,High income,Republic of Korea,Republic of Korea,Republic of Korea,Republic of Korea,"Korea, Rep."
 8255,Kosovo,XKX,1960,Europe & Central Asia,Upper middle income,,,,,Kosovo
 8256,Kosovo,XKX,1961,Europe & Central Asia,Upper middle income,,,,,Kosovo
 8257,Kosovo,XKX,1962,Europe & Central Asia,Upper middle income,,,,,Kosovo
@@ -6758,7 +6655,6 @@
 8316,Kosovo,XKX,2021,Europe & Central Asia,Upper middle income,,0.8459288152120921,2.91041936878513,67318000.0,Kosovo
 8317,Kosovo,XKX,2022,Europe & Central Asia,Upper middle income,,1.12830724727892,3.83308355189209,102305000.0,Kosovo
 8318,Kosovo,XKX,2023,Europe & Central Asia,Upper middle income,,,,,Kosovo
-8319,Kosovo,XKX,Long Name,Europe & Central Asia,Upper middle income,Republic of Kosovo,Republic of Kosovo,Republic of Kosovo,Republic of Kosovo,Kosovo
 8320,Kuwait,KWT,1960,Middle East & North Africa,High income,,,,,Kuwait
 8321,Kuwait,KWT,1961,Middle East & North Africa,High income,,,,,Kuwait
 8322,Kuwait,KWT,1962,Middle East & North Africa,High income,,,,,Kuwait
@@ -6823,7 +6719,6 @@
 8381,Kuwait,KWT,2021,Middle East & North Africa,High income,,6.5903025450663595,12.6088520633152,2716325000.0,Kuwait
 8382,Kuwait,KWT,2022,Middle East & North Africa,High income,,4.53134521182107,11.5837071693959,2525364000.0,Kuwait
 8383,Kuwait,KWT,2023,Middle East & North Africa,High income,,,,,Kuwait
-8384,Kuwait,KWT,Long Name,Middle East & North Africa,High income,State of Kuwait,State of Kuwait,State of Kuwait,State of Kuwait,Kuwait
 8385,Kyrgyz Republic,KGZ,1960,Europe & Central Asia,Lower middle income,,,,,Kyrgyz Republic
 8386,Kyrgyz Republic,KGZ,1961,Europe & Central Asia,Lower middle income,,,,,Kyrgyz Republic
 8387,Kyrgyz Republic,KGZ,1962,Europe & Central Asia,Lower middle income,,,,,Kyrgyz Republic
@@ -6888,7 +6783,6 @@
 8446,Kyrgyz Republic,KGZ,2021,Europe & Central Asia,Lower middle income,,1.5607751592689,4.4314961555334405,11286311668.7588,Kyrgyz Republic
 8447,Kyrgyz Republic,KGZ,2022,Europe & Central Asia,Lower middle income,,1.47880865000304,4.31970615779099,12609006289.284,Kyrgyz Republic
 8448,Kyrgyz Republic,KGZ,2023,Europe & Central Asia,Lower middle income,,,,,Kyrgyz Republic
-8449,Kyrgyz Republic,KGZ,Long Name,Europe & Central Asia,Lower middle income,Kyrgyz Republic,Kyrgyz Republic,Kyrgyz Republic,Kyrgyz Republic,Kyrgyz Republic
 8450,Lao PDR,LAO,1960,East Asia & Pacific,Lower middle income,,,,,Lao PDR
 8451,Lao PDR,LAO,1961,East Asia & Pacific,Lower middle income,,,,,Lao PDR
 8452,Lao PDR,LAO,1962,East Asia & Pacific,Lower middle income,,,,,Lao PDR
@@ -6953,7 +6847,6 @@
 8511,Lao PDR,LAO,2021,East Asia & Pacific,Lower middle income,,,,,Lao PDR
 8512,Lao PDR,LAO,2022,East Asia & Pacific,Lower middle income,,,,,Lao PDR
 8513,Lao PDR,LAO,2023,East Asia & Pacific,Lower middle income,,,,,Lao PDR
-8514,Lao PDR,LAO,Long Name,East Asia & Pacific,Lower middle income,Lao People's Democratic Republic,Lao People's Democratic Republic,Lao People's Democratic Republic,Lao People's Democratic Republic,Lao PDR
 8775,Latvia,LVA,1960,Europe & Central Asia,High income,,,,,Latvia
 8776,Latvia,LVA,1961,Europe & Central Asia,High income,,,,,Latvia
 8777,Latvia,LVA,1962,Europe & Central Asia,High income,,,,,Latvia
@@ -7018,7 +6911,6 @@
 8836,Latvia,LVA,2021,Europe & Central Asia,High income,,2.06553307283479,4.8333333333333295,696000000.0,Latvia
 8837,Latvia,LVA,2022,Europe & Central Asia,High income,10000000.0,2.0498651345644303,5.1581975071908,807000000.0,Latvia
 8838,Latvia,LVA,2023,Europe & Central Asia,High income,,,,,Latvia
-8839,Latvia,LVA,Long Name,Europe & Central Asia,High income,Republic of Latvia,Republic of Latvia,Republic of Latvia,Republic of Latvia,Latvia
 8905,Lebanon,LBN,1960,Middle East & North Africa,Lower middle income,,,,72600000.0,Lebanon
 8906,Lebanon,LBN,1961,Middle East & North Africa,Lower middle income,,,,85700000.0,Lebanon
 8907,Lebanon,LBN,1962,Middle East & North Africa,Lower middle income,,,,123000000.0,Lebanon
@@ -7083,7 +6975,6 @@
 8966,Lebanon,LBN,2021,Middle East & North Africa,Lower middle income,,3.3662224640045704,,2886100000000.0,Lebanon
 8967,Lebanon,LBN,2022,Middle East & North Africa,Lower middle income,,,,7144100000000.0,Lebanon
 8968,Lebanon,LBN,2023,Middle East & North Africa,Lower middle income,,,,,Lebanon
-8969,Lebanon,LBN,Long Name,Middle East & North Africa,Lower middle income,Lebanese Republic,Lebanese Republic,Lebanese Republic,Lebanese Republic,Lebanon
 8970,Lesotho,LSO,1960,Sub-Saharan Africa,Lower middle income,,,,,Lesotho
 8971,Lesotho,LSO,1961,Sub-Saharan Africa,Lower middle income,,,,,Lesotho
 8972,Lesotho,LSO,1962,Sub-Saharan Africa,Lower middle income,,,,,Lesotho
@@ -7148,7 +7039,6 @@
 9031,Lesotho,LSO,2021,Sub-Saharan Africa,Lower middle income,,1.56061124415555,2.81121610517666,547400000.0,Lesotho
 9032,Lesotho,LSO,2022,Sub-Saharan Africa,Lower middle income,,1.46633375643663,2.59622975013729,567328125.0,Lesotho
 9033,Lesotho,LSO,2023,Sub-Saharan Africa,Lower middle income,,,,,Lesotho
-9034,Lesotho,LSO,Long Name,Sub-Saharan Africa,Lower middle income,Kingdom of Lesotho,Kingdom of Lesotho,Kingdom of Lesotho,Kingdom of Lesotho,Lesotho
 9035,Liberia,LBR,1960,Sub-Saharan Africa,Low income,,,,,Liberia
 9036,Liberia,LBR,1961,Sub-Saharan Africa,Low income,,,,,Liberia
 9037,Liberia,LBR,1962,Sub-Saharan Africa,Low income,,,,,Liberia
@@ -7213,7 +7103,6 @@
 9096,Liberia,LBR,2021,Sub-Saharan Africa,Low income,,0.9983226604172568,1.31516503122212,14743000.0,Liberia
 9097,Liberia,LBR,2022,Sub-Saharan Africa,Low income,,1.26514347454168,1.61311475409836,18696000.0,Liberia
 9098,Liberia,LBR,2023,Sub-Saharan Africa,Low income,,,,,Liberia
-9099,Liberia,LBR,Long Name,Sub-Saharan Africa,Low income,Republic of Liberia,Republic of Liberia,Republic of Liberia,Republic of Liberia,Liberia
 9100,Libya,LBY,1960,Middle East & North Africa,Upper middle income,,1.592,,1990000.0,Libya
 9101,Libya,LBY,1961,Middle East & North Africa,Upper middle income,,1.85507246376812,,2560000.0,Libya
 9102,Libya,LBY,1962,Middle East & North Africa,Upper middle income,,3.10416666666667,,5960000.0,Libya
@@ -7278,7 +7167,6 @@
 9161,Libya,LBY,2021,Middle East & North Africa,Upper middle income,,,,,Libya
 9162,Libya,LBY,2022,Middle East & North Africa,Upper middle income,,,,,Libya
 9163,Libya,LBY,2023,Middle East & North Africa,Upper middle income,,,,,Libya
-9164,Libya,LBY,Long Name,Middle East & North Africa,Upper middle income,Socialist People's Libyan Arab Jamahiriya,Socialist People's Libyan Arab Jamahiriya,Socialist People's Libyan Arab Jamahiriya,Socialist People's Libyan Arab Jamahiriya,Libya
 9165,Liechtenstein,LIE,1960,Europe & Central Asia,High income,,,,,Liechtenstein
 9166,Liechtenstein,LIE,1961,Europe & Central Asia,High income,,,,,Liechtenstein
 9167,Liechtenstein,LIE,1962,Europe & Central Asia,High income,,,,,Liechtenstein
@@ -7343,7 +7231,6 @@
 9226,Liechtenstein,LIE,2021,Europe & Central Asia,High income,,,,,Liechtenstein
 9227,Liechtenstein,LIE,2022,Europe & Central Asia,High income,,,,,Liechtenstein
 9228,Liechtenstein,LIE,2023,Europe & Central Asia,High income,,,,,Liechtenstein
-9229,Liechtenstein,LIE,Long Name,Europe & Central Asia,High income,Principality of Liechtenstein,Principality of Liechtenstein,Principality of Liechtenstein,Principality of Liechtenstein,Liechtenstein
 9230,Lithuania,LTU,1960,Europe & Central Asia,High income,,,,,Lithuania
 9231,Lithuania,LTU,1961,Europe & Central Asia,High income,,,,,Lithuania
 9232,Lithuania,LTU,1962,Europe & Central Asia,High income,,,,,Lithuania
@@ -7408,7 +7295,6 @@
 9291,Lithuania,LTU,2021,Europe & Central Asia,High income,2000000.0,1.96692451680381,5.06625097427903,1105000000.0,Lithuania
 9292,Lithuania,LTU,2022,Europe & Central Asia,High income,29000000.0,2.52262366538611,6.41105488516933,1647000000.0,Lithuania
 9293,Lithuania,LTU,2023,Europe & Central Asia,High income,,,,,Lithuania
-9294,Lithuania,LTU,Long Name,Europe & Central Asia,High income,Republic of Lithuania,Republic of Lithuania,Republic of Lithuania,Republic of Lithuania,Lithuania
 9490,Luxembourg,LUX,1960,Europe & Central Asia,High income,,0.906952919286089,,5890486.88970848,Luxembourg
 9491,Luxembourg,LUX,1961,Europe & Central Asia,High income,,1.00015206896733,,6495797.65904969,Luxembourg
 9492,Luxembourg,LUX,1962,Europe & Central Asia,High income,,1.16246371645813,,7950531.09306942,Luxembourg
@@ -7473,7 +7359,6 @@
 9551,Luxembourg,LUX,2021,Europe & Central Asia,High income,,0.471678356636088,1.09400064164261,341000000.0,Luxembourg
 9552,Luxembourg,LUX,2022,Europe & Central Asia,High income,0.0,0.700406724896945,1.59647797710176,536831684.580237,Luxembourg
 9553,Luxembourg,LUX,2023,Europe & Central Asia,High income,,,,,Luxembourg
-9554,Luxembourg,LUX,Long Name,Europe & Central Asia,High income,Grand Duchy of Luxembourg,Grand Duchy of Luxembourg,Grand Duchy of Luxembourg,Grand Duchy of Luxembourg,Luxembourg
 9555,"Macao SAR, China",MAC,1960,East Asia & Pacific,High income,,,,,"Macao SAR, China"
 9556,"Macao SAR, China",MAC,1961,East Asia & Pacific,High income,,,,,"Macao SAR, China"
 9557,"Macao SAR, China",MAC,1962,East Asia & Pacific,High income,,,,,"Macao SAR, China"
@@ -7538,7 +7423,6 @@
 9616,"Macao SAR, China",MAC,2021,East Asia & Pacific,High income,,,,,"Macao SAR, China"
 9617,"Macao SAR, China",MAC,2022,East Asia & Pacific,High income,,,,,"Macao SAR, China"
 9618,"Macao SAR, China",MAC,2023,East Asia & Pacific,High income,,,,,"Macao SAR, China"
-9619,"Macao SAR, China",MAC,Long Name,East Asia & Pacific,High income,Macao Special Administrative Region of the People's Republic of China,Macao Special Administrative Region of the People's Republic of China,Macao Special Administrative Region of the People's Republic of China,Macao Special Administrative Region of the People's Republic of China,"Macao SAR, China"
 9620,Madagascar,MDG,1960,Sub-Saharan Africa,Low income,,,,79200000.0,Madagascar
 9621,Madagascar,MDG,1961,Sub-Saharan Africa,Low income,,1.50215208034433,,418800000.0,Madagascar
 9622,Madagascar,MDG,1962,Sub-Saharan Africa,Low income,,1.53731343283582,,453200000.0,Madagascar
@@ -7603,7 +7487,6 @@
 9681,Madagascar,MDG,2021,Sub-Saharan Africa,Low income,,0.692132176722242,3.72274154181502,378429000000.0,Madagascar
 9682,Madagascar,MDG,2022,Sub-Saharan Africa,Low income,,0.651003969501107,3.14709019421265,404553000000.0,Madagascar
 9683,Madagascar,MDG,2023,Sub-Saharan Africa,Low income,,,,,Madagascar
-9684,Madagascar,MDG,Long Name,Sub-Saharan Africa,Low income,Republic of Madagascar,Republic of Madagascar,Republic of Madagascar,Republic of Madagascar,Madagascar
 9685,Malawi,MWI,1960,Sub-Saharan Africa,Low income,,,,,Malawi
 9686,Malawi,MWI,1961,Sub-Saharan Africa,Low income,,,,,Malawi
 9687,Malawi,MWI,1962,Sub-Saharan Africa,Low income,,,,,Malawi
@@ -7668,7 +7551,6 @@
 9746,Malawi,MWI,2021,Sub-Saharan Africa,Low income,,0.75913111163443,3.2092082519131195,72852750000.0,Malawi
 9747,Malawi,MWI,2022,Sub-Saharan Africa,Low income,,0.636293160064403,2.85856129893905,71017125000.0,Malawi
 9748,Malawi,MWI,2023,Sub-Saharan Africa,Low income,,,,,Malawi
-9749,Malawi,MWI,Long Name,Sub-Saharan Africa,Low income,Republic of Malawi,Republic of Malawi,Republic of Malawi,Republic of Malawi,Malawi
 9750,Malaysia,MYS,1960,East Asia & Pacific,Upper middle income,,2.6764405046028,,157000000.0,Malaysia
 9751,Malaysia,MYS,1961,East Asia & Pacific,Upper middle income,,2.2329096530401897,,130000000.0,Malaysia
 9752,Malaysia,MYS,1962,East Asia & Pacific,Upper middle income,,2.1870409662151102,,134000000.0,Malaysia
@@ -7733,7 +7615,6 @@
 9811,Malaysia,MYS,2021,East Asia & Pacific,Upper middle income,,0.986864882084694,4.1451604117871295,15220200000.0,Malaysia
 9812,Malaysia,MYS,2022,East Asia & Pacific,Upper middle income,,0.957534540141842,4.2794964705757605,16144700000.0,Malaysia
 9813,Malaysia,MYS,2023,East Asia & Pacific,Upper middle income,,,,,Malaysia
-9814,Malaysia,MYS,Long Name,East Asia & Pacific,Upper middle income,Malaysia,Malaysia,Malaysia,Malaysia,Malaysia
 9815,Maldives,MDV,1960,South Asia,Upper middle income,,,,,Maldives
 9816,Maldives,MDV,1961,South Asia,Upper middle income,,,,,Maldives
 9817,Maldives,MDV,1962,South Asia,Upper middle income,,,,,Maldives
@@ -7798,7 +7679,6 @@
 9876,Maldives,MDV,2021,South Asia,Upper middle income,,,,,Maldives
 9877,Maldives,MDV,2022,South Asia,Upper middle income,,,,,Maldives
 9878,Maldives,MDV,2023,South Asia,Upper middle income,,,,,Maldives
-9879,Maldives,MDV,Long Name,South Asia,Upper middle income,Republic of Maldives,Republic of Maldives,Republic of Maldives,Republic of Maldives,Maldives
 9880,Mali,MLI,1960,Sub-Saharan Africa,Low income,,,,,Mali
 9881,Mali,MLI,1961,Sub-Saharan Africa,Low income,,2.70224719101124,,962000000.0,Mali
 9882,Mali,MLI,1962,Sub-Saharan Africa,Low income,,2.89130434782609,,1064000000.0,Mali
@@ -7863,7 +7743,6 @@
 9941,Mali,MLI,2021,Sub-Saharan Africa,Low income,,3.43787625232372,12.5687513580194,362110000000.0,Mali
 9942,Mali,MLI,2022,Sub-Saharan Africa,Low income,,2.83404367131954,11.4312261043594,321233000000.0,Mali
 9943,Mali,MLI,2023,Sub-Saharan Africa,Low income,,,,,Mali
-9944,Mali,MLI,Long Name,Sub-Saharan Africa,Low income,Republic of Mali,Republic of Mali,Republic of Mali,Republic of Mali,Mali
 9945,Malta,MLT,1960,Middle East & North Africa,High income,,,,,Malta
 9946,Malta,MLT,1961,Middle East & North Africa,High income,,,,,Malta
 9947,Malta,MLT,1962,Middle East & North Africa,High income,,,,,Malta
@@ -7928,7 +7807,6 @@
 10006,Malta,MLT,2021,Middle East & North Africa,High income,,0.496378473621832,1.12241171143978,74371000.0,Malta
 10007,Malta,MLT,2022,Middle East & North Africa,High income,,0.4992068649901249,1.21873986735446,82691500.0,Malta
 10008,Malta,MLT,2023,Middle East & North Africa,High income,,,,,Malta
-10009,Malta,MLT,Long Name,Middle East & North Africa,High income,Republic of Malta,Republic of Malta,Republic of Malta,Republic of Malta,Malta
 10010,Marshall Islands,MHL,1960,East Asia & Pacific,Upper middle income,,,,,Marshall Islands
 10011,Marshall Islands,MHL,1961,East Asia & Pacific,Upper middle income,,,,,Marshall Islands
 10012,Marshall Islands,MHL,1962,East Asia & Pacific,Upper middle income,,,,,Marshall Islands
@@ -7993,7 +7871,6 @@
 10071,Marshall Islands,MHL,2021,East Asia & Pacific,Upper middle income,,,,,Marshall Islands
 10072,Marshall Islands,MHL,2022,East Asia & Pacific,Upper middle income,,,,,Marshall Islands
 10073,Marshall Islands,MHL,2023,East Asia & Pacific,Upper middle income,,,,,Marshall Islands
-10074,Marshall Islands,MHL,Long Name,East Asia & Pacific,Upper middle income,Republic of the Marshall Islands,Republic of the Marshall Islands,Republic of the Marshall Islands,Republic of the Marshall Islands,Marshall Islands
 10075,Mauritania,MRT,1960,Sub-Saharan Africa,Lower middle income,,,,,Mauritania
 10076,Mauritania,MRT,1961,Sub-Saharan Africa,Lower middle income,,,,,Mauritania
 10077,Mauritania,MRT,1962,Sub-Saharan Africa,Lower middle income,,,,,Mauritania
@@ -8058,7 +7935,6 @@
 10136,Mauritania,MRT,2021,Sub-Saharan Africa,Lower middle income,,2.29399489807024,13.0632167567055,8269800000.0,Mauritania
 10137,Mauritania,MRT,2022,Sub-Saharan Africa,Lower middle income,,2.27396340852315,12.1954968671312,8330500000.0,Mauritania
 10138,Mauritania,MRT,2023,Sub-Saharan Africa,Lower middle income,,,,,Mauritania
-10139,Mauritania,MRT,Long Name,Sub-Saharan Africa,Lower middle income,Islamic Republic of Mauritania,Islamic Republic of Mauritania,Islamic Republic of Mauritania,Islamic Republic of Mauritania,Mauritania
 10140,Mauritius,MUS,1960,Sub-Saharan Africa,Upper middle income,,,,,Mauritius
 10141,Mauritius,MUS,1961,Sub-Saharan Africa,Upper middle income,,,,,Mauritius
 10142,Mauritius,MUS,1962,Sub-Saharan Africa,Upper middle income,,,,,Mauritius
@@ -8123,7 +7999,6 @@
 10201,Mauritius,MUS,2021,Sub-Saharan Africa,Upper middle income,,0.166434352050263,0.539119886784824,800000000.0,Mauritius
 10202,Mauritius,MUS,2022,Sub-Saharan Africa,Upper middle income,,0.166673188359335,0.586279641237293,895934959.349594,Mauritius
 10203,Mauritius,MUS,2023,Sub-Saharan Africa,Upper middle income,,,,,Mauritius
-10204,Mauritius,MUS,Long Name,Sub-Saharan Africa,Upper middle income,Republic of Mauritius,Republic of Mauritius,Republic of Mauritius,Republic of Mauritius,Mauritius
 10205,Mexico,MEX,1960,Latin America & Caribbean,Upper middle income,,0.6735086593970491,,1050000.0,Mexico
 10206,Mexico,MEX,1961,Latin America & Caribbean,Upper middle income,,0.651780325890163,,1080000.0,Mexico
 10207,Mexico,MEX,1962,Latin America & Caribbean,Upper middle income,,0.689655172413793,,1240000.0,Mexico
@@ -8188,7 +8063,6 @@
 10266,Mexico,MEX,2021,Latin America & Caribbean,Upper middle income,,0.682059196439262,2.47209962833216,175995200000.0,Mexico
 10267,Mexico,MEX,2022,Latin America & Caribbean,Upper middle income,,0.606752933062896,2.21739981290607,171661470000.0,Mexico
 10268,Mexico,MEX,2023,Latin America & Caribbean,Upper middle income,,,,,Mexico
-10269,Mexico,MEX,Long Name,Latin America & Caribbean,Upper middle income,United Mexican States,United Mexican States,United Mexican States,United Mexican States,Mexico
 10270,"Micronesia, Fed. Sts.",FSM,1960,East Asia & Pacific,Lower middle income,,,,,"Micronesia, Fed. Sts."
 10271,"Micronesia, Fed. Sts.",FSM,1961,East Asia & Pacific,Lower middle income,,,,,"Micronesia, Fed. Sts."
 10272,"Micronesia, Fed. Sts.",FSM,1962,East Asia & Pacific,Lower middle income,,,,,"Micronesia, Fed. Sts."
@@ -8253,7 +8127,6 @@
 10331,"Micronesia, Fed. Sts.",FSM,2021,East Asia & Pacific,Lower middle income,,,,,"Micronesia, Fed. Sts."
 10332,"Micronesia, Fed. Sts.",FSM,2022,East Asia & Pacific,Lower middle income,,,,,"Micronesia, Fed. Sts."
 10333,"Micronesia, Fed. Sts.",FSM,2023,East Asia & Pacific,Lower middle income,,,,,"Micronesia, Fed. Sts."
-10334,"Micronesia, Fed. Sts.",FSM,Long Name,East Asia & Pacific,Lower middle income,Federated States of Micronesia,Federated States of Micronesia,Federated States of Micronesia,Federated States of Micronesia,"Micronesia, Fed. Sts."
 10595,Moldova,MDA,1960,Europe & Central Asia,Upper middle income,,,,,Moldova
 10596,Moldova,MDA,1961,Europe & Central Asia,Upper middle income,,,,,Moldova
 10597,Moldova,MDA,1962,Europe & Central Asia,Upper middle income,,,,,Moldova
@@ -8318,7 +8191,6 @@
 10656,Moldova,MDA,2021,Europe & Central Asia,Upper middle income,,0.367566304907699,1.09229041737344,914400000.0,Moldova
 10657,Moldova,MDA,2022,Europe & Central Asia,Upper middle income,,0.315219358256148,0.8754744823167361,901800000.0,Moldova
 10658,Moldova,MDA,2023,Europe & Central Asia,Upper middle income,,,,,Moldova
-10659,Moldova,MDA,Long Name,Europe & Central Asia,Upper middle income,Republic of Moldova,Republic of Moldova,Republic of Moldova,Republic of Moldova,Moldova
 10660,Monaco,MCO,1960,Europe & Central Asia,High income,,,,,Monaco
 10661,Monaco,MCO,1961,Europe & Central Asia,High income,,,,,Monaco
 10662,Monaco,MCO,1962,Europe & Central Asia,High income,,,,,Monaco
@@ -8383,7 +8255,6 @@
 10721,Monaco,MCO,2021,Europe & Central Asia,High income,,,,,Monaco
 10722,Monaco,MCO,2022,Europe & Central Asia,High income,,,,,Monaco
 10723,Monaco,MCO,2023,Europe & Central Asia,High income,,,,,Monaco
-10724,Monaco,MCO,Long Name,Europe & Central Asia,High income,Principality of Monaco,Principality of Monaco,Principality of Monaco,Principality of Monaco,Monaco
 10725,Mongolia,MNG,1960,East Asia & Pacific,Upper middle income,,,,,Mongolia
 10726,Mongolia,MNG,1961,East Asia & Pacific,Upper middle income,,,,,Mongolia
 10727,Mongolia,MNG,1962,East Asia & Pacific,Upper middle income,,,,,Mongolia
@@ -8448,7 +8319,6 @@
 10786,Mongolia,MNG,2021,East Asia & Pacific,Upper middle income,,0.634517577391162,1.80253390982892,283646700000.0,Mongolia
 10787,Mongolia,MNG,2022,East Asia & Pacific,Upper middle income,,0.603063250173256,1.77562351200637,310511700000.0,Mongolia
 10788,Mongolia,MNG,2023,East Asia & Pacific,Upper middle income,,,,,Mongolia
-10789,Mongolia,MNG,Long Name,East Asia & Pacific,Upper middle income,Mongolia,Mongolia,Mongolia,Mongolia,Mongolia
 10790,Montenegro,MNE,1960,Europe & Central Asia,Upper middle income,,,,,Montenegro
 10791,Montenegro,MNE,1961,Europe & Central Asia,Upper middle income,,,,,Montenegro
 10792,Montenegro,MNE,1962,Europe & Central Asia,Upper middle income,,,,,Montenegro
@@ -8513,7 +8383,6 @@
 10851,Montenegro,MNE,2021,Europe & Central Asia,Upper middle income,,1.55528019503059,3.5335167354424604,77066000.0,Montenegro
 10852,Montenegro,MNE,2022,Europe & Central Asia,Upper middle income,,1.60746495179336,3.9452582557155,93187000.0,Montenegro
 10853,Montenegro,MNE,2023,Europe & Central Asia,Upper middle income,,,,,Montenegro
-10854,Montenegro,MNE,Long Name,Europe & Central Asia,Upper middle income,Montenegro,Montenegro,Montenegro,Montenegro,Montenegro
 10855,Morocco,MAR,1960,Middle East & North Africa,Lower middle income,,2.31573157315732,,210500000.0,Morocco
 10856,Morocco,MAR,1961,Middle East & North Africa,Lower middle income,,2.70243362831858,,244300000.0,Morocco
 10857,Morocco,MAR,1962,Middle East & North Africa,Lower middle income,2000000.0,2.56591337099812,,272500000.0,Morocco
@@ -8578,7 +8447,6 @@
 10916,Morocco,MAR,2021,Middle East & North Africa,Lower middle income,,3.94279963364595,12.374587991986,47868000000.0,Morocco
 10917,Morocco,MAR,2022,Middle East & North Africa,Lower middle income,21000000.0,3.9049262229450097,12.0561586842212,50739670000.0,Morocco
 10918,Morocco,MAR,2023,Middle East & North Africa,Lower middle income,,,,,Morocco
-10919,Morocco,MAR,Long Name,Middle East & North Africa,Lower middle income,Kingdom of Morocco,Kingdom of Morocco,Kingdom of Morocco,Kingdom of Morocco,Morocco
 10920,Mozambique,MOZ,1960,Sub-Saharan Africa,Low income,,,,,Mozambique
 10921,Mozambique,MOZ,1961,Sub-Saharan Africa,Low income,,,,,Mozambique
 10922,Mozambique,MOZ,1962,Sub-Saharan Africa,Low income,,,,,Mozambique
@@ -8643,7 +8511,6 @@
 10981,Mozambique,MOZ,2021,Sub-Saharan Africa,Low income,,1.88537169538203,6.2643827642155605,20231200000.0,Mozambique
 10982,Mozambique,MOZ,2022,Sub-Saharan Africa,Low income,,1.5078235912053,4.72975246587731,17991600000.0,Mozambique
 10983,Mozambique,MOZ,2023,Sub-Saharan Africa,Low income,,,,,Mozambique
-10984,Mozambique,MOZ,Long Name,Sub-Saharan Africa,Low income,Republic of Mozambique,Republic of Mozambique,Republic of Mozambique,Republic of Mozambique,Mozambique
 10985,Myanmar,MMR,1960,East Asia & Pacific,Lower middle income,,,,426250000.0,Myanmar
 10986,Myanmar,MMR,1961,East Asia & Pacific,Lower middle income,,6.12346049864824,,407700000.0,Myanmar
 10987,Myanmar,MMR,1962,East Asia & Pacific,Lower middle income,,5.69071146245059,,431925000.0,Myanmar
@@ -8708,7 +8575,6 @@
 11046,Myanmar,MMR,2021,East Asia & Pacific,Lower middle income,,3.39115163606364,15.4559425971532,3345512500000.0,Myanmar
 11047,Myanmar,MMR,2022,East Asia & Pacific,Lower middle income,,3.04694924417989,14.2360644262908,3581985000000.0,Myanmar
 11048,Myanmar,MMR,2023,East Asia & Pacific,Lower middle income,,,,,Myanmar
-11049,Myanmar,MMR,Long Name,East Asia & Pacific,Lower middle income,Republic of the Union of Myanmar,Republic of the Union of Myanmar,Republic of the Union of Myanmar,Republic of the Union of Myanmar,Myanmar
 11050,Namibia,NAM,1960,Sub-Saharan Africa,Upper middle income,,,,,Namibia
 11051,Namibia,NAM,1961,Sub-Saharan Africa,Upper middle income,,,,,Namibia
 11052,Namibia,NAM,1962,Sub-Saharan Africa,Upper middle income,,,,,Namibia
@@ -8773,7 +8639,6 @@
 11111,Namibia,NAM,2021,Sub-Saharan Africa,Upper middle income,,3.25048104938115,8.33697521639834,5913750000.0,Namibia
 11112,Namibia,NAM,2022,Sub-Saharan Africa,Upper middle income,,3.0043137723859004,8.33678384607953,6040250000.0,Namibia
 11113,Namibia,NAM,2023,Sub-Saharan Africa,Upper middle income,,,,,Namibia
-11114,Namibia,NAM,Long Name,Sub-Saharan Africa,Upper middle income,Republic of Namibia,Republic of Namibia,Republic of Namibia,Republic of Namibia,Namibia
 11115,Nauru,NRU,1960,East Asia & Pacific,High income,,,,,Nauru
 11116,Nauru,NRU,1961,East Asia & Pacific,High income,,,,,Nauru
 11117,Nauru,NRU,1962,East Asia & Pacific,High income,,,,,Nauru
@@ -8838,7 +8703,6 @@
 11176,Nauru,NRU,2021,East Asia & Pacific,High income,,,,,Nauru
 11177,Nauru,NRU,2022,East Asia & Pacific,High income,,,,,Nauru
 11178,Nauru,NRU,2023,East Asia & Pacific,High income,,,,,Nauru
-11179,Nauru,NRU,Long Name,East Asia & Pacific,High income,Republic of Nauru,Republic of Nauru,Republic of Nauru,Republic of Nauru,Nauru
 11180,Nepal,NPL,1960,South Asia,Lower middle income,,,,,Nepal
 11181,Nepal,NPL,1961,South Asia,Lower middle income,,,,,Nepal
 11182,Nepal,NPL,1962,South Asia,Lower middle income,,,,,Nepal
@@ -8903,7 +8767,6 @@
 11241,Nepal,NPL,2021,South Asia,Lower middle income,,1.23009788741636,4.43756040867895,52615000000.0,Nepal
 11242,Nepal,NPL,2022,South Asia,Lower middle income,,1.13585458892798,3.7811284743938,53807500000.0,Nepal
 11243,Nepal,NPL,2023,South Asia,Lower middle income,,,,,Nepal
-11244,Nepal,NPL,Long Name,South Asia,Lower middle income,Nepal,Nepal,Nepal,Nepal,Nepal
 11245,Netherlands,NLD,1960,Europe & Central Asia,High income,35000000.0,3.7039017965883296,,784100000.0,Netherlands
 11246,Netherlands,NLD,1961,Europe & Central Asia,High income,108000000.0,4.08728387914001,,913500000.0,Netherlands
 11247,Netherlands,NLD,1962,Europe & Central Asia,High income,65000000.0,4.122775250127949,,991960000.0,Netherlands
@@ -8968,7 +8831,6 @@
 11306,Netherlands,NLD,2021,Europe & Central Asia,High income,347000000.0,1.37664709536688,2.90675884923022,11789000000.0,Netherlands
 11307,Netherlands,NLD,2022,Europe & Central Asia,High income,295000000.0,1.5832811384634795,3.6702911814467103,14838400000.0,Netherlands
 11308,Netherlands,NLD,2023,Europe & Central Asia,High income,,,,,Netherlands
-11309,Netherlands,NLD,Long Name,Europe & Central Asia,High income,Kingdom of the Netherlands,Kingdom of the Netherlands,Kingdom of the Netherlands,Kingdom of the Netherlands,Netherlands
 11310,New Caledonia,NCL,1960,East Asia & Pacific,High income,,,,,New Caledonia
 11311,New Caledonia,NCL,1961,East Asia & Pacific,High income,,,,,New Caledonia
 11312,New Caledonia,NCL,1962,East Asia & Pacific,High income,,,,,New Caledonia
@@ -9033,7 +8895,6 @@
 11371,New Caledonia,NCL,2021,East Asia & Pacific,High income,,,,,New Caledonia
 11372,New Caledonia,NCL,2022,East Asia & Pacific,High income,,,,,New Caledonia
 11373,New Caledonia,NCL,2023,East Asia & Pacific,High income,,,,,New Caledonia
-11374,New Caledonia,NCL,Long Name,East Asia & Pacific,High income,New Caledonia,New Caledonia,New Caledonia,New Caledonia,New Caledonia
 11375,New Zealand,NZL,1960,East Asia & Pacific,High income,,2.69073315965761,,72300000.0,New Zealand
 11376,New Zealand,NZL,1961,East Asia & Pacific,High income,,2.48562702120014,,69175000.0,New Zealand
 11377,New Zealand,NZL,1962,East Asia & Pacific,High income,,2.30993664554852,,69275000.0,New Zealand
@@ -9098,7 +8959,6 @@
 11436,New Zealand,NZL,2021,East Asia & Pacific,High income,,1.16789777249676,2.75620207563245,4108477500.0,New Zealand
 11437,New Zealand,NZL,2022,East Asia & Pacific,High income,20000000.0,1.1788672845172,2.8197546822753004,4460936500.0,New Zealand
 11438,New Zealand,NZL,2023,East Asia & Pacific,High income,,,,,New Zealand
-11439,New Zealand,NZL,Long Name,East Asia & Pacific,High income,New Zealand,New Zealand,New Zealand,New Zealand,New Zealand
 11440,Nicaragua,NIC,1960,Latin America & Caribbean,Lower middle income,,,,,Nicaragua
 11441,Nicaragua,NIC,1961,Latin America & Caribbean,Lower middle income,,,,,Nicaragua
 11442,Nicaragua,NIC,1962,Latin America & Caribbean,Lower middle income,,,,,Nicaragua
@@ -9163,7 +9023,6 @@
 11501,Nicaragua,NIC,2021,Latin America & Caribbean,Lower middle income,,0.540141928775309,1.80097842415219,2709500000.0,Nicaragua
 11502,Nicaragua,NIC,2022,Latin America & Caribbean,Lower middle income,,0.52647269455043,1.96634737479569,3019700000.0,Nicaragua
 11503,Nicaragua,NIC,2023,Latin America & Caribbean,Lower middle income,,,,,Nicaragua
-11504,Nicaragua,NIC,Long Name,Latin America & Caribbean,Lower middle income,Republic of Nicaragua,Republic of Nicaragua,Republic of Nicaragua,Republic of Nicaragua,Nicaragua
 11505,Niger,NER,1960,Sub-Saharan Africa,Low income,,,,,Niger
 11506,Niger,NER,1961,Sub-Saharan Africa,Low income,,,,,Niger
 11507,Niger,NER,1962,Sub-Saharan Africa,Low income,,,,,Niger
@@ -9228,7 +9087,6 @@
 11566,Niger,NER,2021,Sub-Saharan Africa,Low income,,1.35370281969671,5.5964512935250506,112260000000.0,Niger
 11567,Niger,NER,2022,Sub-Saharan Africa,Low income,,1.66437842193306,7.20712993314854,151244000000.0,Niger
 11568,Niger,NER,2023,Sub-Saharan Africa,Low income,,,,,Niger
-11569,Niger,NER,Long Name,Sub-Saharan Africa,Low income,Republic of Niger,Republic of Niger,Republic of Niger,Republic of Niger,Niger
 11570,Nigeria,NGA,1960,Sub-Saharan Africa,Lower middle income,,0.6958333333333331,,16700000.0,Nigeria
 11571,Nigeria,NGA,1961,Sub-Saharan Africa,Lower middle income,,0.849453322119428,,20200000.0,Nigeria
 11572,Nigeria,NGA,1962,Sub-Saharan Africa,Lower middle income,,1.09697933227345,,27600000.0,Nigeria
@@ -9293,7 +9151,6 @@
 11631,Nigeria,NGA,2021,Sub-Saharan Africa,Lower middle income,2000000.0,1.01270192678284,7.6355294487219005,1783120000000.0,Nigeria
 11632,Nigeria,NGA,2022,Sub-Saharan Africa,Lower middle income,3000000.0,0.6355445511072519,4.2157747664872,1315710000000.0,Nigeria
 11633,Nigeria,NGA,2023,Sub-Saharan Africa,Lower middle income,,,,,Nigeria
-11634,Nigeria,NGA,Long Name,Sub-Saharan Africa,Lower middle income,Federal Republic of Nigeria,Federal Republic of Nigeria,Federal Republic of Nigeria,Federal Republic of Nigeria,Nigeria
 11700,North Macedonia,MKD,1960,Europe & Central Asia,Upper middle income,,,,,North Macedonia
 11701,North Macedonia,MKD,1961,Europe & Central Asia,Upper middle income,,,,,North Macedonia
 11702,North Macedonia,MKD,1962,Europe & Central Asia,Upper middle income,,,,,North Macedonia
@@ -9358,7 +9215,6 @@
 11761,North Macedonia,MKD,2021,Europe & Central Asia,Upper middle income,,1.46631957337464,4.12184011691179,10605000000.0,North Macedonia
 11762,North Macedonia,MKD,2022,Europe & Central Asia,Upper middle income,31000000.0,1.60534290001473,4.59497158001186,13177000000.0,North Macedonia
 11763,North Macedonia,MKD,2023,Europe & Central Asia,Upper middle income,,,,,North Macedonia
-11764,North Macedonia,MKD,Long Name,Europe & Central Asia,Upper middle income,Republic of North Macedonia,Republic of North Macedonia,Republic of North Macedonia,Republic of North Macedonia,North Macedonia
 11765,Northern Mariana Islands,MNP,1960,East Asia & Pacific,High income,,,,,Northern Mariana Islands
 11766,Northern Mariana Islands,MNP,1961,East Asia & Pacific,High income,,,,,Northern Mariana Islands
 11767,Northern Mariana Islands,MNP,1962,East Asia & Pacific,High income,,,,,Northern Mariana Islands
@@ -9423,7 +9279,6 @@
 11826,Northern Mariana Islands,MNP,2021,East Asia & Pacific,High income,,,,,Northern Mariana Islands
 11827,Northern Mariana Islands,MNP,2022,East Asia & Pacific,High income,,,,,Northern Mariana Islands
 11828,Northern Mariana Islands,MNP,2023,East Asia & Pacific,High income,,,,,Northern Mariana Islands
-11829,Northern Mariana Islands,MNP,Long Name,East Asia & Pacific,High income,Commonwealth of the Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Northern Mariana Islands
 11830,Norway,NOR,1960,Europe & Central Asia,High income,38000000.0,3.2004355980398103,,1058000000.0,Norway
 11831,Norway,NOR,1961,Europe & Central Asia,High income,,3.00420435724296,,1179000000.0,Norway
 11832,Norway,NOR,1962,Europe & Central Asia,High income,25000000.0,3.2415179099184304,,1371000000.0,Norway
@@ -9488,7 +9343,6 @@
 11891,Norway,NOR,2021,Europe & Central Asia,High income,119000000.0,1.72188687044335,3.5633976337423303,72483000000.0,Norway
 11892,Norway,NOR,2022,Europe & Central Asia,High income,88000000.0,1.63766554089693,3.7756624679994903,80615000000.0,Norway
 11893,Norway,NOR,2023,Europe & Central Asia,High income,,,,,Norway
-11894,Norway,NOR,Long Name,Europe & Central Asia,High income,Kingdom of Norway,Kingdom of Norway,Kingdom of Norway,Kingdom of Norway,Norway
 12025,Oman,OMN,1960,Middle East & North Africa,High income,,,,,Oman
 12026,Oman,OMN,1961,Middle East & North Africa,High income,,,,,Oman
 12027,Oman,OMN,1962,Middle East & North Africa,High income,,,,,Oman
@@ -9553,7 +9407,6 @@
 12086,Oman,OMN,2021,Middle East & North Africa,High income,,6.557983220285619,18.5069906790945,2223800000.0,Oman
 12087,Oman,OMN,2022,Middle East & North Africa,High income,,5.16766661805132,17.601313914833,2223750000.0,Oman
 12088,Oman,OMN,2023,Middle East & North Africa,High income,,,,,Oman
-12089,Oman,OMN,Long Name,Middle East & North Africa,High income,Sultanate of Oman,Sultanate of Oman,Sultanate of Oman,Sultanate of Oman,Oman
 12220,Pakistan,PAK,1960,South Asia,Lower middle income,,4.3126626192541195,,994500000.0,Pakistan
 12221,Pakistan,PAK,1961,South Asia,Lower middle income,,4.09789064099939,,1000500000.0,Pakistan
 12222,Pakistan,PAK,1962,South Asia,Lower middle income,,3.6558727725617897,,954000000.0,Pakistan
@@ -9618,7 +9471,6 @@
 12281,Pakistan,PAK,2021,South Asia,Lower middle income,53000000.0,2.87198606564158,18.6562912365132,1922792000000.0,Pakistan
 12282,Pakistan,PAK,2022,South Asia,Lower middle income,,2.6307402802317097,17.889271109874898,2113385000000.0,Pakistan
 12283,Pakistan,PAK,2023,South Asia,Lower middle income,,,,,Pakistan
-12284,Pakistan,PAK,Long Name,South Asia,Lower middle income,Islamic Republic of Pakistan,Islamic Republic of Pakistan,Islamic Republic of Pakistan,Islamic Republic of Pakistan,Pakistan
 12285,Palau,PLW,1960,East Asia & Pacific,High income,,,,,Palau
 12286,Palau,PLW,1961,East Asia & Pacific,High income,,,,,Palau
 12287,Palau,PLW,1962,East Asia & Pacific,High income,,,,,Palau
@@ -9683,7 +9535,6 @@
 12346,Palau,PLW,2021,East Asia & Pacific,High income,,,,,Palau
 12347,Palau,PLW,2022,East Asia & Pacific,High income,,,,,Palau
 12348,Palau,PLW,2023,East Asia & Pacific,High income,,,,,Palau
-12349,Palau,PLW,Long Name,East Asia & Pacific,High income,Republic of Palau,Republic of Palau,Republic of Palau,Republic of Palau,Palau
 12350,Panama,PAN,1960,Latin America & Caribbean,High income,,,,,Panama
 12351,Panama,PAN,1961,Latin America & Caribbean,High income,,,,,Panama
 12352,Panama,PAN,1962,Latin America & Caribbean,High income,,,,,Panama
@@ -9748,7 +9599,6 @@
 12411,Panama,PAN,2021,Latin America & Caribbean,High income,,,,0.0,Panama
 12412,Panama,PAN,2022,Latin America & Caribbean,High income,,,,0.0,Panama
 12413,Panama,PAN,2023,Latin America & Caribbean,High income,,,,,Panama
-12414,Panama,PAN,Long Name,Latin America & Caribbean,High income,Republic of Panama,Republic of Panama,Republic of Panama,Republic of Panama,Panama
 12415,Papua New Guinea,PNG,1960,East Asia & Pacific,Lower middle income,,,,,Papua New Guinea
 12416,Papua New Guinea,PNG,1961,East Asia & Pacific,Lower middle income,,,,,Papua New Guinea
 12417,Papua New Guinea,PNG,1962,East Asia & Pacific,Lower middle income,,,,,Papua New Guinea
@@ -9813,7 +9663,6 @@
 12476,Papua New Guinea,PNG,2021,East Asia & Pacific,Lower middle income,,0.339121498498937,1.50490461872135,305300000.0,Papua New Guinea
 12477,Papua New Guinea,PNG,2022,East Asia & Pacific,Lower middle income,,0.332904919500801,1.55039458850056,343800000.0,Papua New Guinea
 12478,Papua New Guinea,PNG,2023,East Asia & Pacific,Lower middle income,,,,,Papua New Guinea
-12479,Papua New Guinea,PNG,Long Name,East Asia & Pacific,Lower middle income,The Independent State of Papua New Guinea,The Independent State of Papua New Guinea,The Independent State of Papua New Guinea,The Independent State of Papua New Guinea,Papua New Guinea
 12480,Paraguay,PRY,1960,Latin America & Caribbean,Upper middle income,,2.52896446576405,,873074402.515723,Paraguay
 12481,Paraguay,PRY,1961,Latin America & Caribbean,Upper middle income,,2.27914968110271,,905620125.786163,Paraguay
 12482,Paraguay,PRY,1962,Latin America & Caribbean,Upper middle income,,2.29739211371685,,1042878176.10063,Paraguay
@@ -9878,7 +9727,6 @@
 12541,Paraguay,PRY,2021,Latin America & Caribbean,Upper middle income,,0.928803634265998,3.71824957139505,2485000000000.0,Paraguay
 12542,Paraguay,PRY,2022,Latin America & Caribbean,Upper middle income,,0.831483478747864,3.69803640151764,2551939000000.0,Paraguay
 12543,Paraguay,PRY,2023,Latin America & Caribbean,Upper middle income,,,,,Paraguay
-12544,Paraguay,PRY,Long Name,Latin America & Caribbean,Upper middle income,Republic of Paraguay,Republic of Paraguay,Republic of Paraguay,Republic of Paraguay,Paraguay
 12545,Peru,PER,1960,Latin America & Caribbean,Upper middle income,,2.50800127271706,,1.34,Peru
 12546,Peru,PER,1961,Latin America & Caribbean,Upper middle income,,2.64475743348983,,1.69,Peru
 12547,Peru,PER,1962,Latin America & Caribbean,Upper middle income,,2.42506811989101,,1.78,Peru
@@ -9943,7 +9791,6 @@
 12606,Peru,PER,2021,Latin America & Caribbean,Upper middle income,,1.18067972352829,4.95947767734136,10228724330.4095,Peru
 12607,Peru,PER,2022,Latin America & Caribbean,Upper middle income,,1.15356717784348,4.95933148138887,10908000000.0,Peru
 12608,Peru,PER,2023,Latin America & Caribbean,Upper middle income,,,,,Peru
-12609,Peru,PER,Long Name,Latin America & Caribbean,Upper middle income,Republic of Peru,Republic of Peru,Republic of Peru,Republic of Peru,Peru
 12610,Philippines,PHL,1960,East Asia & Pacific,Lower middle income,,1.77845890655072,,249500000.0,Philippines
 12611,Philippines,PHL,1961,East Asia & Pacific,Lower middle income,,1.7029080429656802,,260000000.0,Philippines
 12612,Philippines,PHL,1962,East Asia & Pacific,Lower middle income,,1.8088157817713504,,309000000.0,Philippines
@@ -10008,7 +9855,6 @@
 12671,Philippines,PHL,2021,East Asia & Pacific,Lower middle income,,1.40682590650867,5.24785457522463,273072900000.0,Philippines
 12672,Philippines,PHL,2022,East Asia & Pacific,Lower middle income,,0.9962954697411288,3.861498356920539,216050138000.0,Philippines
 12673,Philippines,PHL,2023,East Asia & Pacific,Lower middle income,,,,,Philippines
-12674,Philippines,PHL,Long Name,East Asia & Pacific,Lower middle income,Republic of the Philippines,Republic of the Philippines,Republic of the Philippines,Republic of the Philippines,Philippines
 12675,Poland,POL,1960,Europe & Central Asia,High income,5000000.0,,,1420000.0,Poland
 12676,Poland,POL,1961,Europe & Central Asia,High income,5000000.0,,,1610000.0,Poland
 12677,Poland,POL,1962,Europe & Central Asia,High income,12000000.0,,,1750000.0,Poland
@@ -10073,7 +9919,6 @@
 12736,Poland,POL,2021,Europe & Central Asia,High income,3000000.0,2.22199525295471,5.0338966075764,58304000000.0,Poland
 12737,Poland,POL,2022,Europe & Central Asia,High income,452000000.0,2.38851188830618,5.84000828751345,73850000000.0,Poland
 12738,Poland,POL,2023,Europe & Central Asia,High income,,,,,Poland
-12739,Poland,POL,Long Name,Europe & Central Asia,High income,Republic of Poland,Republic of Poland,Republic of Poland,Republic of Poland,Poland
 12740,Portugal,PRT,1960,Europe & Central Asia,High income,,2.55567079028491,,11388551.0313484,Portugal
 12741,Portugal,PRT,1961,Europe & Central Asia,High income,,3.88750179030931,,18540379.8288861,Portugal
 12742,Portugal,PRT,1962,Europe & Central Asia,High income,,4.22667364735832,,21636736.5416532,Portugal
@@ -10138,7 +9983,6 @@
 12801,Portugal,PRT,2021,Europe & Central Asia,High income,11000000.0,1.53634038088802,3.2390614094586505,3295000000.0,Portugal
 12802,Portugal,PRT,2022,Europe & Central Asia,High income,2000000.0,1.35438934019624,3.13645659570057,3328000000.0,Portugal
 12803,Portugal,PRT,2023,Europe & Central Asia,High income,,,,,Portugal
-12804,Portugal,PRT,Long Name,Europe & Central Asia,High income,Portuguese Republic,Portuguese Republic,Portuguese Republic,Portuguese Republic,Portugal
 12935,Puerto Rico,PRI,1960,Latin America & Caribbean,High income,,,,,Puerto Rico
 12936,Puerto Rico,PRI,1961,Latin America & Caribbean,High income,,,,,Puerto Rico
 12937,Puerto Rico,PRI,1962,Latin America & Caribbean,High income,,,,,Puerto Rico
@@ -10203,7 +10047,6 @@
 12996,Puerto Rico,PRI,2021,Latin America & Caribbean,High income,,,,,Puerto Rico
 12997,Puerto Rico,PRI,2022,Latin America & Caribbean,High income,,,,,Puerto Rico
 12998,Puerto Rico,PRI,2023,Latin America & Caribbean,High income,,,,,Puerto Rico
-12999,Puerto Rico,PRI,Long Name,Latin America & Caribbean,High income,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rico
 13000,Qatar,QAT,1960,Middle East & North Africa,High income,,,,,Qatar
 13001,Qatar,QAT,1961,Middle East & North Africa,High income,,,,,Qatar
 13002,Qatar,QAT,1962,Middle East & North Africa,High income,,,,,Qatar
@@ -10268,7 +10111,6 @@
 13061,Qatar,QAT,2021,Middle East & North Africa,High income,13000000.0,6.452355112331699,21.9636091102136,42200000000.0,Qatar
 13062,Qatar,QAT,2022,Middle East & North Africa,High income,,6.962166118537249,23.8370413175383,56100000000.0,Qatar
 13063,Qatar,QAT,2023,Middle East & North Africa,High income,,,,,Qatar
-13064,Qatar,QAT,Long Name,Middle East & North Africa,High income,State of Qatar,State of Qatar,State of Qatar,State of Qatar,Qatar
 13065,Romania,ROU,1960,Europe & Central Asia,High income,,,,444500.0,Romania
 13066,Romania,ROU,1961,Europe & Central Asia,High income,,,,476800.0,Romania
 13067,Romania,ROU,1962,Europe & Central Asia,High income,,,,541200.0,Romania
@@ -10333,7 +10175,6 @@
 13126,Romania,ROU,2021,Europe & Central Asia,High income,,1.86366582653499,4.9684551481153205,22027000000.0,Romania
 13127,Romania,ROU,2022,Europe & Central Asia,High income,,1.73054506592533,4.97053784282215,24311000000.0,Romania
 13128,Romania,ROU,2023,Europe & Central Asia,High income,,,,,Romania
-13129,Romania,ROU,Long Name,Europe & Central Asia,High income,Romania,Romania,Romania,Romania,Romania
 13130,Russian Federation,RUS,1960,Europe & Central Asia,High income,,,,,Russian Federation
 13131,Russian Federation,RUS,1961,Europe & Central Asia,High income,,,,,Russian Federation
 13132,Russian Federation,RUS,1962,Europe & Central Asia,High income,,,,,Russian Federation
@@ -10398,7 +10239,6 @@
 13191,Russian Federation,RUS,2021,Europe & Central Asia,High income,2857000000.0,3.7204513646667,10.2193356333216,4855157000000.0,Russian Federation
 13192,Russian Federation,RUS,2022,Europe & Central Asia,High income,2820000000.0,4.05631633246717,10.3512677639227,6032900000000.0,Russian Federation
 13193,Russian Federation,RUS,2023,Europe & Central Asia,High income,,,,,Russian Federation
-13194,Russian Federation,RUS,Long Name,Europe & Central Asia,High income,Russian Federation,Russian Federation,Russian Federation,Russian Federation,Russian Federation
 13195,Rwanda,RWA,1960,Sub-Saharan Africa,Low income,,,,,Rwanda
 13196,Rwanda,RWA,1961,Sub-Saharan Africa,Low income,,,,,Rwanda
 13197,Rwanda,RWA,1962,Sub-Saharan Africa,Low income,,,,,Rwanda
@@ -10463,7 +10303,6 @@
 13256,Rwanda,RWA,2021,Sub-Saharan Africa,Low income,,1.51203855994152,4.80685297715374,165477500000.0,Rwanda
 13257,Rwanda,RWA,2022,Sub-Saharan Africa,Low income,,1.4499563609619202,4.484252565186099,183740500000.0,Rwanda
 13258,Rwanda,RWA,2023,Sub-Saharan Africa,Low income,,,,,Rwanda
-13259,Rwanda,RWA,Long Name,Sub-Saharan Africa,Low income,Republic of Rwanda,Republic of Rwanda,Republic of Rwanda,Republic of Rwanda,Rwanda
 13260,Samoa,WSM,1960,East Asia & Pacific,Lower middle income,,,,,Samoa
 13261,Samoa,WSM,1961,East Asia & Pacific,Lower middle income,,,,,Samoa
 13262,Samoa,WSM,1962,East Asia & Pacific,Lower middle income,,,,,Samoa
@@ -10528,7 +10367,6 @@
 13321,Samoa,WSM,2021,East Asia & Pacific,Lower middle income,,,,,Samoa
 13322,Samoa,WSM,2022,East Asia & Pacific,Lower middle income,,,,,Samoa
 13323,Samoa,WSM,2023,East Asia & Pacific,Lower middle income,,,,,Samoa
-13324,Samoa,WSM,Long Name,East Asia & Pacific,Lower middle income,Independent State of Samoa,Independent State of Samoa,Independent State of Samoa,Independent State of Samoa,Samoa
 13325,San Marino,SMR,1960,Europe & Central Asia,High income,,,,,San Marino
 13326,San Marino,SMR,1961,Europe & Central Asia,High income,,,,,San Marino
 13327,San Marino,SMR,1962,Europe & Central Asia,High income,,,,,San Marino
@@ -10593,7 +10431,6 @@
 13386,San Marino,SMR,2021,Europe & Central Asia,High income,,,,,San Marino
 13387,San Marino,SMR,2022,Europe & Central Asia,High income,,,,,San Marino
 13388,San Marino,SMR,2023,Europe & Central Asia,High income,,,,,San Marino
-13389,San Marino,SMR,Long Name,Europe & Central Asia,High income,Republic of San Marino,Republic of San Marino,Republic of San Marino,Republic of San Marino,San Marino
 13455,Saudi Arabia,SAU,1960,Middle East & North Africa,High income,,,,634000000.0,Saudi Arabia
 13456,Saudi Arabia,SAU,1961,Middle East & North Africa,High income,,,,322000000.0,Saudi Arabia
 13457,Saudi Arabia,SAU,1962,Middle East & North Africa,High income,,,,379000000.0,Saudi Arabia
@@ -10658,7 +10495,6 @@
 13516,Saudi Arabia,SAU,2021,Middle East & North Africa,High income,,7.58146863585647,22.8099405832715,236980000000.0,Saudi Arabia
 13517,Saudi Arabia,SAU,2022,Middle East & North Africa,High income,,7.42273250452989,27.7903189316979,281300000000.0,Saudi Arabia
 13518,Saudi Arabia,SAU,2023,Middle East & North Africa,High income,,,,,Saudi Arabia
-13519,Saudi Arabia,SAU,Long Name,Middle East & North Africa,High income,Kingdom of Saudi Arabia,Kingdom of Saudi Arabia,Kingdom of Saudi Arabia,Kingdom of Saudi Arabia,Saudi Arabia
 13520,Senegal,SEN,1960,Sub-Saharan Africa,Lower middle income,,,,,Senegal
 13521,Senegal,SEN,1961,Sub-Saharan Africa,Lower middle income,,,,,Senegal
 13522,Senegal,SEN,1962,Sub-Saharan Africa,Lower middle income,,,,,Senegal
@@ -10723,7 +10559,6 @@
 13581,Senegal,SEN,2021,Sub-Saharan Africa,Lower middle income,,1.73912588958141,6.79602541599703,268012000000.0,Senegal
 13582,Senegal,SEN,2022,Sub-Saharan Africa,Lower middle income,,1.57213470423859,6.36806286792506,270330000000.0,Senegal
 13583,Senegal,SEN,2023,Sub-Saharan Africa,Lower middle income,,,,,Senegal
-13584,Senegal,SEN,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Senegal,Republic of Senegal,Republic of Senegal,Republic of Senegal,Senegal
 13585,Serbia,SRB,1960,Europe & Central Asia,Upper middle income,,,,,Serbia
 13586,Serbia,SRB,1961,Europe & Central Asia,Upper middle income,,,,,Serbia
 13587,Serbia,SRB,1962,Europe & Central Asia,Upper middle income,,,,,Serbia
@@ -10788,7 +10623,6 @@
 13646,Serbia,SRB,2021,Europe & Central Asia,Upper middle income,3000000.0,2.00618591411266,4.30868733314471,125789800000.0,Serbia
 13647,Serbia,SRB,2022,Europe & Central Asia,Upper middle income,,2.2789988129115297,5.24991528407196,159265000000.0,Serbia
 13648,Serbia,SRB,2023,Europe & Central Asia,Upper middle income,,,,,Serbia
-13649,Serbia,SRB,Long Name,Europe & Central Asia,Upper middle income,Republic of Serbia,Republic of Serbia,Republic of Serbia,Republic of Serbia,Serbia
 13650,Seychelles,SYC,1960,Sub-Saharan Africa,High income,,,,,Seychelles
 13651,Seychelles,SYC,1961,Sub-Saharan Africa,High income,,,,,Seychelles
 13652,Seychelles,SYC,1962,Sub-Saharan Africa,High income,,,,,Seychelles
@@ -10853,7 +10687,6 @@
 13711,Seychelles,SYC,2021,Sub-Saharan Africa,High income,,2.77755038036736,6.31656973778186,619087000.0,Seychelles
 13712,Seychelles,SYC,2022,Sub-Saharan Africa,High income,,1.38078631653398,3.20289724671585,355970000.0,Seychelles
 13713,Seychelles,SYC,2023,Sub-Saharan Africa,High income,,,,,Seychelles
-13714,Seychelles,SYC,Long Name,Sub-Saharan Africa,High income,Republic of Seychelles,Republic of Seychelles,Republic of Seychelles,Republic of Seychelles,Seychelles
 13715,Sierra Leone,SLE,1960,Sub-Saharan Africa,Low income,,,,,Sierra Leone
 13716,Sierra Leone,SLE,1961,Sub-Saharan Africa,Low income,,0.7265542676501581,,1379000.0,Sierra Leone
 13717,Sierra Leone,SLE,1962,Sub-Saharan Africa,Low income,,0.714213709677419,,1417000.0,Sierra Leone
@@ -10918,7 +10751,6 @@
 13776,Sierra Leone,SLE,2021,Sub-Saharan Africa,Low income,,0.609065850522684,2.2773006824761697,281938000000.0,Sierra Leone
 13777,Sierra Leone,SLE,2022,Sub-Saharan Africa,Low income,,0.5997929401790849,2.71381682925229,341274000000.0,Sierra Leone
 13778,Sierra Leone,SLE,2023,Sub-Saharan Africa,Low income,,,,,Sierra Leone
-13779,Sierra Leone,SLE,Long Name,Sub-Saharan Africa,Low income,Republic of Sierra Leone,Republic of Sierra Leone,Republic of Sierra Leone,Republic of Sierra Leone,Sierra Leone
 13780,Singapore,SGP,1960,East Asia & Pacific,High income,,,,,Singapore
 13781,Singapore,SGP,1961,East Asia & Pacific,High income,,,,,Singapore
 13782,Singapore,SGP,1962,East Asia & Pacific,High income,,,,,Singapore
@@ -10983,7 +10815,6 @@
 13841,Singapore,SGP,2021,East Asia & Pacific,High income,72000000.0,2.7836312198381603,14.5947898746621,14846550000.0,Singapore
 13842,Singapore,SGP,2022,East Asia & Pacific,High income,,2.77056626777816,16.9107397766395,16111200000.0,Singapore
 13843,Singapore,SGP,2023,East Asia & Pacific,High income,,,,,Singapore
-13844,Singapore,SGP,Long Name,East Asia & Pacific,High income,Republic of Singapore,Republic of Singapore,Republic of Singapore,Republic of Singapore,Singapore
 13845,Sint Maarten (Dutch part),SXM,1960,Latin America & Caribbean,High income,,,,,Sint Maarten (Dutch part)
 13846,Sint Maarten (Dutch part),SXM,1961,Latin America & Caribbean,High income,,,,,Sint Maarten (Dutch part)
 13847,Sint Maarten (Dutch part),SXM,1962,Latin America & Caribbean,High income,,,,,Sint Maarten (Dutch part)
@@ -11048,7 +10879,6 @@
 13906,Sint Maarten (Dutch part),SXM,2021,Latin America & Caribbean,High income,,,,,Sint Maarten (Dutch part)
 13907,Sint Maarten (Dutch part),SXM,2022,Latin America & Caribbean,High income,,,,,Sint Maarten (Dutch part)
 13908,Sint Maarten (Dutch part),SXM,2023,Latin America & Caribbean,High income,,,,,Sint Maarten (Dutch part)
-13909,Sint Maarten (Dutch part),SXM,Long Name,Latin America & Caribbean,High income,Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part)
 13910,Slovak Republic,SVK,1960,Europe & Central Asia,High income,,,,,Slovak Republic
 13911,Slovak Republic,SVK,1961,Europe & Central Asia,High income,,,,,Slovak Republic
 13912,Slovak Republic,SVK,1962,Europe & Central Asia,High income,,,,,Slovak Republic
@@ -11113,7 +10943,6 @@
 13971,Slovak Republic,SVK,2021,Europe & Central Asia,High income,,1.7721753668821698,3.6854103343465,1746000000.0,Slovak Republic
 13972,Slovak Republic,SVK,2022,Europe & Central Asia,High income,71000000.0,1.7573110203219298,3.8209628987727,1896000000.0,Slovak Republic
 13973,Slovak Republic,SVK,2023,Europe & Central Asia,High income,,,,,Slovak Republic
-13974,Slovak Republic,SVK,Long Name,Europe & Central Asia,High income,Slovak Republic,Slovak Republic,Slovak Republic,Slovak Republic,Slovak Republic
 13975,Slovenia,SVN,1960,Europe & Central Asia,High income,,,,,Slovenia
 13976,Slovenia,SVN,1961,Europe & Central Asia,High income,,,,,Slovenia
 13977,Slovenia,SVN,1962,Europe & Central Asia,High income,,,,,Slovenia
@@ -11178,7 +11007,6 @@
 14036,Slovenia,SVN,2021,Europe & Central Asia,High income,,1.23544123825207,2.52465946453734,645000000.0,Slovenia
 14037,Slovenia,SVN,2022,Europe & Central Asia,High income,38000000.0,1.18798601519501,2.54802609995261,699000000.0,Slovenia
 14038,Slovenia,SVN,2023,Europe & Central Asia,High income,,,,,Slovenia
-14039,Slovenia,SVN,Long Name,Europe & Central Asia,High income,Republic of Slovenia,Republic of Slovenia,Republic of Slovenia,Republic of Slovenia,Slovenia
 14105,Solomon Islands,SLB,1960,East Asia & Pacific,Lower middle income,,,,,Solomon Islands
 14106,Solomon Islands,SLB,1961,East Asia & Pacific,Lower middle income,,,,,Solomon Islands
 14107,Solomon Islands,SLB,1962,East Asia & Pacific,Lower middle income,,,,,Solomon Islands
@@ -11243,7 +11071,6 @@
 14166,Solomon Islands,SLB,2021,East Asia & Pacific,Lower middle income,,,,,Solomon Islands
 14167,Solomon Islands,SLB,2022,East Asia & Pacific,Lower middle income,,,,,Solomon Islands
 14168,Solomon Islands,SLB,2023,East Asia & Pacific,Lower middle income,,,,,Solomon Islands
-14169,Solomon Islands,SLB,Long Name,East Asia & Pacific,Lower middle income,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islands
 14170,Somalia,SOM,1960,Sub-Saharan Africa,Low income,,,,,Somalia
 14171,Somalia,SOM,1961,Sub-Saharan Africa,Low income,,0.2308254200146089,,3160000.0,Somalia
 14172,Somalia,SOM,1962,Sub-Saharan Africa,Low income,,0.254470426409904,,3700000.0,Somalia
@@ -11308,7 +11135,6 @@
 14231,Somalia,SOM,2021,Sub-Saharan Africa,Low income,,,24.1367391304348,111029000.0,Somalia
 14232,Somalia,SOM,2022,Sub-Saharan Africa,Low income,,,20.3708318584071,115095200.0,Somalia
 14233,Somalia,SOM,2023,Sub-Saharan Africa,Low income,,,,,Somalia
-14234,Somalia,SOM,Long Name,Sub-Saharan Africa,Low income,Somali Democratic Republic,Somali Democratic Republic,Somali Democratic Republic,Somali Democratic Republic,Somalia
 14235,South Africa,ZAF,1960,Sub-Saharan Africa,Upper middle income,27000000.0,0.950977129000048,,50000000.0,South Africa
 14236,South Africa,ZAF,1961,Sub-Saharan Africa,Upper middle income,33000000.0,1.4678491358207602,,81250000.0,South Africa
 14237,South Africa,ZAF,1962,Sub-Saharan Africa,Upper middle income,,2.25483730416399,,133000000.0,South Africa
@@ -11373,7 +11199,6 @@
 14296,South Africa,ZAF,2021,Sub-Saharan Africa,Upper middle income,89000000.0,0.809812625998238,2.44765360668956,50147625000.0,South Africa
 14297,South Africa,ZAF,2022,Sub-Saharan Africa,Upper middle income,48000000.0,0.739893648166575,2.24924824951004,49016675000.0,South Africa
 14298,South Africa,ZAF,2023,Sub-Saharan Africa,Upper middle income,,,,,South Africa
-14299,South Africa,ZAF,Long Name,Sub-Saharan Africa,Upper middle income,Republic of South Africa,Republic of South Africa,Republic of South Africa,Republic of South Africa,South Africa
 14430,South Sudan,SSD,1960,Sub-Saharan Africa,Low income,,,,,South Sudan
 14431,South Sudan,SSD,1961,Sub-Saharan Africa,Low income,,,,,South Sudan
 14432,South Sudan,SSD,1962,Sub-Saharan Africa,Low income,,,,,South Sudan
@@ -11438,7 +11263,6 @@
 14491,South Sudan,SSD,2021,Sub-Saharan Africa,Low income,,2.62614385621105,5.41030740670759,27774300000.0,South Sudan
 14492,South Sudan,SSD,2022,Sub-Saharan Africa,Low income,,3.0210780434718,5.46673313393154,49348200000.0,South Sudan
 14493,South Sudan,SSD,2023,Sub-Saharan Africa,Low income,,,,,South Sudan
-14494,South Sudan,SSD,Long Name,Sub-Saharan Africa,Low income,Republic of South Sudan,Republic of South Sudan,Republic of South Sudan,Republic of South Sudan,South Sudan
 14495,Spain,ESP,1960,Europe & Central Asia,High income,1000000.0,2.25074702204848,,83963667.508114,Spain
 14496,Spain,ESP,1961,Europe & Central Asia,High income,5000000.0,2.0312448260210703,,86310842.6493569,Spain
 14497,Spain,ESP,1962,Europe & Central Asia,High income,6000000.0,2.2677458919260403,,111352446.207477,Spain
@@ -11503,7 +11327,6 @@
 14556,Spain,ESP,2021,Europe & Central Asia,High income,594000000.0,1.36942532659619,2.73759849725939,16526800000.0,Spain
 14557,Spain,ESP,2022,Europe & Central Asia,High income,950000000.0,1.46603384385733,3.1448722960646296,19307000000.0,Spain
 14558,Spain,ESP,2023,Europe & Central Asia,High income,,,,,Spain
-14559,Spain,ESP,Long Name,Europe & Central Asia,High income,Kingdom of Spain,Kingdom of Spain,Kingdom of Spain,Kingdom of Spain,Spain
 14560,Sri Lanka,LKA,1960,South Asia,Lower middle income,,1.18305236461286,,79300000.0,Sri Lanka
 14561,Sri Lanka,LKA,1961,South Asia,Lower middle income,,1.18327272727273,,81350000.0,Sri Lanka
 14562,Sri Lanka,LKA,1962,South Asia,Lower middle income,,1.08285509325681,,75475000.0,Sri Lanka
@@ -11568,7 +11391,6 @@
 14621,Sri Lanka,LKA,2021,South Asia,Lower middle income,,1.89424834227119,9.50855052604212,335014000000.0,Sri Lanka
 14622,Sri Lanka,LKA,2022,South Asia,Lower middle income,,1.43043206686897,8.57121675144253,341059000000.0,Sri Lanka
 14623,Sri Lanka,LKA,2023,South Asia,Lower middle income,,,,,Sri Lanka
-14624,Sri Lanka,LKA,Long Name,South Asia,Lower middle income,Democratic Socialist Republic of Sri Lanka,Democratic Socialist Republic of Sri Lanka,Democratic Socialist Republic of Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Lanka
 14625,St. Kitts and Nevis,KNA,1960,Latin America & Caribbean,High income,,,,,St. Kitts and Nevis
 14626,St. Kitts and Nevis,KNA,1961,Latin America & Caribbean,High income,,,,,St. Kitts and Nevis
 14627,St. Kitts and Nevis,KNA,1962,Latin America & Caribbean,High income,,,,,St. Kitts and Nevis
@@ -11633,7 +11455,6 @@
 14686,St. Kitts and Nevis,KNA,2021,Latin America & Caribbean,High income,,,,,St. Kitts and Nevis
 14687,St. Kitts and Nevis,KNA,2022,Latin America & Caribbean,High income,,,,,St. Kitts and Nevis
 14688,St. Kitts and Nevis,KNA,2023,Latin America & Caribbean,High income,,,,,St. Kitts and Nevis
-14689,St. Kitts and Nevis,KNA,Long Name,Latin America & Caribbean,High income,St. Kitts and Nevis,St. Kitts and Nevis,St. Kitts and Nevis,St. Kitts and Nevis,St. Kitts and Nevis
 14690,St. Lucia,LCA,1960,Latin America & Caribbean,Upper middle income,,,,,St. Lucia
 14691,St. Lucia,LCA,1961,Latin America & Caribbean,Upper middle income,,,,,St. Lucia
 14692,St. Lucia,LCA,1962,Latin America & Caribbean,Upper middle income,,,,,St. Lucia
@@ -11698,7 +11519,6 @@
 14751,St. Lucia,LCA,2021,Latin America & Caribbean,Upper middle income,,,,,St. Lucia
 14752,St. Lucia,LCA,2022,Latin America & Caribbean,Upper middle income,,,,,St. Lucia
 14753,St. Lucia,LCA,2023,Latin America & Caribbean,Upper middle income,,,,,St. Lucia
-14754,St. Lucia,LCA,Long Name,Latin America & Caribbean,Upper middle income,St. Lucia,St. Lucia,St. Lucia,St. Lucia,St. Lucia
 14755,St. Martin (French part),MAF,1960,Latin America & Caribbean,High income,,,,,St. Martin (French part)
 14756,St. Martin (French part),MAF,1961,Latin America & Caribbean,High income,,,,,St. Martin (French part)
 14757,St. Martin (French part),MAF,1962,Latin America & Caribbean,High income,,,,,St. Martin (French part)
@@ -11763,7 +11583,6 @@
 14816,St. Martin (French part),MAF,2021,Latin America & Caribbean,High income,,,,,St. Martin (French part)
 14817,St. Martin (French part),MAF,2022,Latin America & Caribbean,High income,,,,,St. Martin (French part)
 14818,St. Martin (French part),MAF,2023,Latin America & Caribbean,High income,,,,,St. Martin (French part)
-14819,St. Martin (French part),MAF,Long Name,Latin America & Caribbean,High income,St. Martin (French part),St. Martin (French part),St. Martin (French part),St. Martin (French part),St. Martin (French part)
 14820,St. Vincent and the Grenadines,VCT,1960,Latin America & Caribbean,Upper middle income,,,,,St. Vincent and the Grenadines
 14821,St. Vincent and the Grenadines,VCT,1961,Latin America & Caribbean,Upper middle income,,,,,St. Vincent and the Grenadines
 14822,St. Vincent and the Grenadines,VCT,1962,Latin America & Caribbean,Upper middle income,,,,,St. Vincent and the Grenadines
@@ -11828,7 +11647,6 @@
 14881,St. Vincent and the Grenadines,VCT,2021,Latin America & Caribbean,Upper middle income,,,,,St. Vincent and the Grenadines
 14882,St. Vincent and the Grenadines,VCT,2022,Latin America & Caribbean,Upper middle income,,,,,St. Vincent and the Grenadines
 14883,St. Vincent and the Grenadines,VCT,2023,Latin America & Caribbean,Upper middle income,,,,,St. Vincent and the Grenadines
-14884,St. Vincent and the Grenadines,VCT,Long Name,Latin America & Caribbean,Upper middle income,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines
 15080,Sudan,SDN,1960,Sub-Saharan Africa,Low income,,1.91740412979351,,6500.0,Sudan
 15081,Sudan,SDN,1961,Sub-Saharan Africa,Low income,,1.84496124031008,,7140.0,Sudan
 15082,Sudan,SDN,1962,Sub-Saharan Africa,Low income,,2.05952380952381,,8650.0,Sudan
@@ -11893,7 +11711,6 @@
 15141,Sudan,SDN,2021,Sub-Saharan Africa,Low income,,0.9159187570581432,9.495758358854353,136986000000.0,Sudan
 15142,Sudan,SDN,2022,Sub-Saharan Africa,Low income,,,,,Sudan
 15143,Sudan,SDN,2023,Sub-Saharan Africa,Low income,,,,,Sudan
-15144,Sudan,SDN,Long Name,Sub-Saharan Africa,Low income,Republic of the Sudan,Republic of the Sudan,Republic of the Sudan,Republic of the Sudan,Sudan
 15145,Suriname,SUR,1960,Latin America & Caribbean,Upper middle income,,,,,Suriname
 15146,Suriname,SUR,1961,Latin America & Caribbean,Upper middle income,,,,,Suriname
 15147,Suriname,SUR,1962,Latin America & Caribbean,Upper middle income,,,,,Suriname
@@ -11958,7 +11775,6 @@
 15206,Suriname,SUR,2021,Latin America & Caribbean,Upper middle income,,,,,Suriname
 15207,Suriname,SUR,2022,Latin America & Caribbean,Upper middle income,,,,,Suriname
 15208,Suriname,SUR,2023,Latin America & Caribbean,Upper middle income,,,,,Suriname
-15209,Suriname,SUR,Long Name,Latin America & Caribbean,Upper middle income,Republic of Suriname,Republic of Suriname,Republic of Suriname,Republic of Suriname,Suriname
 15210,Sweden,SWE,1960,Europe & Central Asia,High income,38000000.0,3.77697093998143,,2725500000.0,Sweden
 15211,Sweden,SWE,1961,Europe & Central Asia,High income,45000000.0,3.7206133312956897,,2921500000.0,Sweden
 15212,Sweden,SWE,1962,Europe & Central Asia,High income,44000000.0,3.8634442931593,,3291500000.0,Sweden
@@ -12023,7 +11839,6 @@
 15271,Sweden,SWE,2021,Europe & Central Asia,High income,332000000.0,1.19327656149619,2.38905856147285,65028000000.0,Sweden
 15272,Sweden,SWE,2022,Europe & Central Asia,High income,68000000.0,1.30746311852624,2.7156280451903902,78093913133.71,Sweden
 15273,Sweden,SWE,2023,Europe & Central Asia,High income,,,,,Sweden
-15274,Sweden,SWE,Long Name,Europe & Central Asia,High income,Kingdom of Sweden,Kingdom of Sweden,Kingdom of Sweden,Kingdom of Sweden,Sweden
 15275,Switzerland,CHE,1960,Europe & Central Asia,High income,435000000.0,2.34145036125234,,875000000.0,Switzerland
 15276,Switzerland,CHE,1961,Europe & Central Asia,High income,493000000.0,2.46907706945766,,1038000000.0,Switzerland
 15277,Switzerland,CHE,1962,Europe & Central Asia,High income,524000000.0,2.56756756756757,,1197000000.0,Switzerland
@@ -12088,7 +11903,6 @@
 15336,Switzerland,CHE,2021,Europe & Central Asia,High income,118000000.0,0.7762604264467611,2.17970809810912,5679600000.0,Switzerland
 15337,Switzerland,CHE,2022,Europe & Central Asia,High income,175000000.0,0.7646533919069171,2.23386633054459,5866200000.0,Switzerland
 15338,Switzerland,CHE,2023,Europe & Central Asia,High income,,,,,Switzerland
-15339,Switzerland,CHE,Long Name,Europe & Central Asia,High income,Switzerland,Switzerland,Switzerland,Switzerland,Switzerland
 15340,Syrian Arab Republic,SYR,1960,Middle East & North Africa,Low income,,10.517746662325,,323000000.0,Syrian Arab Republic
 15341,Syrian Arab Republic,SYR,1961,Middle East & North Africa,Low income,,9.54491725768322,,323000000.0,Syrian Arab Republic
 15342,Syrian Arab Republic,SYR,1962,Middle East & North Africa,Low income,,13.4699853587116,,552000000.0,Syrian Arab Republic
@@ -12153,7 +11967,6 @@
 15401,Syrian Arab Republic,SYR,2021,Middle East & North Africa,Low income,,,,,Syrian Arab Republic
 15402,Syrian Arab Republic,SYR,2022,Middle East & North Africa,Low income,,,,,Syrian Arab Republic
 15403,Syrian Arab Republic,SYR,2023,Middle East & North Africa,Low income,,,,,Syrian Arab Republic
-15404,Syrian Arab Republic,SYR,Long Name,Middle East & North Africa,Low income,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic
 15405,Tajikistan,TJK,1960,Europe & Central Asia,Lower middle income,,,,,Tajikistan
 15406,Tajikistan,TJK,1961,Europe & Central Asia,Lower middle income,,,,,Tajikistan
 15407,Tajikistan,TJK,1962,Europe & Central Asia,Lower middle income,,,,,Tajikistan
@@ -12218,7 +12031,6 @@
 15466,Tajikistan,TJK,2021,Europe & Central Asia,Lower middle income,,0.929863567458312,3.5410252463054204,920100000.0,Tajikistan
 15467,Tajikistan,TJK,2022,Europe & Central Asia,Lower middle income,,1.0161297549173398,3.7880407549691,1133950000.0,Tajikistan
 15468,Tajikistan,TJK,2023,Europe & Central Asia,Lower middle income,,,,,Tajikistan
-15469,Tajikistan,TJK,Long Name,Europe & Central Asia,Lower middle income,Republic of Tajikistan,Republic of Tajikistan,Republic of Tajikistan,Republic of Tajikistan,Tajikistan
 15470,Tanzania,TZA,1960,Sub-Saharan Africa,Lower middle income,,,,,Tanzania
 15471,Tanzania,TZA,1961,Sub-Saharan Africa,Lower middle income,,,,,Tanzania
 15472,Tanzania,TZA,1962,Sub-Saharan Africa,Lower middle income,,,,,Tanzania
@@ -12283,7 +12095,6 @@
 15531,Tanzania,TZA,2021,Sub-Saharan Africa,Lower middle income,,1.0794434996739,6.03340562181426,1752832000000.0,Tanzania
 15532,Tanzania,TZA,2022,Sub-Saharan Africa,Lower middle income,,1.092190045588,5.804137034275239,1935633500000.0,Tanzania
 15533,Tanzania,TZA,2023,Sub-Saharan Africa,Lower middle income,,,,,Tanzania
-15534,Tanzania,TZA,Long Name,Sub-Saharan Africa,Lower middle income,United Republic of Tanzania,United Republic of Tanzania,United Republic of Tanzania,United Republic of Tanzania,Tanzania
 15535,Thailand,THA,1960,East Asia & Pacific,Upper middle income,,2.46526491293072,,1330750000.0,Thailand
 15536,Thailand,THA,1961,East Asia & Pacific,Upper middle income,,2.09767678480583,,1237000000.0,Thailand
 15537,Thailand,THA,1962,East Asia & Pacific,Upper middle income,,2.62854679416837,,1676750000.0,Thailand
@@ -12348,7 +12159,6 @@
 15596,Thailand,THA,2021,East Asia & Pacific,Upper middle income,3000000.0,1.30612765710848,4.68946397819873,211314750000.0,Thailand
 15597,Thailand,THA,2022,East Asia & Pacific,Upper middle income,,1.1576408457646898,4.5785809264554,200572750000.0,Thailand
 15598,Thailand,THA,2023,East Asia & Pacific,Upper middle income,,,,,Thailand
-15599,Thailand,THA,Long Name,East Asia & Pacific,Upper middle income,Kingdom of Thailand,Kingdom of Thailand,Kingdom of Thailand,Kingdom of Thailand,Thailand
 15600,Timor-Leste,TLS,1960,East Asia & Pacific,Lower middle income,,,,,Timor-Leste
 15601,Timor-Leste,TLS,1961,East Asia & Pacific,Lower middle income,,,,,Timor-Leste
 15602,Timor-Leste,TLS,1962,East Asia & Pacific,Lower middle income,,,,,Timor-Leste
@@ -12413,7 +12223,6 @@
 15661,Timor-Leste,TLS,2021,East Asia & Pacific,Lower middle income,,1.08312161714349,2.39889908256881,39222000.0,Timor-Leste
 15662,Timor-Leste,TLS,2022,East Asia & Pacific,Lower middle income,,1.10708519569663,2.54807360552041,44311000.0,Timor-Leste
 15663,Timor-Leste,TLS,2023,East Asia & Pacific,Lower middle income,,,,,Timor-Leste
-15664,Timor-Leste,TLS,Long Name,East Asia & Pacific,Lower middle income,Democratic Republic of Timor-Leste,Democratic Republic of Timor-Leste,Democratic Republic of Timor-Leste,Democratic Republic of Timor-Leste,Timor-Leste
 15665,Togo,TGO,1960,Sub-Saharan Africa,Low income,,,,,Togo
 15666,Togo,TGO,1961,Sub-Saharan Africa,Low income,,0.265562913907285,,80200000.0,Togo
 15667,Togo,TGO,1962,Sub-Saharan Africa,Low income,,0.546875,,175000000.0,Togo
@@ -12478,7 +12287,6 @@
 15726,Togo,TGO,2021,Sub-Saharan Africa,Low income,,3.11153706019691,10.3780574019179,110246000000.0,Togo
 15727,Togo,TGO,2022,Sub-Saharan Africa,Low income,,5.4419226231870805,17.5065879448948,209932000000.0,Togo
 15728,Togo,TGO,2023,Sub-Saharan Africa,Low income,,,,,Togo
-15729,Togo,TGO,Long Name,Sub-Saharan Africa,Low income,Republic of Togo,Republic of Togo,Republic of Togo,Republic of Togo,Togo
 15730,Tonga,TON,1960,East Asia & Pacific,Upper middle income,,,,,Tonga
 15731,Tonga,TON,1961,East Asia & Pacific,Upper middle income,,,,,Tonga
 15732,Tonga,TON,1962,East Asia & Pacific,Upper middle income,,,,,Tonga
@@ -12543,7 +12351,6 @@
 15791,Tonga,TON,2021,East Asia & Pacific,Upper middle income,,,,,Tonga
 15792,Tonga,TON,2022,East Asia & Pacific,Upper middle income,,,,,Tonga
 15793,Tonga,TON,2023,East Asia & Pacific,Upper middle income,,,,,Tonga
-15794,Tonga,TON,Long Name,East Asia & Pacific,Upper middle income,Kingdom of Tonga,Kingdom of Tonga,Kingdom of Tonga,Kingdom of Tonga,Tonga
 15795,Trinidad and Tobago,TTO,1960,Latin America & Caribbean,High income,,,,,Trinidad and Tobago
 15796,Trinidad and Tobago,TTO,1961,Latin America & Caribbean,High income,,,,,Trinidad and Tobago
 15797,Trinidad and Tobago,TTO,1962,Latin America & Caribbean,High income,,,,,Trinidad and Tobago
@@ -12608,7 +12415,6 @@
 15856,Trinidad and Tobago,TTO,2021,Latin America & Caribbean,High income,,0.894832903670522,2.7457417690611203,1394397500.0,Trinidad and Tobago
 15857,Trinidad and Tobago,TTO,2022,Latin America & Caribbean,High income,,0.716467302343877,2.63830311581877,1364952500.0,Trinidad and Tobago
 15858,Trinidad and Tobago,TTO,2023,Latin America & Caribbean,High income,,,,,Trinidad and Tobago
-15859,Trinidad and Tobago,TTO,Long Name,Latin America & Caribbean,High income,Republic of Trinidad and Tobago,Republic of Trinidad and Tobago,Republic of Trinidad and Tobago,Republic of Trinidad and Tobago,Trinidad and Tobago
 15860,Tunisia,TUN,1960,Middle East & North Africa,Lower middle income,,2.00478755236385,,6700000.0,Tunisia
 15861,Tunisia,TUN,1961,Middle East & North Africa,Lower middle income,,2.21590909090909,,7800000.0,Tunisia
 15862,Tunisia,TUN,1962,Middle East & North Africa,Lower middle income,,1.72960507350822,,6000000.0,Tunisia
@@ -12673,7 +12479,6 @@
 15921,Tunisia,TUN,2021,Middle East & North Africa,Lower middle income,,2.6367002616005197,7.90441176470588,3440000000.0,Tunisia
 15922,Tunisia,TUN,2022,Middle East & North Africa,Lower middle income,,2.4767786677463497,6.97487555363932,3559000000.0,Tunisia
 15923,Tunisia,TUN,2023,Middle East & North Africa,Lower middle income,,,,,Tunisia
-15924,Tunisia,TUN,Long Name,Middle East & North Africa,Lower middle income,Republic of Tunisia,Republic of Tunisia,Republic of Tunisia,Republic of Tunisia,Tunisia
 15990,Turkmenistan,TKM,1960,Europe & Central Asia,Upper middle income,,,,,Turkmenistan
 15991,Turkmenistan,TKM,1961,Europe & Central Asia,Upper middle income,,,,,Turkmenistan
 15992,Turkmenistan,TKM,1962,Europe & Central Asia,Upper middle income,,,,,Turkmenistan
@@ -12738,7 +12543,6 @@
 16051,Turkmenistan,TKM,2021,Europe & Central Asia,Upper middle income,,,,,Turkmenistan
 16052,Turkmenistan,TKM,2022,Europe & Central Asia,Upper middle income,,,,,Turkmenistan
 16053,Turkmenistan,TKM,2023,Europe & Central Asia,Upper middle income,,,,,Turkmenistan
-16054,Turkmenistan,TKM,Long Name,Europe & Central Asia,Upper middle income,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan
 16055,Turks and Caicos Islands,TCA,1960,Latin America & Caribbean,High income,,,,,Turks and Caicos Islands
 16056,Turks and Caicos Islands,TCA,1961,Latin America & Caribbean,High income,,,,,Turks and Caicos Islands
 16057,Turks and Caicos Islands,TCA,1962,Latin America & Caribbean,High income,,,,,Turks and Caicos Islands
@@ -12803,7 +12607,6 @@
 16116,Turks and Caicos Islands,TCA,2021,Latin America & Caribbean,High income,,,,,Turks and Caicos Islands
 16117,Turks and Caicos Islands,TCA,2022,Latin America & Caribbean,High income,,,,,Turks and Caicos Islands
 16118,Turks and Caicos Islands,TCA,2023,Latin America & Caribbean,High income,,,,,Turks and Caicos Islands
-16119,Turks and Caicos Islands,TCA,Long Name,Latin America & Caribbean,High income,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands
 16120,Tuvalu,TUV,1960,East Asia & Pacific,Upper middle income,,,,,Tuvalu
 16121,Tuvalu,TUV,1961,East Asia & Pacific,Upper middle income,,,,,Tuvalu
 16122,Tuvalu,TUV,1962,East Asia & Pacific,Upper middle income,,,,,Tuvalu
@@ -12868,7 +12671,6 @@
 16181,Tuvalu,TUV,2021,East Asia & Pacific,Upper middle income,,,,,Tuvalu
 16182,Tuvalu,TUV,2022,East Asia & Pacific,Upper middle income,,,,,Tuvalu
 16183,Tuvalu,TUV,2023,East Asia & Pacific,Upper middle income,,,,,Tuvalu
-16184,Tuvalu,TUV,Long Name,East Asia & Pacific,Upper middle income,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu
 16185,Uganda,UGA,1960,Sub-Saharan Africa,Low income,,,,,Uganda
 16186,Uganda,UGA,1961,Sub-Saharan Africa,Low income,,,,,Uganda
 16187,Uganda,UGA,1962,Sub-Saharan Africa,Low income,,0.113289760348584,,52000.0,Uganda
@@ -12933,7 +12735,6 @@
 16246,Uganda,UGA,2021,Sub-Saharan Africa,Low income,,2.57785468025078,11.3309076871949,3805330000000.0,Uganda
 16247,Uganda,UGA,2022,Sub-Saharan Africa,Low income,,2.06007852417852,10.0550796312774,3405679000000.0,Uganda
 16248,Uganda,UGA,2023,Sub-Saharan Africa,Low income,,,,,Uganda
-16249,Uganda,UGA,Long Name,Sub-Saharan Africa,Low income,Republic of Uganda,Republic of Uganda,Republic of Uganda,Republic of Uganda,Uganda
 16250,Ukraine,UKR,1960,Europe & Central Asia,Upper middle income,,,,,Ukraine
 16251,Ukraine,UKR,1961,Europe & Central Asia,Upper middle income,,,,,Ukraine
 16252,Ukraine,UKR,1962,Europe & Central Asia,Upper middle income,,,,,Ukraine
@@ -12998,7 +12799,6 @@
 16311,Ukraine,UKR,2021,Europe & Central Asia,Upper middle income,147000000.0,3.22834693677077,7.31734623359673,160859197936.64,Ukraine
 16312,Ukraine,UKR,2022,Europe & Central Asia,Upper middle income,50000000.0,33.5465729986209,,1435223032600.0,Ukraine
 16313,Ukraine,UKR,2023,Europe & Central Asia,Upper middle income,,,,,Ukraine
-16314,Ukraine,UKR,Long Name,Europe & Central Asia,Upper middle income,Ukraine,Ukraine,Ukraine,Ukraine,Ukraine
 16315,United Arab Emirates,ARE,1960,Middle East & North Africa,High income,,,,,United Arab Emirates
 16316,United Arab Emirates,ARE,1961,Middle East & North Africa,High income,,,,,United Arab Emirates
 16317,United Arab Emirates,ARE,1962,Middle East & North Africa,High income,,,,,United Arab Emirates
@@ -13063,7 +12863,6 @@
 16376,United Arab Emirates,ARE,2021,Middle East & North Africa,High income,57000000.0,,,,United Arab Emirates
 16377,United Arab Emirates,ARE,2022,Middle East & North Africa,High income,12000000.0,,,,United Arab Emirates
 16378,United Arab Emirates,ARE,2023,Middle East & North Africa,High income,,,,,United Arab Emirates
-16379,United Arab Emirates,ARE,Long Name,Middle East & North Africa,High income,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates
 16380,United Kingdom,GBR,1960,Europe & Central Asia,High income,2246000000.0,7.09248637082215,,1832092550.65522,United Kingdom
 16381,United Kingdom,GBR,1961,Europe & Central Asia,High income,1270000000.0,6.921387522859219,,1895827232.00239,United Kingdom
 16382,United Kingdom,GBR,1962,Europe & Central Asia,High income,1140000000.0,6.94416604105903,,1998976782.07743,United Kingdom
@@ -13128,7 +12927,6 @@
 16441,United Kingdom,GBR,2021,Europe & Central Asia,High income,656000000.0,2.1615719177569304,4.71971039080698,49073000000.0,United Kingdom
 16442,United Kingdom,GBR,2022,Europe & Central Asia,High income,1504000000.0,2.2271839786605097,5.28817152122861,55529449811.25,United Kingdom
 16443,United Kingdom,GBR,2023,Europe & Central Asia,High income,,,,,United Kingdom
-16444,United Kingdom,GBR,Long Name,Europe & Central Asia,High income,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,United Kingdom
 16445,United States,USA,1960,North America,High income,6132000000.0,8.99312458715278,,47346552670.2126,United States
 16446,United States,USA,1961,North America,High income,6290000000.0,9.15603150017123,,49879770605.0578,United States
 16447,United States,USA,1962,North America,High income,6130000000.0,9.33167294545842,,54650942605.0773,United States
@@ -13193,7 +12991,6 @@
 16506,United States,USA,2021,North America,High income,10994000000.0,3.4579772192344898,,806230200000.0,United States
 16507,United States,USA,2022,North America,High income,14515000000.0,3.4549197977343895,,876943200000.0,United States
 16508,United States,USA,2023,North America,High income,,,,,United States
-16509,United States,USA,Long Name,North America,High income,United States of America,United States of America,United States of America,United States of America,United States
 16575,Uruguay,URY,1960,Latin America & Caribbean,High income,6000000.0,,,,Uruguay
 16576,Uruguay,URY,1961,Latin America & Caribbean,High income,,,,,Uruguay
 16577,Uruguay,URY,1962,Latin America & Caribbean,High income,,,,,Uruguay
@@ -13258,7 +13055,6 @@
 16636,Uruguay,URY,2021,Latin America & Caribbean,High income,,2.1013086823994698,6.7944535831171295,54288431519.0,Uruguay
 16637,Uruguay,URY,2022,Latin America & Caribbean,High income,,1.89979653202748,6.740023656146669,56685823156.0,Uruguay
 16638,Uruguay,URY,2023,Latin America & Caribbean,High income,,,,,Uruguay
-16639,Uruguay,URY,Long Name,Latin America & Caribbean,High income,Oriental Republic of Uruguay,Oriental Republic of Uruguay,Oriental Republic of Uruguay,Oriental Republic of Uruguay,Uruguay
 16640,Uzbekistan,UZB,1960,Europe & Central Asia,Lower middle income,,,,,Uzbekistan
 16641,Uzbekistan,UZB,1961,Europe & Central Asia,Lower middle income,,,,,Uzbekistan
 16642,Uzbekistan,UZB,1962,Europe & Central Asia,Lower middle income,,,,,Uzbekistan
@@ -13323,7 +13119,6 @@
 16701,Uzbekistan,UZB,2021,Europe & Central Asia,Lower middle income,,,,,Uzbekistan
 16702,Uzbekistan,UZB,2022,Europe & Central Asia,Lower middle income,,,,,Uzbekistan
 16703,Uzbekistan,UZB,2023,Europe & Central Asia,Lower middle income,,,,,Uzbekistan
-16704,Uzbekistan,UZB,Long Name,Europe & Central Asia,Lower middle income,Republic of Uzbekistan,Republic of Uzbekistan,Republic of Uzbekistan,Republic of Uzbekistan,Uzbekistan
 16705,Vanuatu,VUT,1960,East Asia & Pacific,Lower middle income,,,,,Vanuatu
 16706,Vanuatu,VUT,1961,East Asia & Pacific,Lower middle income,,,,,Vanuatu
 16707,Vanuatu,VUT,1962,East Asia & Pacific,Lower middle income,,,,,Vanuatu
@@ -13388,7 +13183,6 @@
 16766,Vanuatu,VUT,2021,East Asia & Pacific,Lower middle income,,,,,Vanuatu
 16767,Vanuatu,VUT,2022,East Asia & Pacific,Lower middle income,,,,,Vanuatu
 16768,Vanuatu,VUT,2023,East Asia & Pacific,Lower middle income,,,,,Vanuatu
-16769,Vanuatu,VUT,Long Name,East Asia & Pacific,Lower middle income,Republic of Vanuatu,Republic of Vanuatu,Republic of Vanuatu,Republic of Vanuatu,Vanuatu
 16770,"Venezuela, RB",VEN,1960,Latin America & Caribbean,,,3.05804440981691,,785000.0,"Venezuela, RB"
 16771,"Venezuela, RB",VEN,1961,Latin America & Caribbean,,,1.42222222222222,,384000.0,"Venezuela, RB"
 16772,"Venezuela, RB",VEN,1962,Latin America & Caribbean,,,2.31290213342364,,683000.0,"Venezuela, RB"
@@ -13453,7 +13247,6 @@
 16831,"Venezuela, RB",VEN,2021,Latin America & Caribbean,,,0.313630729266034,,4.31282e+20,"Venezuela, RB"
 16832,"Venezuela, RB",VEN,2022,Latin America & Caribbean,,,0.649886788939365,,3.083842126e+21,"Venezuela, RB"
 16833,"Venezuela, RB",VEN,2023,Latin America & Caribbean,,,,,,"Venezuela, RB"
-16834,"Venezuela, RB",VEN,Long Name,Latin America & Caribbean,,República Bolivariana de Venezuela,República Bolivariana de Venezuela,República Bolivariana de Venezuela,República Bolivariana de Venezuela,"Venezuela, RB"
 16835,Viet Nam,VNM,1960,East Asia & Pacific,Lower middle income,,,,,Viet Nam
 16836,Viet Nam,VNM,1961,East Asia & Pacific,Lower middle income,,,,,Viet Nam
 16837,Viet Nam,VNM,1962,East Asia & Pacific,Lower middle income,,,,,Viet Nam
@@ -13518,7 +13311,6 @@
 16896,Viet Nam,VNM,2021,East Asia & Pacific,Lower middle income,,,,,Viet Nam
 16897,Viet Nam,VNM,2022,East Asia & Pacific,Lower middle income,,,,,Viet Nam
 16898,Viet Nam,VNM,2023,East Asia & Pacific,Lower middle income,,,,,Viet Nam
-16899,Viet Nam,VNM,Long Name,East Asia & Pacific,Lower middle income,Socialist Republic of Viet Nam,Socialist Republic of Viet Nam,Socialist Republic of Viet Nam,Socialist Republic of Viet Nam,Viet Nam
 16900,Virgin Islands (U.S.),VIR,1960,Latin America & Caribbean,High income,,,,,Virgin Islands (U.S.)
 16901,Virgin Islands (U.S.),VIR,1961,Latin America & Caribbean,High income,,,,,Virgin Islands (U.S.)
 16902,Virgin Islands (U.S.),VIR,1962,Latin America & Caribbean,High income,,,,,Virgin Islands (U.S.)
@@ -13583,7 +13375,6 @@
 16961,Virgin Islands (U.S.),VIR,2021,Latin America & Caribbean,High income,,,,,Virgin Islands (U.S.)
 16962,Virgin Islands (U.S.),VIR,2022,Latin America & Caribbean,High income,,,,,Virgin Islands (U.S.)
 16963,Virgin Islands (U.S.),VIR,2023,Latin America & Caribbean,High income,,,,,Virgin Islands (U.S.)
-16964,Virgin Islands (U.S.),VIR,Long Name,Latin America & Caribbean,High income,Virgin Islands of the United States,Virgin Islands of the United States,Virgin Islands of the United States,Virgin Islands of the United States,Virgin Islands (U.S.)
 16965,West Bank and Gaza,PSE,1960,Middle East & North Africa,Lower middle income,,,,,West Bank and Gaza
 16966,West Bank and Gaza,PSE,1961,Middle East & North Africa,Lower middle income,,,,,West Bank and Gaza
 16967,West Bank and Gaza,PSE,1962,Middle East & North Africa,Lower middle income,,,,,West Bank and Gaza
@@ -13648,7 +13439,6 @@
 17026,West Bank and Gaza,PSE,2021,Middle East & North Africa,Lower middle income,,,,,West Bank and Gaza
 17027,West Bank and Gaza,PSE,2022,Middle East & North Africa,Lower middle income,,,,,West Bank and Gaza
 17028,West Bank and Gaza,PSE,2023,Middle East & North Africa,Lower middle income,,,,,West Bank and Gaza
-17029,West Bank and Gaza,PSE,Long Name,Middle East & North Africa,Lower middle income,West Bank and Gaza,West Bank and Gaza,West Bank and Gaza,West Bank and Gaza,West Bank and Gaza
 17095,"Yemen, Rep.",YEM,1960,Middle East & North Africa,Low income,,,,,"Yemen, Rep."
 17096,"Yemen, Rep.",YEM,1961,Middle East & North Africa,Low income,,,,,"Yemen, Rep."
 17097,"Yemen, Rep.",YEM,1962,Middle East & North Africa,Low income,,,,,"Yemen, Rep."
@@ -13713,7 +13503,6 @@
 17156,"Yemen, Rep.",YEM,2021,Middle East & North Africa,Low income,,,,,"Yemen, Rep."
 17157,"Yemen, Rep.",YEM,2022,Middle East & North Africa,Low income,,,,,"Yemen, Rep."
 17158,"Yemen, Rep.",YEM,2023,Middle East & North Africa,Low income,,,,,"Yemen, Rep."
-17159,"Yemen, Rep.",YEM,Long Name,Middle East & North Africa,Low income,Republic of Yemen,Republic of Yemen,Republic of Yemen,Republic of Yemen,"Yemen, Rep."
 17160,Zambia,ZMB,1960,Sub-Saharan Africa,Lower middle income,,,,,Zambia
 17161,Zambia,ZMB,1961,Sub-Saharan Africa,Lower middle income,,,,,Zambia
 17162,Zambia,ZMB,1962,Sub-Saharan Africa,Lower middle income,,,,,Zambia
@@ -13778,7 +13567,6 @@
 17221,Zambia,ZMB,2021,Sub-Saharan Africa,Lower middle income,,0.979965767794135,3.2200638854508696,4344800000.0,Zambia
 17222,Zambia,ZMB,2022,Sub-Saharan Africa,Lower middle income,,1.18630432872079,3.96419051450988,5517400000.0,Zambia
 17223,Zambia,ZMB,2023,Sub-Saharan Africa,Lower middle income,,,,,Zambia
-17224,Zambia,ZMB,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Zambia,Republic of Zambia,Republic of Zambia,Republic of Zambia,Zambia
 17225,Zimbabwe,ZWE,1960,Sub-Saharan Africa,Lower middle income,,,,,Zimbabwe
 17226,Zimbabwe,ZWE,1961,Sub-Saharan Africa,Lower middle income,,,,,Zimbabwe
 17227,Zimbabwe,ZWE,1962,Sub-Saharan Africa,Lower middle income,,,,,Zimbabwe
@@ -13843,4 +13631,3 @@
 17286,Zimbabwe,ZWE,2021,Sub-Saharan Africa,Lower middle income,,0.815977410678401,4.28812038653378,23754000000.0,Zimbabwe
 17287,Zimbabwe,ZWE,2022,Sub-Saharan Africa,Lower middle income,,0.42705656262948,5.262365699908409,61533000000.0,Zimbabwe
 17288,Zimbabwe,ZWE,2023,Sub-Saharan Africa,Lower middle income,,,,,Zimbabwe
-17289,Zimbabwe,ZWE,Long Name,Sub-Saharan Africa,Lower middle income,Republic of Zimbabwe,Republic of Zimbabwe,Republic of Zimbabwe,Republic of Zimbabwe,Zimbabwe
