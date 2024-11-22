@@ -10,7 +10,7 @@
 
 
 ## YYYYMMDDone_row_one_country_data.csv
-**Description:** Each transaction has been split into two rows  so that each country in the transaction has a row where they are the primary country. For example for a transaction between the United States and India where the United States was the supplier there would be two rows, one with USA in the countyr and one with India in the country. The Country Role column indicates if the row represents a transaction where the primary country is the supplier or recipient. The transcation_id column indicates a generated id for the transaction so that the two rows that pair up to be a transaction have the same id. The rest of the columns indicate information about the transaction. 
+**Description:** Each transaction has been split into two rows  so that each country in the transaction has a row where they are the primary country. For example for a transaction between the United States and India where the United States was the supplier there would be two rows, one with USA in the Country and one with India in the Country column. The Country Role column indicates if the row represents a transaction where the country in the Country column is the supplier or recipient. The transcation_id column indicates a generated id for the transaction so that the two rows that pair up to be a transaction have the same id. The rest of the columns indicate information about the transaction. Having one primary column for country (Country) instead of two (Supplier and Recipient) should make most visualization use cases easier. 
 
 **Column Descriptions**
 | **Column Name**                                   | **Description**                                                                                                     |
