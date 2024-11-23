@@ -38,7 +38,16 @@
 | `Military expenditure (% of GDP)`                | Percentage of the supplier country’s GDP spent on military expenditure.                                             |
 | `Military expenditure (% of general government expenditure)` | Percentage of the supplier country’s general government expenditure spent on the military.                          |
 | `Military expenditure (current LCU)`             | Military expenditure by the supplier country, measured in the local currency unit (LCU).                            |
-
+| `Primary Country Region`                          | The region classification of the primary country.                                                                   |
+| `Primary Country Income Group`                   | Income group classification of the primary country (e.g., Low, Middle, High income).                                |
+| `primary_two_alpha_code`                         | ISO 2-letter country code for the primary country.                                                                  |
+| `Partner Country Region`                         | The region classification of the partner country.                                                                   |
+| `Partner Country Income Group`                   | Income group classification of the partner country (e.g., Low, Middle, High income).                                |
+| `partner_two_alpha_code`                         | ISO 2-letter country code for the partner country.                                                                  |
+| `Primary Latitude`                                | Latitude coordinate of the primary country.                                                                         |
+| `Primary Longitude`                               | Longitude coordinate of the primary country.                                                                        |
+| `Partner Latitude`                                | Latitude coordinate of the partner country.                                                                         |
+| `Partner Longitude`                               | Longitude coordinate of the partner country.                                                                        |
 
 
 ## Licensing and Attribution
