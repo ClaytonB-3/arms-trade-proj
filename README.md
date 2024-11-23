@@ -41,7 +41,7 @@
 
 
 
-# Licensces
+## Licensing and Attribution
 
 **countries_latitude_longitude.csv**
 This data was sourced from the [Google Developers Public Data Documentation - Countries CSV](https://developers.google.com/public-data/docs/canonical/countries_csv).
