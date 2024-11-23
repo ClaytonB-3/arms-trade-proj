@@ -38,3 +38,14 @@
 | `Military expenditure (% of GDP)`                | Percentage of the supplier country’s GDP spent on military expenditure.                                             |
 | `Military expenditure (% of general government expenditure)` | Percentage of the supplier country’s general government expenditure spent on the military.                          |
 | `Military expenditure (current LCU)`             | Military expenditure by the supplier country, measured in the local currency unit (LCU).                            |
+
+
+
+# Licensces
+
+**countries_latitude_longitude.csv**
+This data was sourced from the [Google Developers Public Data Documentation - Countries CSV](https://developers.google.com/public-data/docs/canonical/countries_csv).
+
+The content is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+
