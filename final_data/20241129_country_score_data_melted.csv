@@ -1,0 +1,4177 @@
+,Country,Metric Name,Metric Value
+2062,ANC (South Africa)*,Aircraft_Score,
+1801,ANC (South Africa)*,Country_Score,0.0
+235,ANC (South Africa)*,Exports,0.0
+757,ANC (South Africa)*,Gross_Deals,0.0
+3367,ANC (South Africa)*,Ground Vehicles/Artillery_Score,
+2845,ANC (South Africa)*,Helicopters_Score,
+496,ANC (South Africa)*,Imports,0.24
+2584,ANC (South Africa)*,Missiles/Rockets/Bombs_Score,0.0
+3889,ANC (South Africa)*,Naval Vessels_Score,
+1018,ANC (South Africa)*,Normalized_Exports,0.0
+1540,ANC (South Africa)*,Normalized_Gross,0.0
+1279,ANC (South Africa)*,Normalized_Imports,1.7121245239580438e-06
+3628,ANC (South Africa)*,Radar/Detection Systems_Score,
+2323,ANC (South Africa)*,Specialized Equipment_Score,
+3106,ANC (South Africa)*,Unmanned Vehicles_Score,
+4150,ANC (South Africa)*,ZZ_loop_score,
+1877,Afghanistan,Aircraft_Score,2.205
+1616,Afghanistan,Country_Score,3.227
+50,Afghanistan,Exports,0.0
+572,Afghanistan,Gross_Deals,0.0
+3182,Afghanistan,Ground Vehicles/Artillery_Score,5.475
+2660,Afghanistan,Helicopters_Score,6.468999999999999
+311,Afghanistan,Imports,15079.26
+2399,Afghanistan,Missiles/Rockets/Bombs_Score,5.125
+3704,Afghanistan,Naval Vessels_Score,
+833,Afghanistan,Normalized_Exports,0.0
+1355,Afghanistan,Normalized_Gross,0.0
+1094,Afghanistan,Normalized_Imports,0.10757321187141489
+3443,Afghanistan,Radar/Detection Systems_Score,0.334
+2138,Afghanistan,Specialized Equipment_Score,0.11199999999999999
+2921,Afghanistan,Unmanned Vehicles_Score,0.7779999999999999
+3965,Afghanistan,ZZ_loop_score,2.205
+1999,African Union**,Aircraft_Score,
+1738,African Union**,Country_Score,0.019
+172,African Union**,Exports,0.0
+694,African Union**,Gross_Deals,0.0
+3304,African Union**,Ground Vehicles/Artillery_Score,0.053
+2782,African Union**,Helicopters_Score,0.11399999999999999
+433,African Union**,Imports,88.58
+2521,African Union**,Missiles/Rockets/Bombs_Score,
+3826,African Union**,Naval Vessels_Score,
+955,African Union**,Normalized_Exports,0.0
+1477,African Union**,Normalized_Gross,0.0
+1216,African Union**,Normalized_Imports,0.0006319166263841813
+3565,African Union**,Radar/Detection Systems_Score,
+2260,African Union**,Specialized Equipment_Score,
+3043,African Union**,Unmanned Vehicles_Score,0.011000000000000001
+4087,African Union**,ZZ_loop_score,
+1910,Albania,Aircraft_Score,0.303
+1649,Albania,Country_Score,0.559
+83,Albania,Exports,1.2
+605,Albania,Gross_Deals,2220.14
+3215,Albania,Ground Vehicles/Artillery_Score,1.283
+2693,Albania,Helicopters_Score,0.332
+344,Albania,Imports,2218.94
+2432,Albania,Missiles/Rockets/Bombs_Score,0.127
+3737,Albania,Naval Vessels_Score,0.8869999999999999
+866,Albania,Normalized_Exports,1.595171140461492e-06
+1388,Albania,Normalized_Gross,0.0027951574055952626
+1127,Albania,Normalized_Imports,0.01582958996329776
+3476,Albania,Radar/Detection Systems_Score,
+2171,Albania,Specialized Equipment_Score,
+2954,Albania,Unmanned Vehicles_Score,0.259
+3998,Albania,ZZ_loop_score,0.303
+1852,Algeria,Aircraft_Score,6.917
+1591,Algeria,Country_Score,8.477
+25,Algeria,Exports,12.06
+547,Algeria,Gross_Deals,33675.96
+3157,Algeria,Ground Vehicles/Artillery_Score,12.863
+2635,Algeria,Helicopters_Score,7.7410000000000005
+286,Algeria,Imports,33663.9
+2374,Algeria,Missiles/Rockets/Bombs_Score,5.912
+3679,Algeria,Naval Vessels_Score,8.201
+808,Algeria,Normalized_Exports,1.6031469961637995e-05
+1330,Algeria,Normalized_Gross,0.04239805101684121
+1069,Algeria,Normalized_Imports,0.24015328650862997
+3418,Algeria,Radar/Detection Systems_Score,2.054
+2113,Algeria,Specialized Equipment_Score,1.202
+2896,Algeria,Unmanned Vehicles_Score,9.584
+3940,Algeria,ZZ_loop_score,6.917
+2006,Amal (Lebanon)*,Aircraft_Score,
+1745,Amal (Lebanon)*,Country_Score,0.013999999999999999
+179,Amal (Lebanon)*,Exports,0.0
+701,Amal (Lebanon)*,Gross_Deals,0.0
+3311,Amal (Lebanon)*,Ground Vehicles/Artillery_Score,0.075
+2789,Amal (Lebanon)*,Helicopters_Score,
+440,Amal (Lebanon)*,Imports,63.120000000000005
+2528,Amal (Lebanon)*,Missiles/Rockets/Bombs_Score,
+3833,Amal (Lebanon)*,Naval Vessels_Score,
+962,Amal (Lebanon)*,Normalized_Exports,0.0
+1484,Amal (Lebanon)*,Normalized_Gross,0.0
+1223,Amal (Lebanon)*,Normalized_Imports,0.00045028874980096553
+3572,Amal (Lebanon)*,Radar/Detection Systems_Score,
+2267,Amal (Lebanon)*,Specialized Equipment_Score,
+3050,Amal (Lebanon)*,Unmanned Vehicles_Score,
+4094,Amal (Lebanon)*,ZZ_loop_score,
+1887,Angola,Aircraft_Score,2.173
+1626,Angola,Country_Score,2.228
+60,Angola,Exports,4.569999999999999
+582,Angola,Gross_Deals,8853.5
+3192,Angola,Ground Vehicles/Artillery_Score,2.418
+2670,Angola,Helicopters_Score,3.4549999999999996
+321,Angola,Imports,8848.93
+2409,Angola,Missiles/Rockets/Bombs_Score,1.6650000000000003
+3714,Angola,Naval Vessels_Score,0.539
+843,Angola,Normalized_Exports,6.074943426590848e-06
+1365,Angola,Normalized_Gross,0.011146561068418053
+1104,Angola,Normalized_Imports,0.06312695859911689
+3453,Angola,Radar/Detection Systems_Score,2.015
+2148,Angola,Specialized Equipment_Score,0.386
+2931,Angola,Unmanned Vehicles_Score,1.6480000000000001
+3975,Angola,ZZ_loop_score,2.173
+2065,Anti-Castro rebels (Cuba)*,Aircraft_Score,
+1804,Anti-Castro rebels (Cuba)*,Country_Score,0.0
+238,Anti-Castro rebels (Cuba)*,Exports,0.0
+760,Anti-Castro rebels (Cuba)*,Gross_Deals,0.0
+3370,Anti-Castro rebels (Cuba)*,Ground Vehicles/Artillery_Score,0.003
+2848,Anti-Castro rebels (Cuba)*,Helicopters_Score,
+499,Anti-Castro rebels (Cuba)*,Imports,2.2
+2587,Anti-Castro rebels (Cuba)*,Missiles/Rockets/Bombs_Score,
+3892,Anti-Castro rebels (Cuba)*,Naval Vessels_Score,
+1021,Anti-Castro rebels (Cuba)*,Normalized_Exports,0.0
+1543,Anti-Castro rebels (Cuba)*,Normalized_Gross,0.0
+1282,Anti-Castro rebels (Cuba)*,Normalized_Imports,1.5694474802948737e-05
+3631,Anti-Castro rebels (Cuba)*,Radar/Detection Systems_Score,
+2326,Anti-Castro rebels (Cuba)*,Specialized Equipment_Score,
+3109,Anti-Castro rebels (Cuba)*,Unmanned Vehicles_Score,
+4153,Anti-Castro rebels (Cuba)*,ZZ_loop_score,
+2066,Antigua and Barbuda,Aircraft_Score,0.0
+1805,Antigua and Barbuda,Country_Score,0.0
+239,Antigua and Barbuda,Exports,0.0
+761,Antigua and Barbuda,Gross_Deals,0.0
+3371,Antigua and Barbuda,Ground Vehicles/Artillery_Score,
+2849,Antigua and Barbuda,Helicopters_Score,
+500,Antigua and Barbuda,Imports,0.54
+2588,Antigua and Barbuda,Missiles/Rockets/Bombs_Score,
+3893,Antigua and Barbuda,Naval Vessels_Score,
+1022,Antigua and Barbuda,Normalized_Exports,0.0
+1544,Antigua and Barbuda,Normalized_Gross,0.0
+1283,Antigua and Barbuda,Normalized_Imports,3.852280178905599e-06
+3632,Antigua and Barbuda,Radar/Detection Systems_Score,
+2327,Antigua and Barbuda,Specialized Equipment_Score,
+3110,Antigua and Barbuda,Unmanned Vehicles_Score,
+4154,Antigua and Barbuda,ZZ_loop_score,0.0
+1885,Argentina,Aircraft_Score,1.7999999999999998
+1624,Argentina,Country_Score,2.895
+58,Argentina,Exports,129.07
+580,Argentina,Gross_Deals,11580.8
+3190,Argentina,Ground Vehicles/Artillery_Score,2.2110000000000003
+2668,Argentina,Helicopters_Score,2.212
+319,Argentina,Imports,11451.73
+2407,Argentina,Missiles/Rockets/Bombs_Score,0.9339999999999999
+3712,Argentina,Naval Vessels_Score,10.309
+841,Argentina,Normalized_Exports,0.00017157394924947065
+1363,Argentina,Normalized_Gross,0.014580233175708567
+1102,Argentina,Normalized_Imports,0.08169494906144187
+3451,Argentina,Radar/Detection Systems_Score,2.9659999999999997
+2146,Argentina,Specialized Equipment_Score,1.37
+2929,Argentina,Unmanned Vehicles_Score,
+3973,Argentina,ZZ_loop_score,1.7999999999999998
+1931,Armenia,Aircraft_Score,0.184
+1670,Armenia,Country_Score,0.27
+104,Armenia,Exports,4.4
+626,Armenia,Gross_Deals,1076.2
+3236,Armenia,Ground Vehicles/Artillery_Score,0.22799999999999998
+2714,Armenia,Helicopters_Score,0.076
+365,Armenia,Imports,1071.8
+2453,Armenia,Missiles/Rockets/Bombs_Score,0.695
+3758,Armenia,Naval Vessels_Score,
+887,Armenia,Normalized_Exports,5.8489608483588045e-06
+1409,Armenia,Normalized_Gross,0.0013549363553206654
+1148,Armenia,Normalized_Imports,0.007646062769909297
+3497,Armenia,Radar/Detection Systems_Score,0.242
+2192,Armenia,Specialized Equipment_Score,
+2975,Armenia,Unmanned Vehicles_Score,
+4019,Armenia,ZZ_loop_score,0.184
+2049,Aruba,Aircraft_Score,0.002
+1788,Aruba,Country_Score,0.001
+222,Aruba,Exports,17.8
+744,Aruba,Gross_Deals,0.0
+3354,Aruba,Ground Vehicles/Artillery_Score,
+2832,Aruba,Helicopters_Score,
+483,Aruba,Imports,0.0
+2571,Aruba,Missiles/Rockets/Bombs_Score,
+3876,Aruba,Naval Vessels_Score,
+1005,Aruba,Normalized_Exports,2.36617052501788e-05
+1527,Aruba,Normalized_Gross,0.0
+1266,Aruba,Normalized_Imports,0.0
+3615,Aruba,Radar/Detection Systems_Score,
+2310,Aruba,Specialized Equipment_Score,
+3093,Aruba,Unmanned Vehicles_Score,
+4137,Aruba,ZZ_loop_score,0.002
+1846,Australia,Aircraft_Score,12.715000000000002
+1585,Australia,Country_Score,11.645999999999999
+19,Australia,Exports,3492.17
+541,Australia,Gross_Deals,48485.159999999996
+3151,Australia,Ground Vehicles/Artillery_Score,3.7220000000000004
+2629,Australia,Helicopters_Score,10.96
+280,Australia,Imports,44992.99
+2368,Australia,Missiles/Rockets/Bombs_Score,7.406
+3673,Australia,Naval Vessels_Score,25.476
+802,Australia,Normalized_Exports,0.004642174001321174
+1324,Australia,Normalized_Gross,0.06104284145840857
+1063,Australia,Normalized_Imports,0.32097333993832927
+3412,Australia,Radar/Detection Systems_Score,5.337
+2107,Australia,Specialized Equipment_Score,7.95
+2890,Australia,Unmanned Vehicles_Score,1.8110000000000002
+3934,Australia,ZZ_loop_score,12.715000000000002
+1899,Austria,Aircraft_Score,0.911
+1638,Austria,Country_Score,1.155
+72,Austria,Exports,1581.9
+594,Austria,Gross_Deals,5599.07
+3204,Austria,Ground Vehicles/Artillery_Score,2.321
+2682,Austria,Helicopters_Score,1.314
+333,Austria,Imports,4017.17
+2421,Austria,Missiles/Rockets/Bombs_Score,0.432
+3726,Austria,Naval Vessels_Score,
+855,Austria,Normalized_Exports,0.002102834355913362
+1377,Austria,Normalized_Gross,0.007049232019127743
+1116,Austria,Normalized_Imports,0.028657896974618895
+3465,Austria,Radar/Detection Systems_Score,2.5149999999999997
+2160,Austria,Specialized Equipment_Score,0.573
+2943,Austria,Unmanned Vehicles_Score,0.471
+3987,Austria,ZZ_loop_score,0.911
+1907,Azerbaijan,Aircraft_Score,0.183
+1646,Azerbaijan,Country_Score,0.924
+80,Azerbaijan,Exports,0.0
+602,Azerbaijan,Gross_Deals,0.0
+3212,Azerbaijan,Ground Vehicles/Artillery_Score,1.8030000000000002
+2690,Azerbaijan,Helicopters_Score,2.168
+341,Azerbaijan,Imports,4316.86
+2429,Azerbaijan,Missiles/Rockets/Bombs_Score,1.415
+3734,Azerbaijan,Naval Vessels_Score,0.673
+863,Azerbaijan,Normalized_Exports,0.0
+1385,Azerbaijan,Normalized_Gross,0.0
+1124,Azerbaijan,Normalized_Imports,0.03079584113538967
+3473,Azerbaijan,Radar/Detection Systems_Score,0.203
+2168,Azerbaijan,Specialized Equipment_Score,0.015
+2951,Azerbaijan,Unmanned Vehicles_Score,7.009
+3995,Azerbaijan,ZZ_loop_score,0.183
+1980,Bahamas,Aircraft_Score,0.004
+1719,Bahamas,Country_Score,0.041
+153,Bahamas,Exports,0.24
+675,Bahamas,Gross_Deals,163.32
+3285,Bahamas,Ground Vehicles/Artillery_Score,0.0
+2763,Bahamas,Helicopters_Score,
+414,Bahamas,Imports,163.07999999999998
+2502,Bahamas,Missiles/Rockets/Bombs_Score,
+3807,Bahamas,Naval Vessels_Score,0.27
+936,Bahamas,Normalized_Exports,3.190342280922984e-07
+1458,Bahamas,Normalized_Gross,0.00020561996427334236
+1197,Bahamas,Normalized_Imports,0.0011633886140294907
+3546,Bahamas,Radar/Detection Systems_Score,
+2241,Bahamas,Specialized Equipment_Score,
+3024,Bahamas,Unmanned Vehicles_Score,
+4068,Bahamas,ZZ_loop_score,0.004
+1901,Bahrain,Aircraft_Score,0.771
+1640,Bahrain,Country_Score,1.109
+74,Bahrain,Exports,2.0
+596,Bahrain,Gross_Deals,4406.89
+3206,Bahrain,Ground Vehicles/Artillery_Score,0.6479999999999999
+2684,Bahrain,Helicopters_Score,1.184
+335,Bahrain,Imports,4404.89
+2423,Bahrain,Missiles/Rockets/Bombs_Score,1.426
+3728,Bahrain,Naval Vessels_Score,1.367
+857,Bahrain,Normalized_Exports,2.65861856743582e-06
+1379,Bahrain,Normalized_Gross,0.00554827678396124
+1118,Bahrain,Normalized_Imports,0.03142383414307312
+3467,Bahrain,Radar/Detection Systems_Score,0.653
+2162,Bahrain,Specialized Equipment_Score,0.023
+2945,Bahrain,Unmanned Vehicles_Score,0.17600000000000002
+3989,Bahrain,ZZ_loop_score,0.771
+1891,Bangladesh,Aircraft_Score,0.8460000000000001
+1630,Bangladesh,Country_Score,1.8239999999999998
+64,Bangladesh,Exports,1.76
+586,Bangladesh,Gross_Deals,7247.33
+3196,Bangladesh,Ground Vehicles/Artillery_Score,1.941
+2674,Bangladesh,Helicopters_Score,1.239
+325,Bangladesh,Imports,7245.57
+2413,Bangladesh,Missiles/Rockets/Bombs_Score,0.8109999999999999
+3718,Bangladesh,Naval Vessels_Score,4.456
+847,Bangladesh,Normalized_Exports,2.3395843393435215e-06
+1369,Bangladesh,Normalized_Gross,0.009124392209632147
+1108,Bangladesh,Normalized_Imports,0.05168882536272785
+3457,Bangladesh,Radar/Detection Systems_Score,0.8670000000000001
+2152,Bangladesh,Specialized Equipment_Score,0.492
+2935,Bangladesh,Unmanned Vehicles_Score,1.058
+3979,Bangladesh,ZZ_loop_score,0.8460000000000001
+2018,Barbados,Aircraft_Score,0.0
+1757,Barbados,Country_Score,0.009000000000000001
+191,Barbados,Exports,0.0
+713,Barbados,Gross_Deals,0.0
+3323,Barbados,Ground Vehicles/Artillery_Score,
+2801,Barbados,Helicopters_Score,
+452,Barbados,Imports,40.25
+2540,Barbados,Missiles/Rockets/Bombs_Score,
+3845,Barbados,Naval Vessels_Score,0.068
+974,Barbados,Normalized_Exports,0.0
+1496,Barbados,Normalized_Gross,0.0
+1235,Barbados,Normalized_Imports,0.0002871375503721303
+3584,Barbados,Radar/Detection Systems_Score,
+2279,Barbados,Specialized Equipment_Score,
+3062,Barbados,Unmanned Vehicles_Score,
+4106,Barbados,ZZ_loop_score,0.0
+1908,Belarus,Aircraft_Score,0.8
+1647,Belarus,Country_Score,0.882
+81,Belarus,Exports,3482.33
+603,Belarus,Gross_Deals,5726.98
+3213,Belarus,Ground Vehicles/Artillery_Score,0.958
+2691,Belarus,Helicopters_Score,0.47800000000000004
+342,Belarus,Imports,2244.65
+2430,Belarus,Missiles/Rockets/Bombs_Score,1.838
+3735,Belarus,Naval Vessels_Score,
+864,Belarus,Normalized_Exports,0.004629093597969389
+1386,Belarus,Normalized_Gross,0.007210270775129477
+1125,Belarus,Normalized_Imports,0.016013001302926762
+3474,Belarus,Radar/Detection Systems_Score,0.9820000000000001
+2169,Belarus,Specialized Equipment_Score,0.091
+2952,Belarus,Unmanned Vehicles_Score,0.059000000000000004
+3996,Belarus,ZZ_loop_score,0.8
+1870,Belgium,Aircraft_Score,5.37
+1609,Belgium,Country_Score,3.8859999999999997
+43,Belgium,Exports,2447.51
+565,Belgium,Gross_Deals,16995.57
+3175,Belgium,Ground Vehicles/Artillery_Score,5.521
+2653,Belgium,Helicopters_Score,0.874
+304,Belgium,Imports,14548.060000000001
+2392,Belgium,Missiles/Rockets/Bombs_Score,1.8950000000000002
+3697,Belgium,Naval Vessels_Score,1.2449999999999999
+826,Belgium,Normalized_Exports,0.0032534977649924224
+1348,Belgium,Normalized_Gross,0.02139743139973726
+1087,Belgium,Normalized_Imports,0.10378370959172109
+3436,Belgium,Radar/Detection Systems_Score,1.425
+2131,Belgium,Specialized Equipment_Score,0.5700000000000001
+2914,Belgium,Unmanned Vehicles_Score,1.32
+3958,Belgium,ZZ_loop_score,5.37
+2053,Belize,Aircraft_Score,0.001
+1792,Belize,Country_Score,0.001
+226,Belize,Exports,0.0
+748,Belize,Gross_Deals,0.0
+3358,Belize,Ground Vehicles/Artillery_Score,
+2836,Belize,Helicopters_Score,0.005
+487,Belize,Imports,4.52
+2575,Belize,Missiles/Rockets/Bombs_Score,
+3880,Belize,Naval Vessels_Score,
+1009,Belize,Normalized_Exports,0.0
+1531,Belize,Normalized_Gross,0.0
+1270,Belize,Normalized_Imports,3.224501186787649e-05
+3619,Belize,Radar/Detection Systems_Score,
+2314,Belize,Specialized Equipment_Score,
+3097,Belize,Unmanned Vehicles_Score,
+4141,Belize,ZZ_loop_score,0.001
+1997,Benin,Aircraft_Score,0.023
+1736,Benin,Country_Score,0.023
+170,Benin,Exports,0.0
+692,Benin,Gross_Deals,0.0
+3302,Benin,Ground Vehicles/Artillery_Score,0.024
+2780,Benin,Helicopters_Score,0.041
+431,Benin,Imports,108.3
+2519,Benin,Missiles/Rockets/Bombs_Score,
+3824,Benin,Naval Vessels_Score,0.043
+953,Benin,Normalized_Exports,0.0
+1475,Benin,Normalized_Gross,0.0
+1214,Benin,Normalized_Imports,0.0007725961914360673
+3563,Benin,Radar/Detection Systems_Score,
+2258,Benin,Specialized Equipment_Score,0.0
+3041,Benin,Unmanned Vehicles_Score,0.076
+4085,Benin,ZZ_loop_score,0.023
+2058,Bhutan,Aircraft_Score,
+1797,Bhutan,Country_Score,0.001
+231,Bhutan,Exports,0.0
+753,Bhutan,Gross_Deals,0.0
+3363,Bhutan,Ground Vehicles/Artillery_Score,0.004
+2841,Bhutan,Helicopters_Score,0.006999999999999999
+492,Bhutan,Imports,6.51
+2580,Bhutan,Missiles/Rockets/Bombs_Score,
+3885,Bhutan,Naval Vessels_Score,
+1014,Bhutan,Normalized_Exports,0.0
+1536,Bhutan,Normalized_Gross,0.0
+1275,Bhutan,Normalized_Imports,4.6441377712361935e-05
+3624,Bhutan,Radar/Detection Systems_Score,
+2319,Bhutan,Specialized Equipment_Score,0.002
+3102,Bhutan,Unmanned Vehicles_Score,
+4146,Bhutan,ZZ_loop_score,
+2043,Biafra,Aircraft_Score,0.005
+1782,Biafra,Country_Score,0.002
+216,Biafra,Exports,0.0
+738,Biafra,Gross_Deals,0.0
+3348,Biafra,Ground Vehicles/Artillery_Score,
+2826,Biafra,Helicopters_Score,
+477,Biafra,Imports,8.9
+2565,Biafra,Missiles/Rockets/Bombs_Score,
+3870,Biafra,Naval Vessels_Score,
+999,Biafra,Normalized_Exports,0.0
+1521,Biafra,Normalized_Gross,0.0
+1260,Biafra,Normalized_Imports,6.349128443011079e-05
+3609,Biafra,Radar/Detection Systems_Score,
+2304,Biafra,Specialized Equipment_Score,
+3087,Biafra,Unmanned Vehicles_Score,
+4131,Biafra,ZZ_loop_score,0.005
+1947,Bolivia,Aircraft_Score,0.19499999999999998
+1686,Bolivia,Country_Score,0.156
+120,Bolivia,Exports,0.0
+642,Bolivia,Gross_Deals,0.0
+3252,Bolivia,Ground Vehicles/Artillery_Score,0.132
+2730,Bolivia,Helicopters_Score,0.39899999999999997
+381,Bolivia,Imports,727.73
+2469,Bolivia,Missiles/Rockets/Bombs_Score,0.01
+3774,Bolivia,Naval Vessels_Score,
+903,Bolivia,Normalized_Exports,0.0
+1425,Bolivia,Normalized_Gross,0.0
+1164,Bolivia,Normalized_Imports,0.005191518249249947
+3513,Bolivia,Radar/Detection Systems_Score,0.23500000000000001
+2208,Bolivia,Specialized Equipment_Score,0.043
+2991,Bolivia,Unmanned Vehicles_Score,
+4035,Bolivia,ZZ_loop_score,0.19499999999999998
+1971,Bosnia-Herzegovina,Aircraft_Score,
+1710,Bosnia-Herzegovina,Country_Score,0.05
+144,Bosnia-Herzegovina,Exports,26.84
+666,Bosnia-Herzegovina,Gross_Deals,215.72
+3276,Bosnia-Herzegovina,Ground Vehicles/Artillery_Score,0.244
+2754,Bosnia-Herzegovina,Helicopters_Score,0.074
+405,Bosnia-Herzegovina,Imports,188.88
+2493,Bosnia-Herzegovina,Missiles/Rockets/Bombs_Score,0.005
+3798,Bosnia-Herzegovina,Naval Vessels_Score,
+927,Bosnia-Herzegovina,Normalized_Exports,3.567866117498871e-05
+1449,Bosnia-Herzegovina,Normalized_Gross,0.0002715915913118137
+1188,Bosnia-Herzegovina,Normalized_Imports,0.0013474420003549805
+3537,Bosnia-Herzegovina,Radar/Detection Systems_Score,
+2232,Bosnia-Herzegovina,Specialized Equipment_Score,
+3015,Bosnia-Herzegovina,Unmanned Vehicles_Score,
+4059,Bosnia-Herzegovina,ZZ_loop_score,
+1954,Botswana,Aircraft_Score,0.117
+1693,Botswana,Country_Score,0.105
+127,Botswana,Exports,0.0
+649,Botswana,Gross_Deals,0.0
+3259,Botswana,Ground Vehicles/Artillery_Score,0.159
+2737,Botswana,Helicopters_Score,0.095
+388,Botswana,Imports,488.72
+2476,Botswana,Missiles/Rockets/Bombs_Score,0.104
+3781,Botswana,Naval Vessels_Score,
+910,Botswana,Normalized_Exports,0.0
+1432,Botswana,Normalized_Gross,0.0
+1171,Botswana,Normalized_Imports,0.0034864562389532302
+3520,Botswana,Radar/Detection Systems_Score,0.02
+2215,Botswana,Specialized Equipment_Score,0.037
+2998,Botswana,Unmanned Vehicles_Score,
+4042,Botswana,ZZ_loop_score,0.117
+1861,Brazil,Aircraft_Score,3.283
+1600,Brazil,Country_Score,5.269
+34,Brazil,Exports,5113.24
+556,Brazil,Gross_Deals,24194.690000000002
+3166,Brazil,Ground Vehicles/Artillery_Score,3.7859999999999996
+2644,Brazil,Helicopters_Score,6.107
+295,Brazil,Imports,19081.45
+2383,Brazil,Missiles/Rockets/Bombs_Score,1.951
+3688,Brazil,Naval Vessels_Score,16.02
+817,Brazil,Normalized_Exports,0.006797077401877766
+1339,Brazil,Normalized_Gross,0.030461127194492985
+1078,Brazil,Normalized_Imports,0.13612424374033008
+3427,Brazil,Radar/Detection Systems_Score,7.298
+2122,Brazil,Specialized Equipment_Score,4.936
+2905,Brazil,Unmanned Vehicles_Score,2.5
+3949,Brazil,ZZ_loop_score,3.283
+1932,Brunei,Aircraft_Score,0.037
+1671,Brunei,Country_Score,0.251
+105,Brunei,Exports,35.6
+627,Brunei,Gross_Deals,1020.19
+3237,Brunei,Ground Vehicles/Artillery_Score,0.052
+2715,Brunei,Helicopters_Score,0.644
+366,Brunei,Imports,984.59
+2454,Brunei,Missiles/Rockets/Bombs_Score,0.22699999999999998
+3759,Brunei,Naval Vessels_Score,1.049
+888,Brunei,Normalized_Exports,4.73234105003576e-05
+1410,Brunei,Normalized_Gross,0.001284419736419429
+1149,Brunei,Normalized_Imports,0.007023919521016044
+3498,Brunei,Radar/Detection Systems_Score,0.188
+2193,Brunei,Specialized Equipment_Score,0.056999999999999995
+2976,Brunei,Unmanned Vehicles_Score,0.013
+4020,Brunei,ZZ_loop_score,0.037
+1867,Bulgaria,Aircraft_Score,3.447
+1606,Bulgaria,Country_Score,4.405
+40,Bulgaria,Exports,1169.77
+562,Bulgaria,Gross_Deals,18243.31
+3172,Bulgaria,Ground Vehicles/Artillery_Score,6.7669999999999995
+2650,Bulgaria,Helicopters_Score,2.848
+301,Bulgaria,Imports,17073.54
+2389,Bulgaria,Missiles/Rockets/Bombs_Score,6.516
+3694,Bulgaria,Naval Vessels_Score,4.15
+823,Bulgaria,Normalized_Exports,0.0015549861208146996
+1345,Bulgaria,Normalized_Gross,0.0229683367035728
+1084,Bulgaria,Normalized_Imports,0.12180011060324425
+3433,Bulgaria,Radar/Detection Systems_Score,1.05
+2128,Bulgaria,Specialized Equipment_Score,0.122
+2911,Bulgaria,Unmanned Vehicles_Score,1.2510000000000001
+3955,Bulgaria,ZZ_loop_score,3.447
+1969,Burkina Faso,Aircraft_Score,0.033
+1708,Burkina Faso,Country_Score,0.053
+142,Burkina Faso,Exports,0.0
+664,Burkina Faso,Gross_Deals,0.0
+3274,Burkina Faso,Ground Vehicles/Artillery_Score,0.101
+2752,Burkina Faso,Helicopters_Score,0.197
+403,Burkina Faso,Imports,246.53
+2491,Burkina Faso,Missiles/Rockets/Bombs_Score,0.004
+3796,Burkina Faso,Naval Vessels_Score,
+925,Burkina Faso,Normalized_Exports,0.0
+1447,Burkina Faso,Normalized_Gross,0.0
+1186,Burkina Faso,Normalized_Imports,0.001758708578714069
+3535,Burkina Faso,Radar/Detection Systems_Score,
+2230,Burkina Faso,Specialized Equipment_Score,0.018000000000000002
+3013,Burkina Faso,Unmanned Vehicles_Score,0.441
+4057,Burkina Faso,ZZ_loop_score,0.033
+2005,Burundi,Aircraft_Score,0.002
+1744,Burundi,Country_Score,0.015
+178,Burundi,Exports,0.0
+700,Burundi,Gross_Deals,0.0
+3310,Burundi,Ground Vehicles/Artillery_Score,0.046
+2788,Burundi,Helicopters_Score,0.024
+439,Burundi,Imports,68.45
+2527,Burundi,Missiles/Rockets/Bombs_Score,0.018000000000000002
+3832,Burundi,Naval Vessels_Score,
+961,Burundi,Normalized_Exports,0.0
+1483,Burundi,Normalized_Gross,0.0
+1222,Burundi,Normalized_Imports,0.0004883121819372004
+3571,Burundi,Radar/Detection Systems_Score,
+2266,Burundi,Specialized Equipment_Score,
+3049,Burundi,Unmanned Vehicles_Score,0.16199999999999998
+4093,Burundi,ZZ_loop_score,0.002
+2004,Cabo Verde,Aircraft_Score,0.017
+1743,Cabo Verde,Country_Score,0.016
+177,Cabo Verde,Exports,0.0
+699,Cabo Verde,Gross_Deals,0.0
+3309,Cabo Verde,Ground Vehicles/Artillery_Score,
+2787,Cabo Verde,Helicopters_Score,
+438,Cabo Verde,Imports,76.09
+2526,Cabo Verde,Missiles/Rockets/Bombs_Score,
+3831,Cabo Verde,Naval Vessels_Score,0.059000000000000004
+960,Cabo Verde,Normalized_Exports,0.0
+1482,Cabo Verde,Normalized_Gross,0.0
+1221,Cabo Verde,Normalized_Imports,0.0005428148126165315
+3570,Cabo Verde,Radar/Detection Systems_Score,
+2265,Cabo Verde,Specialized Equipment_Score,0.025
+3048,Cabo Verde,Unmanned Vehicles_Score,0.054
+4092,Cabo Verde,ZZ_loop_score,0.017
+1923,Cambodia,Aircraft_Score,0.23900000000000002
+1662,Cambodia,Country_Score,0.395
+96,Cambodia,Exports,1.8599999999999999
+618,Cambodia,Gross_Deals,1571.4299999999998
+3228,Cambodia,Ground Vehicles/Artillery_Score,0.5579999999999999
+2706,Cambodia,Helicopters_Score,0.8460000000000001
+357,Cambodia,Imports,1569.57
+2445,Cambodia,Missiles/Rockets/Bombs_Score,0.215
+3750,Cambodia,Naval Vessels_Score,0.42700000000000005
+879,Cambodia,Normalized_Exports,2.4725152677153126e-06
+1401,Cambodia,Normalized_Gross,0.0019784311808600193
+1140,Cambodia,Normalized_Imports,0.011197080371120112
+3489,Cambodia,Radar/Detection Systems_Score,0.019
+2184,Cambodia,Specialized Equipment_Score,0.011000000000000001
+2967,Cambodia,Unmanned Vehicles_Score,0.203
+4011,Cambodia,ZZ_loop_score,0.23900000000000002
+1943,Cameroon,Aircraft_Score,0.15
+1682,Cameroon,Country_Score,0.181
+116,Cameroon,Exports,0.0
+638,Cameroon,Gross_Deals,0.0
+3248,Cameroon,Ground Vehicles/Artillery_Score,0.191
+2726,Cameroon,Helicopters_Score,0.298
+377,Cameroon,Imports,846.54
+2465,Cameroon,Missiles/Rockets/Bombs_Score,0.032
+3770,Cameroon,Naval Vessels_Score,0.218
+899,Cameroon,Normalized_Exports,0.0
+1421,Cameroon,Normalized_Gross,0.0
+1160,Cameroon,Normalized_Imports,0.00603909122713101
+3509,Cameroon,Radar/Detection Systems_Score,0.45999999999999996
+2204,Cameroon,Specialized Equipment_Score,0.034
+2987,Cameroon,Unmanned Vehicles_Score,0.003
+4031,Cameroon,ZZ_loop_score,0.15
+1851,Canada,Aircraft_Score,11.498
+1590,Canada,Country_Score,8.684
+24,Canada,Exports,11533.37
+546,Canada,Gross_Deals,41855.42
+3156,Canada,Ground Vehicles/Artillery_Score,6.300999999999999
+2634,Canada,Helicopters_Score,7.813000000000001
+285,Canada,Imports,30322.05
+2373,Canada,Missiles/Rockets/Bombs_Score,4.705
+3678,Canada,Naval Vessels_Score,3.406
+807,Canada,Normalized_Exports,0.015331415813553633
+1329,Canada,Normalized_Gross,0.0526959953774537
+1068,Canada,Normalized_Imports,0.21631302259034166
+3417,Canada,Radar/Detection Systems_Score,8.911
+2112,Canada,Specialized Equipment_Score,10.735
+2895,Canada,Unmanned Vehicles_Score,11.681
+3939,Canada,ZZ_loop_score,11.498
+1992,Central African Republic,Aircraft_Score,0.055
+1731,Central African Republic,Country_Score,0.03
+165,Central African Republic,Exports,0.0
+687,Central African Republic,Gross_Deals,0.0
+3297,Central African Republic,Ground Vehicles/Artillery_Score,0.016
+2775,Central African Republic,Helicopters_Score,0.038
+426,Central African Republic,Imports,138.11
+2514,Central African Republic,Missiles/Rockets/Bombs_Score,
+3819,Central African Republic,Naval Vessels_Score,
+948,Central African Republic,Normalized_Exports,0.0
+1470,Central African Republic,Normalized_Gross,0.0
+1209,Central African Republic,Normalized_Imports,0.0009852563250160227
+3558,Central African Republic,Radar/Detection Systems_Score,
+2253,Central African Republic,Specialized Equipment_Score,
+3036,Central African Republic,Unmanned Vehicles_Score,0.052
+4080,Central African Republic,ZZ_loop_score,0.055
+1944,Chad,Aircraft_Score,0.128
+1683,Chad,Country_Score,0.173
+117,Chad,Exports,19.560000000000002
+639,Chad,Gross_Deals,700.94
+3249,Chad,Ground Vehicles/Artillery_Score,0.47400000000000003
+2727,Chad,Helicopters_Score,0.234
+378,Chad,Imports,681.38
+2466,Chad,Missiles/Rockets/Bombs_Score,0.021
+3771,Chad,Naval Vessels_Score,
+900,Chad,Normalized_Exports,2.6001289589522322e-05
+1422,Chad,Normalized_Gross,0.0008824838216859944
+1161,Chad,Normalized_Imports,0.004860864200560549
+3510,Chad,Radar/Detection Systems_Score,
+2205,Chad,Specialized Equipment_Score,0.034999999999999996
+2988,Chad,Unmanned Vehicles_Score,0.216
+4032,Chad,ZZ_loop_score,0.128
+1884,Chile,Aircraft_Score,1.649
+1623,Chile,Country_Score,2.896
+57,Chile,Exports,188.35
+579,Chile,Gross_Deals,11623.16
+3189,Chile,Ground Vehicles/Artillery_Score,1.687
+2667,Chile,Helicopters_Score,1.8870000000000002
+318,Chile,Imports,11434.81
+2406,Chile,Missiles/Rockets/Bombs_Score,1.8239999999999998
+3711,Chile,Naval Vessels_Score,11.061
+840,Chile,Normalized_Exports,0.00025037540358826833
+1362,Chile,Normalized_Gross,0.014633564437566386
+1101,Chile,Normalized_Imports,0.08157424428250283
+3450,Chile,Radar/Detection Systems_Score,1.4120000000000001
+2145,Chile,Specialized Equipment_Score,0.9259999999999999
+2928,Chile,Unmanned Vehicles_Score,0.364
+3972,Chile,ZZ_loop_score,1.649
+1834,China,Aircraft_Score,13.443
+1573,China,Country_Score,18.415
+7,China,Exports,69970.22
+529,China,Gross_Deals,117836.24
+3139,China,Ground Vehicles/Artillery_Score,14.344000000000001
+2617,China,Helicopters_Score,13.786999999999999
+268,China,Imports,47866.020000000004
+2356,China,Missiles/Rockets/Bombs_Score,20.465
+3661,China,Naval Vessels_Score,37.795
+790,China,Normalized_Exports,0.09301206302978458
+1312,China,Normalized_Gross,0.14835588696366028
+1051,China,Normalized_Imports,0.34146911127610924
+3400,China,Radar/Detection Systems_Score,19.552
+2095,China,Specialized Equipment_Score,32.955
+2878,China,Unmanned Vehicles_Score,47.591
+3922,China,ZZ_loop_score,13.443
+1890,Colombia,Aircraft_Score,0.8370000000000001
+1629,Colombia,Country_Score,1.862
+63,Colombia,Exports,40.36
+585,Colombia,Gross_Deals,7419.969999999999
+3195,Colombia,Ground Vehicles/Artillery_Score,0.5459999999999999
+2673,Colombia,Helicopters_Score,5.076
+324,Colombia,Imports,7379.61
+2412,Colombia,Missiles/Rockets/Bombs_Score,0.889
+3717,Colombia,Naval Vessels_Score,6.078
+846,Colombia,Normalized_Exports,5.365092269085485e-05
+1368,Colombia,Normalized_Gross,0.009341746058714621
+1107,Colombia,Normalized_Imports,0.052645046909358416
+3456,Colombia,Radar/Detection Systems_Score,1.627
+2151,Colombia,Specialized Equipment_Score,0.853
+2934,Colombia,Unmanned Vehicles_Score,0.356
+3978,Colombia,ZZ_loop_score,0.8370000000000001
+2033,Comoros,Aircraft_Score,0.002
+1772,Comoros,Country_Score,0.003
+206,Comoros,Exports,5.0
+728,Comoros,Gross_Deals,14.26
+3338,Comoros,Ground Vehicles/Artillery_Score,
+2816,Comoros,Helicopters_Score,0.017
+467,Comoros,Imports,9.26
+2555,Comoros,Missiles/Rockets/Bombs_Score,
+3860,Comoros,Naval Vessels_Score,
+989,Comoros,Normalized_Exports,6.6465464185895504e-06
+1511,Comoros,Normalized_Gross,1.7953347358179417e-05
+1250,Comoros,Normalized_Imports,6.605947121604786e-05
+3599,Comoros,Radar/Detection Systems_Score,
+2294,Comoros,Specialized Equipment_Score,
+3077,Comoros,Unmanned Vehicles_Score,
+4121,Comoros,ZZ_loop_score,0.002
+1953,Congo,Aircraft_Score,0.127
+1692,Congo,Country_Score,0.11100000000000002
+126,Congo,Exports,0.0
+648,Congo,Gross_Deals,0.0
+3258,Congo,Ground Vehicles/Artillery_Score,0.136
+2736,Congo,Helicopters_Score,0.28300000000000003
+387,Congo,Imports,516.48
+2475,Congo,Missiles/Rockets/Bombs_Score,0.015
+3780,Congo,Naval Vessels_Score,0.047
+909,Congo,Normalized_Exports,0.0
+1431,Congo,Normalized_Gross,0.0
+1170,Congo,Normalized_Imports,0.0036844919755577104
+3519,Congo,Radar/Detection Systems_Score,0.003
+2214,Congo,Specialized Equipment_Score,0.004
+2997,Congo,Unmanned Vehicles_Score,0.098
+4041,Congo,ZZ_loop_score,0.127
+2029,Contras (Nicaragua)*,Aircraft_Score,0.006999999999999999
+1768,Contras (Nicaragua)*,Country_Score,0.006
+202,Contras (Nicaragua)*,Exports,0.0
+724,Contras (Nicaragua)*,Gross_Deals,0.0
+3334,Contras (Nicaragua)*,Ground Vehicles/Artillery_Score,
+2812,Contras (Nicaragua)*,Helicopters_Score,0.002
+463,Contras (Nicaragua)*,Imports,27.74
+2551,Contras (Nicaragua)*,Missiles/Rockets/Bombs_Score,0.021
+3856,Contras (Nicaragua)*,Naval Vessels_Score,
+985,Contras (Nicaragua)*,Normalized_Exports,0.0
+1507,Contras (Nicaragua)*,Normalized_Gross,0.0
+1246,Contras (Nicaragua)*,Normalized_Imports,0.00019789305956081723
+3595,Contras (Nicaragua)*,Radar/Detection Systems_Score,
+2290,Contras (Nicaragua)*,Specialized Equipment_Score,
+3073,Contras (Nicaragua)*,Unmanned Vehicles_Score,
+4117,Contras (Nicaragua)*,ZZ_loop_score,0.006999999999999999
+2023,Costa Rica,Aircraft_Score,0.002
+1762,Costa Rica,Country_Score,0.006999999999999999
+196,Costa Rica,Exports,3.1799999999999997
+718,Costa Rica,Gross_Deals,31.52
+3328,Costa Rica,Ground Vehicles/Artillery_Score,0.001
+2806,Costa Rica,Helicopters_Score,0.03
+457,Costa Rica,Imports,28.34
+2545,Costa Rica,Missiles/Rockets/Bombs_Score,
+3850,Costa Rica,Naval Vessels_Score,0.013
+979,Costa Rica,Normalized_Exports,4.227203522222953e-06
+1501,Costa Rica,Normalized_Gross,3.9683696264362916e-05
+1240,Costa Rica,Normalized_Imports,0.00020217337087071233
+3589,Costa Rica,Radar/Detection Systems_Score,
+2284,Costa Rica,Specialized Equipment_Score,0.027
+3067,Costa Rica,Unmanned Vehicles_Score,
+4111,Costa Rica,ZZ_loop_score,0.002
+1951,Cote d'Ivoire,Aircraft_Score,0.095
+1690,Cote d'Ivoire,Country_Score,0.12
+124,Cote d'Ivoire,Exports,1.0
+646,Cote d'Ivoire,Gross_Deals,478.82
+3256,Cote d'Ivoire,Ground Vehicles/Artillery_Score,0.104
+2734,Cote d'Ivoire,Helicopters_Score,0.27699999999999997
+385,Cote d'Ivoire,Imports,477.82
+2473,Cote d'Ivoire,Missiles/Rockets/Bombs_Score,0.001
+3778,Cote d'Ivoire,Naval Vessels_Score,0.197
+907,Cote d'Ivoire,Normalized_Exports,1.32930928371791e-06
+1429,Cote d'Ivoire,Normalized_Gross,0.0006028346270717719
+1168,Cote d'Ivoire,Normalized_Imports,0.003408697250156802
+3517,Cote d'Ivoire,Radar/Detection Systems_Score,
+2212,Cote d'Ivoire,Specialized Equipment_Score,0.013999999999999999
+2995,Cote d'Ivoire,Unmanned Vehicles_Score,0.034999999999999996
+4039,Cote d'Ivoire,ZZ_loop_score,0.095
+1936,Croatia,Aircraft_Score,0.199
+1675,Croatia,Country_Score,0.24
+109,Croatia,Exports,55.98
+631,Croatia,Gross_Deals,988.1
+3241,Croatia,Ground Vehicles/Artillery_Score,0.28400000000000003
+2719,Croatia,Helicopters_Score,0.747
+370,Croatia,Imports,932.12
+2458,Croatia,Missiles/Rockets/Bombs_Score,0.06
+3763,Croatia,Naval Vessels_Score,0.076
+892,Croatia,Normalized_Exports,7.44147337025286e-05
+1414,Croatia,Normalized_Gross,0.0012440184098609453
+1153,Croatia,Normalized_Imports,0.006649606296965716
+3502,Croatia,Radar/Detection Systems_Score,0.231
+2197,Croatia,Specialized Equipment_Score,0.058
+2980,Croatia,Unmanned Vehicles_Score,0.14400000000000002
+4024,Croatia,ZZ_loop_score,0.199
+1882,Cuba,Aircraft_Score,2.349
+1621,Cuba,Country_Score,2.9749999999999996
+55,Cuba,Exports,31.599999999999998
+577,Cuba,Gross_Deals,11835.69
+3187,Cuba,Ground Vehicles/Artillery_Score,4.039000000000001
+2665,Cuba,Helicopters_Score,2.233
+316,Cuba,Imports,11804.09
+2404,Cuba,Missiles/Rockets/Bombs_Score,2.307
+3709,Cuba,Naval Vessels_Score,3.2649999999999997
+838,Cuba,Normalized_Exports,4.200617336548595e-05
+1360,Cuba,Normalized_Gross,0.014901139817232156
+1099,Cuba,Normalized_Imports,0.08420863321669961
+3448,Cuba,Radar/Detection Systems_Score,0.08
+2143,Cuba,Specialized Equipment_Score,0.064
+2926,Cuba,Unmanned Vehicles_Score,0.216
+3970,Cuba,ZZ_loop_score,2.349
+1922,Cyprus,Aircraft_Score,0.002
+1661,Cyprus,Country_Score,0.4
+95,Cyprus,Exports,73.2
+617,Cyprus,Gross_Deals,1637.09
+3227,Cyprus,Ground Vehicles/Artillery_Score,1.01
+2705,Cyprus,Helicopters_Score,0.628
+356,Cyprus,Imports,1563.8899999999999
+2444,Cyprus,Missiles/Rockets/Bombs_Score,0.577
+3749,Cyprus,Naval Vessels_Score,0.146
+878,Cyprus,Normalized_Exports,9.730543956815102e-05
+1400,Cyprus,Normalized_Gross,0.0020610971547406686
+1139,Cyprus,Normalized_Imports,0.01115656009071977
+3488,Cyprus,Radar/Detection Systems_Score,0.131
+2183,Cyprus,Specialized Equipment_Score,0.017
+2966,Cyprus,Unmanned Vehicles_Score,0.217
+4010,Cyprus,ZZ_loop_score,0.002
+1904,Czechia,Aircraft_Score,1.335
+1643,Czechia,Country_Score,1.043
+77,Czechia,Exports,2529.59
+599,Czechia,Gross_Deals,5759.860000000001
+3209,Czechia,Ground Vehicles/Artillery_Score,0.795
+2687,Czechia,Helicopters_Score,1.517
+338,Czechia,Imports,3230.27
+2426,Czechia,Missiles/Rockets/Bombs_Score,0.5890000000000001
+3731,Czechia,Naval Vessels_Score,
+860,Czechia,Normalized_Exports,0.0033626074709999882
+1382,Czechia,Normalized_Gross,0.0072516667120956025
+1121,Czechia,Normalized_Imports,0.023044268691691457
+3470,Czechia,Radar/Detection Systems_Score,1.5559999999999998
+2165,Czechia,Specialized Equipment_Score,0.699
+2948,Czechia,Unmanned Vehicles_Score,0.6819999999999999
+3992,Czechia,ZZ_loop_score,1.335
+1856,Czechoslovakia,Aircraft_Score,7.811
+1595,Czechoslovakia,Country_Score,7.176
+29,Czechoslovakia,Exports,22012.04
+551,Czechoslovakia,Gross_Deals,42561.5
+3161,Czechoslovakia,Ground Vehicles/Artillery_Score,14.143
+2639,Czechoslovakia,Helicopters_Score,3.086
+290,Czechoslovakia,Imports,20549.46
+2378,Czechoslovakia,Missiles/Rockets/Bombs_Score,4.944
+3683,Czechoslovakia,Naval Vessels_Score,
+812,Czechoslovakia,Normalized_Exports,0.029260809125569987
+1334,Czechoslovakia,Normalized_Gross,0.05358495046179195
+1073,Czechoslovakia,Normalized_Imports,0.1465968100837286
+3422,Czechoslovakia,Radar/Detection Systems_Score,2.466
+2117,Czechoslovakia,Specialized Equipment_Score,0.166
+2900,Czechoslovakia,Unmanned Vehicles_Score,2.268
+3944,Czechoslovakia,ZZ_loop_score,7.811
+1916,DR Congo,Aircraft_Score,0.587
+1655,DR Congo,Country_Score,0.471
+89,DR Congo,Exports,23.2
+611,DR Congo,Gross_Deals,1884.98
+3221,DR Congo,Ground Vehicles/Artillery_Score,0.601
+2699,DR Congo,Helicopters_Score,0.48700000000000004
+350,DR Congo,Imports,1861.78
+2438,DR Congo,Missiles/Rockets/Bombs_Score,0.001
+3743,DR Congo,Naval Vessels_Score,0.166
+872,DR Congo,Normalized_Exports,3.0839975382255514e-05
+1394,DR Congo,Normalized_Gross,0.0023731907926522466
+1133,DR Congo,Normalized_Imports,0.013281663317560862
+3482,DR Congo,Radar/Detection Systems_Score,0.074
+2177,DR Congo,Specialized Equipment_Score,0.049
+2960,DR Congo,Unmanned Vehicles_Score,1.2959999999999998
+4004,DR Congo,ZZ_loop_score,0.587
+2067,Darfur rebels (Sudan)*,Aircraft_Score,
+1806,Darfur rebels (Sudan)*,Country_Score,0.0
+240,Darfur rebels (Sudan)*,Exports,0.0
+762,Darfur rebels (Sudan)*,Gross_Deals,0.0
+3372,Darfur rebels (Sudan)*,Ground Vehicles/Artillery_Score,0.001
+2850,Darfur rebels (Sudan)*,Helicopters_Score,
+501,Darfur rebels (Sudan)*,Imports,0.8800000000000001
+2589,Darfur rebels (Sudan)*,Missiles/Rockets/Bombs_Score,
+3894,Darfur rebels (Sudan)*,Naval Vessels_Score,
+1023,Darfur rebels (Sudan)*,Normalized_Exports,0.0
+1545,Darfur rebels (Sudan)*,Normalized_Gross,0.0
+1284,Darfur rebels (Sudan)*,Normalized_Imports,6.277789921179494e-06
+3633,Darfur rebels (Sudan)*,Radar/Detection Systems_Score,
+2328,Darfur rebels (Sudan)*,Specialized Equipment_Score,
+3111,Darfur rebels (Sudan)*,Unmanned Vehicles_Score,
+4155,Darfur rebels (Sudan)*,ZZ_loop_score,
+1886,Denmark,Aircraft_Score,2.555
+1625,Denmark,Country_Score,2.778
+59,Denmark,Exports,2179.39
+581,Denmark,Gross_Deals,12424.8
+3191,Denmark,Ground Vehicles/Artillery_Score,2.007
+2669,Denmark,Helicopters_Score,1.333
+320,Denmark,Imports,10245.41
+2408,Denmark,Missiles/Rockets/Bombs_Score,2.344
+3713,Denmark,Naval Vessels_Score,3.472
+842,Denmark,Normalized_Exports,0.0028970833598419756
+1364,Denmark,Normalized_Gross,0.015642829611213716
+1103,Denmark,Normalized_Imports,0.0730892404958541
+3452,Denmark,Radar/Detection Systems_Score,8.871
+2147,Denmark,Specialized Equipment_Score,2.4570000000000003
+2930,Denmark,Unmanned Vehicles_Score,0.147
+3974,Denmark,ZZ_loop_score,2.555
+1973,Djibouti,Aircraft_Score,0.023
+1712,Djibouti,Country_Score,0.049
+146,Djibouti,Exports,0.0
+668,Djibouti,Gross_Deals,0.0
+3278,Djibouti,Ground Vehicles/Artillery_Score,0.087
+2756,Djibouti,Helicopters_Score,0.098
+407,Djibouti,Imports,226.79
+2495,Djibouti,Missiles/Rockets/Bombs_Score,0.001
+3800,Djibouti,Naval Vessels_Score,0.11
+929,Djibouti,Normalized_Exports,0.0
+1451,Djibouti,Normalized_Gross,0.0
+1190,Djibouti,Normalized_Imports,0.0016178863366185198
+3539,Djibouti,Radar/Detection Systems_Score,
+2234,Djibouti,Specialized Equipment_Score,0.005
+3017,Djibouti,Unmanned Vehicles_Score,0.199
+4061,Djibouti,ZZ_loop_score,0.023
+1958,Dominican Republic,Aircraft_Score,0.065
+1697,Dominican Republic,Country_Score,0.08800000000000001
+131,Dominican Republic,Exports,4.24
+653,Dominican Republic,Gross_Deals,350.62
+3263,Dominican Republic,Ground Vehicles/Artillery_Score,0.023
+2741,Dominican Republic,Helicopters_Score,0.234
+392,Dominican Republic,Imports,346.38
+2480,Dominican Republic,Missiles/Rockets/Bombs_Score,
+3785,Dominican Republic,Naval Vessels_Score,0.155
+914,Dominican Republic,Normalized_Exports,5.6362713629639386e-06
+1436,Dominican Republic,Normalized_Gross,0.00044143076092039736
+1175,Dominican Republic,Normalized_Imports,0.002471023719202447
+3524,Dominican Republic,Radar/Detection Systems_Score,0.129
+2219,Dominican Republic,Specialized Equipment_Score,0.013999999999999999
+3002,Dominican Republic,Unmanned Vehicles_Score,
+4046,Dominican Republic,ZZ_loop_score,0.065
+2051,ELF (Ethiopia)*,Aircraft_Score,
+1790,ELF (Ethiopia)*,Country_Score,0.001
+224,ELF (Ethiopia)*,Exports,0.0
+746,ELF (Ethiopia)*,Gross_Deals,0.0
+3356,ELF (Ethiopia)*,Ground Vehicles/Artillery_Score,
+2834,ELF (Ethiopia)*,Helicopters_Score,
+485,ELF (Ethiopia)*,Imports,4.0
+2573,ELF (Ethiopia)*,Missiles/Rockets/Bombs_Score,0.006
+3878,ELF (Ethiopia)*,Naval Vessels_Score,
+1007,ELF (Ethiopia)*,Normalized_Exports,0.0
+1529,ELF (Ethiopia)*,Normalized_Gross,0.0
+1268,ELF (Ethiopia)*,Normalized_Imports,2.8535408732634063e-05
+3617,ELF (Ethiopia)*,Radar/Detection Systems_Score,
+2312,ELF (Ethiopia)*,Specialized Equipment_Score,
+3095,ELF (Ethiopia)*,Unmanned Vehicles_Score,
+4139,ELF (Ethiopia)*,ZZ_loop_score,
+2068,EPLF (Ethiopia)*,Aircraft_Score,
+1807,EPLF (Ethiopia)*,Country_Score,0.0
+241,EPLF (Ethiopia)*,Exports,0.0
+763,EPLF (Ethiopia)*,Gross_Deals,0.0
+3373,EPLF (Ethiopia)*,Ground Vehicles/Artillery_Score,
+2851,EPLF (Ethiopia)*,Helicopters_Score,
+502,EPLF (Ethiopia)*,Imports,2.0
+2590,EPLF (Ethiopia)*,Missiles/Rockets/Bombs_Score,0.003
+3895,EPLF (Ethiopia)*,Naval Vessels_Score,
+1024,EPLF (Ethiopia)*,Normalized_Exports,0.0
+1546,EPLF (Ethiopia)*,Normalized_Gross,0.0
+1285,EPLF (Ethiopia)*,Normalized_Imports,1.4267704366317031e-05
+3634,EPLF (Ethiopia)*,Radar/Detection Systems_Score,
+2329,EPLF (Ethiopia)*,Specialized Equipment_Score,
+3112,EPLF (Ethiopia)*,Unmanned Vehicles_Score,
+4156,EPLF (Ethiopia)*,ZZ_loop_score,
+1858,East Germany (GDR),Aircraft_Score,4.977
+1597,East Germany (GDR),Country_Score,6.734999999999999
+31,East Germany (GDR),Exports,697.88
+553,East Germany (GDR),Gross_Deals,27193.09
+3163,East Germany (GDR),Ground Vehicles/Artillery_Score,12.149000000000001
+2641,East Germany (GDR),Helicopters_Score,3.6189999999999998
+292,East Germany (GDR),Imports,26495.21
+2380,East Germany (GDR),Missiles/Rockets/Bombs_Score,8.776
+3685,East Germany (GDR),Naval Vessels_Score,4.189
+814,East Germany (GDR),Normalized_Exports,0.0009276983629210551
+1336,East Germany (GDR),Normalized_Gross,0.03423611434167147
+1075,East Germany (GDR),Normalized_Imports,0.18901291170174334
+3424,East Germany (GDR),Radar/Detection Systems_Score,1.601
+2119,East Germany (GDR),Specialized Equipment_Score,0.345
+2902,East Germany (GDR),Unmanned Vehicles_Score,8.526
+3946,East Germany (GDR),ZZ_loop_score,4.977
+1903,Ecuador,Aircraft_Score,0.831
+1642,Ecuador,Country_Score,1.077
+76,Ecuador,Exports,8.16
+598,Ecuador,Gross_Deals,4283.78
+3208,Ecuador,Ground Vehicles/Artillery_Score,0.457
+2686,Ecuador,Helicopters_Score,0.853
+337,Ecuador,Imports,4275.62
+2425,Ecuador,Missiles/Rockets/Bombs_Score,0.5459999999999999
+3730,Ecuador,Naval Vessels_Score,2.3619999999999997
+859,Ecuador,Normalized_Exports,1.0847163755138147e-05
+1381,Ecuador,Normalized_Gross,0.005393281230436312
+1120,Ecuador,Normalized_Imports,0.030501641071356212
+3469,Ecuador,Radar/Detection Systems_Score,1.027
+2164,Ecuador,Specialized Equipment_Score,0.437
+2947,Ecuador,Unmanned Vehicles_Score,0.31
+3991,Ecuador,ZZ_loop_score,0.831
+1835,Egypt,Aircraft_Score,14.927000000000001
+1574,Egypt,Country_Score,18.22
+8,Egypt,Exports,1084.79
+530,Egypt,Gross_Deals,73055.65999999999
+3140,Egypt,Ground Vehicles/Artillery_Score,26.46
+2618,Egypt,Helicopters_Score,15.091
+269,Egypt,Imports,71970.87
+2357,Egypt,Missiles/Rockets/Bombs_Score,17.599999999999998
+3662,Egypt,Naval Vessels_Score,20.388
+791,Egypt,Normalized_Exports,0.0014420214178843516
+1313,Egypt,Normalized_Gross,0.09197711363682001
+1052,Egypt,Normalized_Imports,0.5134295480733178
+3401,Egypt,Radar/Detection Systems_Score,10.533
+2096,Egypt,Specialized Equipment_Score,4.2299999999999995
+2879,Egypt,Unmanned Vehicles_Score,14.136000000000001
+3923,Egypt,ZZ_loop_score,14.927000000000001
+1955,El Salvador,Aircraft_Score,0.105
+1694,El Salvador,Country_Score,0.10300000000000001
+128,El Salvador,Exports,0.0
+650,El Salvador,Gross_Deals,0.0
+3260,El Salvador,Ground Vehicles/Artillery_Score,0.087
+2738,El Salvador,Helicopters_Score,0.457
+389,El Salvador,Imports,480.34000000000003
+2477,El Salvador,Missiles/Rockets/Bombs_Score,
+3782,El Salvador,Naval Vessels_Score,0.039
+911,El Salvador,Normalized_Exports,0.0
+1433,El Salvador,Normalized_Gross,0.0
+1172,El Salvador,Normalized_Imports,0.0034266745576583615
+3521,El Salvador,Radar/Detection Systems_Score,
+2216,El Salvador,Specialized Equipment_Score,0.003
+2999,El Salvador,Unmanned Vehicles_Score,0.054
+4043,El Salvador,ZZ_loop_score,0.105
+1959,Equatorial Guinea,Aircraft_Score,0.029
+1698,Equatorial Guinea,Country_Score,0.086
+132,Equatorial Guinea,Exports,0.0
+654,Equatorial Guinea,Gross_Deals,0.0
+3264,Equatorial Guinea,Ground Vehicles/Artillery_Score,0.031
+2742,Equatorial Guinea,Helicopters_Score,0.131
+393,Equatorial Guinea,Imports,402.28
+2481,Equatorial Guinea,Missiles/Rockets/Bombs_Score,0.0
+3786,Equatorial Guinea,Naval Vessels_Score,0.443
+915,Equatorial Guinea,Normalized_Exports,0.0
+1437,Equatorial Guinea,Normalized_Gross,0.0
+1176,Equatorial Guinea,Normalized_Imports,0.0028698060562410074
+3525,Equatorial Guinea,Radar/Detection Systems_Score,
+2220,Equatorial Guinea,Specialized Equipment_Score,0.037
+3003,Equatorial Guinea,Unmanned Vehicles_Score,0.022000000000000002
+4047,Equatorial Guinea,ZZ_loop_score,0.029
+1945,Eritrea,Aircraft_Score,0.197
+1684,Eritrea,Country_Score,0.172
+118,Eritrea,Exports,2.37
+640,Eritrea,Gross_Deals,683.15
+3250,Eritrea,Ground Vehicles/Artillery_Score,0.11100000000000002
+2728,Eritrea,Helicopters_Score,0.241
+379,Eritrea,Imports,680.78
+2467,Eritrea,Missiles/Rockets/Bombs_Score,0.108
+3772,Eritrea,Naval Vessels_Score,0.066
+901,Eritrea,Normalized_Exports,3.150463002411447e-06
+1423,Eritrea,Normalized_Gross,0.0008600862025063301
+1162,Eritrea,Normalized_Imports,0.004856583889250654
+3511,Eritrea,Radar/Detection Systems_Score,0.011000000000000001
+2206,Eritrea,Specialized Equipment_Score,0.009000000000000001
+2989,Eritrea,Unmanned Vehicles_Score,0.003
+4033,Eritrea,ZZ_loop_score,0.197
+1942,Estonia,Aircraft_Score,0.004
+1681,Estonia,Country_Score,0.192
+115,Estonia,Exports,31.62
+637,Estonia,Gross_Deals,782.83
+3247,Estonia,Ground Vehicles/Artillery_Score,0.404
+2725,Estonia,Helicopters_Score,0.021
+376,Estonia,Imports,751.21
+2464,Estonia,Missiles/Rockets/Bombs_Score,0.406
+3769,Estonia,Naval Vessels_Score,0.28500000000000003
+898,Estonia,Normalized_Exports,4.203275955116032e-05
+1420,Estonia,Normalized_Gross,0.000985583373941346
+1159,Estonia,Normalized_Imports,0.005359021098510509
+3508,Estonia,Radar/Detection Systems_Score,0.41900000000000004
+2203,Estonia,Specialized Equipment_Score,
+2986,Estonia,Unmanned Vehicles_Score,0.0
+4030,Estonia,ZZ_loop_score,0.004
+1889,Ethiopia,Aircraft_Score,1.566
+1628,Ethiopia,Country_Score,1.926
+62,Ethiopia,Exports,103.0
+584,Ethiopia,Gross_Deals,7713.96
+3194,Ethiopia,Ground Vehicles/Artillery_Score,3.004
+2672,Ethiopia,Helicopters_Score,2.382
+323,Ethiopia,Imports,7610.96
+2411,Ethiopia,Missiles/Rockets/Bombs_Score,1.253
+3716,Ethiopia,Naval Vessels_Score,1.0959999999999999
+845,Ethiopia,Normalized_Exports,0.00013691885622294474
+1367,Ethiopia,Normalized_Gross,0.009711879620413862
+1106,Ethiopia,Normalized_Imports,0.05429546361193214
+3455,Ethiopia,Radar/Detection Systems_Score,0.544
+2150,Ethiopia,Specialized Equipment_Score,0.074
+2933,Ethiopia,Unmanned Vehicles_Score,1.2959999999999998
+3977,Ethiopia,ZZ_loop_score,1.566
+2069,European Union**,Aircraft_Score,0.0
+1808,European Union**,Country_Score,0.0
+242,European Union**,Exports,0.4
+764,European Union**,Gross_Deals,0.0
+3374,European Union**,Ground Vehicles/Artillery_Score,
+2852,European Union**,Helicopters_Score,
+503,European Union**,Imports,0.0
+2591,European Union**,Missiles/Rockets/Bombs_Score,
+3896,European Union**,Naval Vessels_Score,
+1025,European Union**,Normalized_Exports,5.317237134871641e-07
+1547,European Union**,Normalized_Gross,0.0
+1286,European Union**,Normalized_Imports,0.0
+3635,European Union**,Radar/Detection Systems_Score,
+2330,European Union**,Specialized Equipment_Score,
+3113,European Union**,Unmanned Vehicles_Score,
+4157,European Union**,ZZ_loop_score,0.0
+2070,FAN (Chad)*,Aircraft_Score,
+1809,FAN (Chad)*,Country_Score,0.0
+243,FAN (Chad)*,Exports,0.0
+765,FAN (Chad)*,Gross_Deals,0.0
+3375,FAN (Chad)*,Ground Vehicles/Artillery_Score,
+2853,FAN (Chad)*,Helicopters_Score,
+504,FAN (Chad)*,Imports,0.4
+2592,FAN (Chad)*,Missiles/Rockets/Bombs_Score,0.001
+3897,FAN (Chad)*,Naval Vessels_Score,
+1026,FAN (Chad)*,Normalized_Exports,0.0
+1548,FAN (Chad)*,Normalized_Gross,0.0
+1287,FAN (Chad)*,Normalized_Imports,2.8535408732634063e-06
+3636,FAN (Chad)*,Radar/Detection Systems_Score,
+2331,FAN (Chad)*,Specialized Equipment_Score,
+3114,FAN (Chad)*,Unmanned Vehicles_Score,
+4158,FAN (Chad)*,ZZ_loop_score,
+2047,FMLN (El Salvador)*,Aircraft_Score,
+1786,FMLN (El Salvador)*,Country_Score,0.001
+220,FMLN (El Salvador)*,Exports,1.02
+742,FMLN (El Salvador)*,Gross_Deals,4.140000000000001
+3352,FMLN (El Salvador)*,Ground Vehicles/Artillery_Score,
+2830,FMLN (El Salvador)*,Helicopters_Score,
+481,FMLN (El Salvador)*,Imports,3.12
+2569,FMLN (El Salvador)*,Missiles/Rockets/Bombs_Score,0.006
+3874,FMLN (El Salvador)*,Naval Vessels_Score,
+1003,FMLN (El Salvador)*,Normalized_Exports,1.3558954693922684e-06
+1525,FMLN (El Salvador)*,Normalized_Gross,5.212262136245638e-06
+1264,FMLN (El Salvador)*,Normalized_Imports,2.225761881145457e-05
+3613,FMLN (El Salvador)*,Radar/Detection Systems_Score,
+2308,FMLN (El Salvador)*,Specialized Equipment_Score,
+3091,FMLN (El Salvador)*,Unmanned Vehicles_Score,
+4135,FMLN (El Salvador)*,ZZ_loop_score,
+2031,FNLA (Angola)*,Aircraft_Score,
+1770,FNLA (Angola)*,Country_Score,0.005
+204,FNLA (Angola)*,Exports,0.0
+726,FNLA (Angola)*,Gross_Deals,0.0
+3336,FNLA (Angola)*,Ground Vehicles/Artillery_Score,0.027
+2814,FNLA (Angola)*,Helicopters_Score,
+465,FNLA (Angola)*,Imports,22.5
+2553,FNLA (Angola)*,Missiles/Rockets/Bombs_Score,
+3858,FNLA (Angola)*,Naval Vessels_Score,
+987,FNLA (Angola)*,Normalized_Exports,0.0
+1509,FNLA (Angola)*,Normalized_Gross,0.0
+1248,FNLA (Angola)*,Normalized_Imports,0.0001605116741210666
+3597,FNLA (Angola)*,Radar/Detection Systems_Score,
+2292,FNLA (Angola)*,Specialized Equipment_Score,
+3075,FNLA (Angola)*,Unmanned Vehicles_Score,
+4119,FNLA (Angola)*,ZZ_loop_score,
+2071,FRELIMO (Portugal)*,Aircraft_Score,
+1810,FRELIMO (Portugal)*,Country_Score,0.0
+244,FRELIMO (Portugal)*,Exports,0.0
+766,FRELIMO (Portugal)*,Gross_Deals,0.0
+3376,FRELIMO (Portugal)*,Ground Vehicles/Artillery_Score,
+2854,FRELIMO (Portugal)*,Helicopters_Score,
+505,FRELIMO (Portugal)*,Imports,1.0
+2593,FRELIMO (Portugal)*,Missiles/Rockets/Bombs_Score,0.001
+3898,FRELIMO (Portugal)*,Naval Vessels_Score,
+1027,FRELIMO (Portugal)*,Normalized_Exports,0.0
+1549,FRELIMO (Portugal)*,Normalized_Gross,0.0
+1288,FRELIMO (Portugal)*,Normalized_Imports,7.133852183158516e-06
+3637,FRELIMO (Portugal)*,Radar/Detection Systems_Score,
+2332,FRELIMO (Portugal)*,Specialized Equipment_Score,
+3115,FRELIMO (Portugal)*,Unmanned Vehicles_Score,
+4159,FRELIMO (Portugal)*,ZZ_loop_score,
+2008,Fiji,Aircraft_Score,0.001
+1747,Fiji,Country_Score,0.013
+181,Fiji,Exports,10.0
+703,Fiji,Gross_Deals,59.55
+3313,Fiji,Ground Vehicles/Artillery_Score,0.002
+2791,Fiji,Helicopters_Score,0.011000000000000001
+442,Fiji,Imports,49.55
+2530,Fiji,Missiles/Rockets/Bombs_Score,
+3835,Fiji,Naval Vessels_Score,0.076
+964,Fiji,Normalized_Exports,1.3293092837179101e-05
+1486,Fiji,Normalized_Gross,7.497348072788107e-05
+1225,Fiji,Normalized_Imports,0.00035348237567550445
+3574,Fiji,Radar/Detection Systems_Score,
+2269,Fiji,Specialized Equipment_Score,
+3052,Fiji,Unmanned Vehicles_Score,
+4096,Fiji,ZZ_loop_score,0.001
+1874,Finland,Aircraft_Score,4.324999999999999
+1613,Finland,Country_Score,3.653
+47,Finland,Exports,2424.3
+569,Finland,Gross_Deals,16056.29
+3179,Finland,Ground Vehicles/Artillery_Score,3.672
+2657,Finland,Helicopters_Score,0.683
+308,Finland,Imports,13631.99
+2396,Finland,Missiles/Rockets/Bombs_Score,3.82
+3701,Finland,Naval Vessels_Score,1.598
+830,Finland,Normalized_Exports,0.0032226444965173296
+1352,Finland,Normalized_Gross,0.020214877395067502
+1091,Finland,Normalized_Imports,0.09724860162229505
+3440,Finland,Radar/Detection Systems_Score,3.979
+2135,Finland,Specialized Equipment_Score,1.52
+2918,Finland,Unmanned Vehicles_Score,0.086
+3962,Finland,ZZ_loop_score,4.324999999999999
+1839,France,Aircraft_Score,11.248
+1578,France,Country_Score,14.911
+12,France,Exports,139033.29
+534,France,Gross_Deals,148036.22
+3144,France,Ground Vehicles/Artillery_Score,9.038
+2622,France,Helicopters_Score,15.347
+273,France,Imports,9002.93
+2361,France,Missiles/Rockets/Bombs_Score,14.299000000000001
+3666,France,Naval Vessels_Score,35.812
+795,France,Normalized_Exports,0.18481824314284448
+1317,France,Normalized_Gross,0.18637767736689106
+1056,France,Normalized_Imports,0.0642255718353233
+3405,France,Radar/Detection Systems_Score,29.268
+2100,France,Specialized Equipment_Score,22.012
+2883,France,Unmanned Vehicles_Score,13.655999999999999
+3927,France,ZZ_loop_score,11.248
+2044,GUNT (Chad)*,Aircraft_Score,0.002
+1783,GUNT (Chad)*,Country_Score,0.002
+217,GUNT (Chad)*,Exports,0.0
+739,GUNT (Chad)*,Gross_Deals,0.0
+3349,GUNT (Chad)*,Ground Vehicles/Artillery_Score,0.004
+2827,GUNT (Chad)*,Helicopters_Score,
+478,GUNT (Chad)*,Imports,7.529999999999999
+2566,GUNT (Chad)*,Missiles/Rockets/Bombs_Score,
+3871,GUNT (Chad)*,Naval Vessels_Score,
+1000,GUNT (Chad)*,Normalized_Exports,0.0
+1522,GUNT (Chad)*,Normalized_Gross,0.0
+1261,GUNT (Chad)*,Normalized_Imports,5.371790693918362e-05
+3610,GUNT (Chad)*,Radar/Detection Systems_Score,
+2305,GUNT (Chad)*,Specialized Equipment_Score,
+3088,GUNT (Chad)*,Unmanned Vehicles_Score,
+4132,GUNT (Chad)*,ZZ_loop_score,0.002
+1946,Gabon,Aircraft_Score,0.213
+1685,Gabon,Country_Score,0.157
+119,Gabon,Exports,1.0
+641,Gabon,Gross_Deals,625.63
+3251,Gabon,Ground Vehicles/Artillery_Score,0.133
+2729,Gabon,Helicopters_Score,0.14100000000000001
+380,Gabon,Imports,624.63
+2468,Gabon,Missiles/Rockets/Bombs_Score,0.001
+3773,Gabon,Naval Vessels_Score,0.136
+902,Gabon,Normalized_Exports,1.32930928371791e-06
+1424,Gabon,Normalized_Gross,0.0007876684928259318
+1163,Gabon,Normalized_Imports,0.004456018089166304
+3512,Gabon,Radar/Detection Systems_Score,0.01
+2207,Gabon,Specialized Equipment_Score,0.032
+2990,Gabon,Unmanned Vehicles_Score,0.06
+4034,Gabon,ZZ_loop_score,0.213
+2014,Gambia,Aircraft_Score,0.004
+1753,Gambia,Country_Score,0.009000000000000001
+187,Gambia,Exports,0.0
+709,Gambia,Gross_Deals,0.0
+3319,Gambia,Ground Vehicles/Artillery_Score,0.006
+2797,Gambia,Helicopters_Score,
+448,Gambia,Imports,40.28
+2536,Gambia,Missiles/Rockets/Bombs_Score,
+3841,Gambia,Naval Vessels_Score,0.048
+970,Gambia,Normalized_Exports,0.0
+1492,Gambia,Normalized_Gross,0.0
+1231,Gambia,Normalized_Imports,0.00028735156593762503
+3580,Gambia,Radar/Detection Systems_Score,
+2275,Gambia,Specialized Equipment_Score,
+3058,Gambia,Unmanned Vehicles_Score,
+4102,Gambia,ZZ_loop_score,0.004
+1938,Georgia,Aircraft_Score,0.059000000000000004
+1677,Georgia,Country_Score,0.22100000000000003
+111,Georgia,Exports,213.1
+633,Georgia,Gross_Deals,1012.73
+3243,Georgia,Ground Vehicles/Artillery_Score,0.526
+2721,Georgia,Helicopters_Score,0.101
+372,Georgia,Imports,799.63
+2460,Georgia,Missiles/Rockets/Bombs_Score,0.22399999999999998
+3765,Georgia,Naval Vessels_Score,0.191
+894,Georgia,Normalized_Exports,0.00028327580836028663
+1416,Georgia,Normalized_Gross,0.001275027592570059
+1155,Georgia,Normalized_Imports,0.005704442221219044
+3504,Georgia,Radar/Detection Systems_Score,0.297
+2199,Georgia,Specialized Equipment_Score,0.021
+2982,Georgia,Unmanned Vehicles_Score,0.583
+4026,Georgia,ZZ_loop_score,0.059000000000000004
+1833,Germany,Aircraft_Score,7.449999999999999
+1572,Germany,Country_Score,19.055
+6,Germany,Exports,103083.7
+528,Germany,Gross_Deals,141531.61
+3138,Germany,Ground Vehicles/Artillery_Score,22.073999999999998
+2616,Germany,Helicopters_Score,14.432
+267,Germany,Imports,38447.909999999996
+2355,Germany,Missiles/Rockets/Bombs_Score,26.667999999999996
+3660,Germany,Naval Vessels_Score,73.271
+789,Germany,Normalized_Exports,0.1370301194099919
+1311,Germany,Normalized_Gross,0.17818837002050344
+1050,Germany,Normalized_Imports,0.27428170669138213
+3399,Germany,Radar/Detection Systems_Score,26.421
+2094,Germany,Specialized Equipment_Score,28.279
+2877,Germany,Unmanned Vehicles_Score,5.67
+3921,Germany,ZZ_loop_score,7.449999999999999
+1939,Ghana,Aircraft_Score,0.16999999999999998
+1678,Ghana,Country_Score,0.22100000000000003
+112,Ghana,Exports,25.06
+634,Ghana,Gross_Deals,894.54
+3244,Ghana,Ground Vehicles/Artillery_Score,0.147
+2722,Ghana,Helicopters_Score,0.299
+373,Ghana,Imports,869.48
+2461,Ghana,Missiles/Rockets/Bombs_Score,0.012
+3766,Ghana,Naval Vessels_Score,0.5329999999999999
+895,Ghana,Normalized_Exports,3.331249064997082e-05
+1417,Ghana,Normalized_Gross,0.001126226321583858
+1156,Ghana,Normalized_Imports,0.0062027417962126664
+3505,Ghana,Radar/Detection Systems_Score,0.039
+2200,Ghana,Specialized Equipment_Score,0.066
+2983,Ghana,Unmanned Vehicles_Score,
+4027,Ghana,ZZ_loop_score,0.16999999999999998
+1848,Greece,Aircraft_Score,9.515
+1587,Greece,Country_Score,10.302
+21,Greece,Exports,224.22
+543,Greece,Gross_Deals,41057.04
+3153,Greece,Ground Vehicles/Artillery_Score,9.99
+2631,Greece,Helicopters_Score,6.76
+282,Greece,Imports,40832.82
+2370,Greece,Missiles/Rockets/Bombs_Score,7.638
+3675,Greece,Naval Vessels_Score,19.326
+804,Greece,Normalized_Exports,0.0002980577275952298
+1326,Greece,Normalized_Gross,0.05169083454548854
+1065,Greece,Normalized_Imports,0.2912953021015187
+3414,Greece,Radar/Detection Systems_Score,4.6129999999999995
+2109,Greece,Specialized Equipment_Score,2.32
+2892,Greece,Unmanned Vehicles_Score,1.256
+3936,Greece,ZZ_loop_score,9.515
+2050,Grenada,Aircraft_Score,
+1789,Grenada,Country_Score,0.001
+223,Grenada,Exports,0.0
+745,Grenada,Gross_Deals,0.0
+3355,Grenada,Ground Vehicles/Artillery_Score,0.001
+2833,Grenada,Helicopters_Score,
+484,Grenada,Imports,6.2
+2572,Grenada,Missiles/Rockets/Bombs_Score,
+3877,Grenada,Naval Vessels_Score,0.009000000000000001
+1006,Grenada,Normalized_Exports,0.0
+1528,Grenada,Normalized_Gross,0.0
+1267,Grenada,Normalized_Imports,4.42298835355828e-05
+3616,Grenada,Radar/Detection Systems_Score,
+2311,Grenada,Specialized Equipment_Score,
+3094,Grenada,Unmanned Vehicles_Score,
+4138,Grenada,ZZ_loop_score,
+1960,Guatemala,Aircraft_Score,0.097
+1699,Guatemala,Country_Score,0.082
+133,Guatemala,Exports,0.0
+655,Guatemala,Gross_Deals,0.0
+3265,Guatemala,Ground Vehicles/Artillery_Score,0.055999999999999994
+2743,Guatemala,Helicopters_Score,0.208
+394,Guatemala,Imports,384.53000000000003
+2482,Guatemala,Missiles/Rockets/Bombs_Score,
+3787,Guatemala,Naval Vessels_Score,0.05
+916,Guatemala,Normalized_Exports,0.0
+1438,Guatemala,Normalized_Gross,0.0
+1177,Guatemala,Normalized_Imports,0.0027431801799899444
+3526,Guatemala,Radar/Detection Systems_Score,0.129
+2221,Guatemala,Specialized Equipment_Score,0.018000000000000002
+3004,Guatemala,Unmanned Vehicles_Score,
+4048,Guatemala,ZZ_loop_score,0.097
+1961,Guinea,Aircraft_Score,0.034
+1700,Guinea,Country_Score,0.08099999999999999
+134,Guinea,Exports,0.0
+656,Guinea,Gross_Deals,0.0
+3266,Guinea,Ground Vehicles/Artillery_Score,0.056999999999999995
+2744,Guinea,Helicopters_Score,0.11800000000000001
+395,Guinea,Imports,380.51
+2483,Guinea,Missiles/Rockets/Bombs_Score,0.008
+3788,Guinea,Naval Vessels_Score,0.362
+917,Guinea,Normalized_Exports,0.0
+1439,Guinea,Normalized_Gross,0.0
+1178,Guinea,Normalized_Imports,0.002714502094213647
+3527,Guinea,Radar/Detection Systems_Score,0.004
+2222,Guinea,Specialized Equipment_Score,
+3005,Guinea,Unmanned Vehicles_Score,0.107
+4049,Guinea,ZZ_loop_score,0.034
+1984,Guinea-Bissau,Aircraft_Score,0.029
+1723,Guinea-Bissau,Country_Score,0.039
+157,Guinea-Bissau,Exports,0.0
+679,Guinea-Bissau,Gross_Deals,0.0
+3289,Guinea-Bissau,Ground Vehicles/Artillery_Score,0.024
+2767,Guinea-Bissau,Helicopters_Score,0.018000000000000002
+418,Guinea-Bissau,Imports,182.13
+2506,Guinea-Bissau,Missiles/Rockets/Bombs_Score,0.015
+3811,Guinea-Bissau,Naval Vessels_Score,0.146
+940,Guinea-Bissau,Normalized_Exports,0.0
+1462,Guinea-Bissau,Normalized_Gross,0.0
+1201,Guinea-Bissau,Normalized_Imports,0.0012992884981186605
+3550,Guinea-Bissau,Radar/Detection Systems_Score,0.002
+2245,Guinea-Bissau,Specialized Equipment_Score,
+3028,Guinea-Bissau,Unmanned Vehicles_Score,0.054
+4072,Guinea-Bissau,ZZ_loop_score,0.029
+1993,Guyana,Aircraft_Score,0.01
+1732,Guyana,Country_Score,0.027999999999999997
+166,Guyana,Exports,2.1
+688,Guyana,Gross_Deals,111.28999999999999
+3298,Guyana,Ground Vehicles/Artillery_Score,0.011000000000000001
+2776,Guyana,Helicopters_Score,0.124
+427,Guyana,Imports,109.19
+2515,Guyana,Missiles/Rockets/Bombs_Score,0.006
+3820,Guyana,Naval Vessels_Score,0.053
+949,Guyana,Normalized_Exports,2.791549495807611e-06
+1471,Guyana,Normalized_Gross,0.0001401141674257915
+1210,Guyana,Normalized_Imports,0.0007789453198790784
+3559,Guyana,Radar/Detection Systems_Score,
+2254,Guyana,Specialized Equipment_Score,
+3037,Guyana,Unmanned Vehicles_Score,
+4081,Guyana,ZZ_loop_score,0.01
+2010,Haiti,Aircraft_Score,0.016
+1749,Haiti,Country_Score,0.011000000000000001
+183,Haiti,Exports,0.0
+705,Haiti,Gross_Deals,0.0
+3315,Haiti,Ground Vehicles/Artillery_Score,0.001
+2793,Haiti,Helicopters_Score,0.016
+444,Haiti,Imports,50.6
+2532,Haiti,Missiles/Rockets/Bombs_Score,
+3837,Haiti,Naval Vessels_Score,0.019
+966,Haiti,Normalized_Exports,0.0
+1488,Haiti,Normalized_Gross,0.0
+1227,Haiti,Normalized_Imports,0.00036097292046782093
+3576,Haiti,Radar/Detection Systems_Score,
+2271,Haiti,Specialized Equipment_Score,0.006
+3054,Haiti,Unmanned Vehicles_Score,
+4098,Haiti,ZZ_loop_score,0.016
+2057,Haiti rebels*,Aircraft_Score,0.004
+1796,Haiti rebels*,Country_Score,0.001
+230,Haiti rebels*,Exports,0.0
+752,Haiti rebels*,Gross_Deals,0.0
+3362,Haiti rebels*,Ground Vehicles/Artillery_Score,
+2840,Haiti rebels*,Helicopters_Score,
+491,Haiti rebels*,Imports,7.0
+2579,Haiti rebels*,Missiles/Rockets/Bombs_Score,
+3884,Haiti rebels*,Naval Vessels_Score,
+1013,Haiti rebels*,Normalized_Exports,0.0
+1535,Haiti rebels*,Normalized_Gross,0.0
+1274,Haiti rebels*,Normalized_Imports,4.993696528210961e-05
+3623,Haiti rebels*,Radar/Detection Systems_Score,
+2318,Haiti rebels*,Specialized Equipment_Score,
+3101,Haiti rebels*,Unmanned Vehicles_Score,
+4145,Haiti rebels*,ZZ_loop_score,0.004
+2056,Hamas (Palestine)*,Aircraft_Score,
+1795,Hamas (Palestine)*,Country_Score,0.001
+229,Hamas (Palestine)*,Exports,0.0
+751,Hamas (Palestine)*,Gross_Deals,0.0
+3361,Hamas (Palestine)*,Ground Vehicles/Artillery_Score,
+2839,Hamas (Palestine)*,Helicopters_Score,
+490,Hamas (Palestine)*,Imports,3.05
+2578,Hamas (Palestine)*,Missiles/Rockets/Bombs_Score,0.004
+3883,Hamas (Palestine)*,Naval Vessels_Score,
+1012,Hamas (Palestine)*,Normalized_Exports,0.0
+1534,Hamas (Palestine)*,Normalized_Gross,0.0
+1273,Hamas (Palestine)*,Normalized_Imports,2.175824915863347e-05
+3622,Hamas (Palestine)*,Radar/Detection Systems_Score,
+2317,Hamas (Palestine)*,Specialized Equipment_Score,
+3100,Hamas (Palestine)*,Unmanned Vehicles_Score,
+4144,Hamas (Palestine)*,ZZ_loop_score,
+2000,Hezbollah (Lebanon)*,Aircraft_Score,
+1739,Hezbollah (Lebanon)*,Country_Score,0.019
+173,Hezbollah (Lebanon)*,Exports,0.0
+695,Hezbollah (Lebanon)*,Gross_Deals,0.0
+3305,Hezbollah (Lebanon)*,Ground Vehicles/Artillery_Score,0.01
+2783,Hezbollah (Lebanon)*,Helicopters_Score,
+434,Hezbollah (Lebanon)*,Imports,87.7
+2522,Hezbollah (Lebanon)*,Missiles/Rockets/Bombs_Score,0.11399999999999999
+3827,Hezbollah (Lebanon)*,Naval Vessels_Score,
+956,Hezbollah (Lebanon)*,Normalized_Exports,0.0
+1478,Hezbollah (Lebanon)*,Normalized_Gross,0.0
+1217,Hezbollah (Lebanon)*,Normalized_Imports,0.0006256388364630018
+3566,Hezbollah (Lebanon)*,Radar/Detection Systems_Score,
+2261,Hezbollah (Lebanon)*,Specialized Equipment_Score,
+3044,Hezbollah (Lebanon)*,Unmanned Vehicles_Score,0.036000000000000004
+4088,Hezbollah (Lebanon)*,ZZ_loop_score,
+1950,Honduras,Aircraft_Score,0.149
+1689,Honduras,Country_Score,0.131
+123,Honduras,Exports,0.0
+645,Honduras,Gross_Deals,0.0
+3255,Honduras,Ground Vehicles/Artillery_Score,0.096
+2733,Honduras,Helicopters_Score,0.291
+384,Honduras,Imports,611.78
+2472,Honduras,Missiles/Rockets/Bombs_Score,0.006
+3777,Honduras,Naval Vessels_Score,0.174
+906,Honduras,Normalized_Exports,0.0
+1428,Honduras,Normalized_Gross,0.0
+1167,Honduras,Normalized_Imports,0.004364348088612717
+3516,Honduras,Radar/Detection Systems_Score,0.051000000000000004
+2211,Honduras,Specialized Equipment_Score,0.023
+2994,Honduras,Unmanned Vehicles_Score,
+4038,Honduras,ZZ_loop_score,0.149
+2019,Houthi rebels (Yemen)*,Aircraft_Score,
+1758,Houthi rebels (Yemen)*,Country_Score,0.008
+192,Houthi rebels (Yemen)*,Exports,0.0
+714,Houthi rebels (Yemen)*,Gross_Deals,0.0
+3324,Houthi rebels (Yemen)*,Ground Vehicles/Artillery_Score,
+2802,Houthi rebels (Yemen)*,Helicopters_Score,
+453,Houthi rebels (Yemen)*,Imports,39.2
+2541,Houthi rebels (Yemen)*,Missiles/Rockets/Bombs_Score,0.058
+3846,Houthi rebels (Yemen)*,Naval Vessels_Score,
+975,Houthi rebels (Yemen)*,Normalized_Exports,0.0
+1497,Houthi rebels (Yemen)*,Normalized_Gross,0.0
+1236,Houthi rebels (Yemen)*,Normalized_Imports,0.00027964700557981385
+3585,Houthi rebels (Yemen)*,Radar/Detection Systems_Score,
+2280,Houthi rebels (Yemen)*,Specialized Equipment_Score,
+3063,Houthi rebels (Yemen)*,Unmanned Vehicles_Score,
+4107,Houthi rebels (Yemen)*,ZZ_loop_score,
+1879,Hungary,Aircraft_Score,3.0460000000000003
+1618,Hungary,Country_Score,3.145
+52,Hungary,Exports,424.78
+574,Hungary,Gross_Deals,12762.6
+3184,Hungary,Ground Vehicles/Artillery_Score,5.231
+2662,Hungary,Helicopters_Score,2.9669999999999996
+313,Hungary,Imports,12337.82
+2401,Hungary,Missiles/Rockets/Bombs_Score,3.034
+3706,Hungary,Naval Vessels_Score,
+835,Hungary,Normalized_Exports,0.0005646639975376938
+1357,Hungary,Normalized_Gross,0.016068119985518978
+1096,Hungary,Normalized_Imports,0.0880161841424168
+3445,Hungary,Radar/Detection Systems_Score,1.6119999999999999
+2140,Hungary,Specialized Equipment_Score,0.356
+2923,Hungary,Unmanned Vehicles_Score,4.115
+3967,Hungary,ZZ_loop_score,3.0460000000000003
+1996,Iceland,Aircraft_Score,0.0
+1735,Iceland,Country_Score,0.026
+169,Iceland,Exports,5.42
+691,Iceland,Gross_Deals,108.42
+3301,Iceland,Ground Vehicles/Artillery_Score,
+2779,Iceland,Helicopters_Score,
+430,Iceland,Imports,103.0
+2518,Iceland,Missiles/Rockets/Bombs_Score,
+3823,Iceland,Naval Vessels_Score,0.232
+952,Iceland,Normalized_Exports,7.204856317751073e-06
+1474,Iceland,Normalized_Gross,0.00013650083594486762
+1213,Iceland,Normalized_Imports,0.0007347867748653271
+3562,Iceland,Radar/Detection Systems_Score,
+2257,Iceland,Specialized Equipment_Score,0.021
+3040,Iceland,Unmanned Vehicles_Score,
+4084,Iceland,ZZ_loop_score,0.0
+1829,India,Aircraft_Score,34.443
+1568,India,Country_Score,35.388
+2,India,Exports,1028.96
+524,India,Gross_Deals,141205.68
+3134,India,Ground Vehicles/Artillery_Score,36.725
+2612,India,Helicopters_Score,18.269
+263,India,Imports,140176.72
+2351,India,Missiles/Rockets/Bombs_Score,33.550999999999995
+3656,India,Naval Vessels_Score,40.934
+785,India,Normalized_Exports,0.0013678060805743808
+1307,India,Normalized_Gross,0.17777802398232312
+1046,India,Normalized_Imports,1.0
+3395,India,Radar/Detection Systems_Score,39.884
+2090,India,Specialized Equipment_Score,17.726
+2873,India,Unmanned Vehicles_Score,30.0
+3917,India,ZZ_loop_score,34.443
+1859,Indonesia,Aircraft_Score,3.3169999999999997
+1598,Indonesia,Country_Score,5.836
+32,Indonesia,Exports,708.67
+554,Indonesia,Gross_Deals,23631.35
+3164,Indonesia,Ground Vehicles/Artillery_Score,2.6020000000000003
+2642,Indonesia,Helicopters_Score,3.753
+293,Indonesia,Imports,22922.68
+2381,Indonesia,Missiles/Rockets/Bombs_Score,2.333
+3686,Indonesia,Naval Vessels_Score,16.774
+815,Indonesia,Normalized_Exports,0.0009420416100923713
+1337,Indonesia,Normalized_Gross,0.029751881843808774
+1076,Indonesia,Normalized_Imports,0.16352701076184406
+3425,Indonesia,Radar/Detection Systems_Score,4.611
+2120,Indonesia,Specialized Equipment_Score,8.136000000000001
+2903,Indonesia,Unmanned Vehicles_Score,2.429
+3947,Indonesia,ZZ_loop_score,3.3169999999999997
+1844,Iran,Aircraft_Score,11.468
+1583,Iran,Country_Score,12.19
+17,Iran,Exports,1001.31
+539,Iran,Gross_Deals,49053.88
+3149,Iran,Ground Vehicles/Artillery_Score,15.770999999999999
+2627,Iran,Helicopters_Score,14.599
+278,Iran,Imports,48052.57
+2366,Iran,Missiles/Rockets/Bombs_Score,13.635
+3671,Iran,Naval Vessels_Score,8.453
+800,Iran,Normalized_Exports,0.0013310506788795804
+1322,Iran,Normalized_Gross,0.06175886023186886
+1061,Iran,Normalized_Imports,0.3427999314008774
+3410,Iran,Radar/Detection Systems_Score,2.493
+2105,Iran,Specialized Equipment_Score,1.897
+2888,Iran,Unmanned Vehicles_Score,0.434
+3932,Iran,ZZ_loop_score,11.468
+1842,Iraq,Aircraft_Score,10.118
+1581,Iraq,Country_Score,13.478000000000002
+15,Iraq,Exports,216.70999999999998
+537,Iraq,Gross_Deals,53666.34
+3147,Iraq,Ground Vehicles/Artillery_Score,27.496
+2625,Iraq,Helicopters_Score,10.213
+276,Iraq,Imports,53449.63
+2364,Iraq,Missiles/Rockets/Bombs_Score,12.258
+3669,Iraq,Naval Vessels_Score,1.772
+798,Iraq,Normalized_Exports,0.0002880746148745083
+1320,Iraq,Normalized_Gross,0.0675659497519045
+1059,Iraq,Normalized_Imports,0.3813017596645149
+3408,Iraq,Radar/Detection Systems_Score,3.6229999999999998
+2103,Iraq,Specialized Equipment_Score,0.662
+2886,Iraq,Unmanned Vehicles_Score,7.973
+3930,Iraq,ZZ_loop_score,10.118
+1935,Ireland,Aircraft_Score,0.05
+1674,Ireland,Country_Score,0.24
+108,Ireland,Exports,459.26
+630,Ireland,Gross_Deals,1246.65
+3240,Ireland,Ground Vehicles/Artillery_Score,0.44600000000000006
+2718,Ireland,Helicopters_Score,0.22100000000000003
+369,Ireland,Imports,787.39
+2457,Ireland,Missiles/Rockets/Bombs_Score,0.017
+3762,Ireland,Naval Vessels_Score,0.781
+891,Ireland,Normalized_Exports,0.0006104985816402874
+1413,Ireland,Normalized_Gross,0.0015695329932730975
+1152,Ireland,Normalized_Imports,0.005617123870497184
+3501,Ireland,Radar/Detection Systems_Score,0.216
+2196,Ireland,Specialized Equipment_Score,0.383
+2979,Ireland,Unmanned Vehicles_Score,
+4023,Ireland,ZZ_loop_score,0.05
+1840,Israel,Aircraft_Score,18.407999999999998
+1579,Israel,Country_Score,14.796999999999999
+13,Israel,Exports,24727.12
+535,Israel,Gross_Deals,74565.9
+3145,Israel,Ground Vehicles/Artillery_Score,10.884
+2623,Israel,Helicopters_Score,8.200000000000001
+274,Israel,Imports,49838.78
+2362,Israel,Missiles/Rockets/Bombs_Score,12.305000000000001
+3667,Israel,Naval Vessels_Score,12.046
+796,Israel,Normalized_Exports,0.03286999017560681
+1318,Israel,Normalized_Gross,0.09387850657610591
+1057,Israel,Normalized_Imports,0.35554248950895695
+3406,Israel,Radar/Detection Systems_Score,19.537
+2101,Israel,Specialized Equipment_Score,7.305000000000001
+2884,Israel,Unmanned Vehicles_Score,49.446
+3928,Israel,ZZ_loop_score,18.407999999999998
+1845,Italy,Aircraft_Score,9.467
+1584,Italy,Country_Score,11.927999999999999
+18,Italy,Exports,44587.52
+540,Italy,Gross_Deals,75856.42
+3150,Italy,Ground Vehicles/Artillery_Score,11.814
+2628,Italy,Helicopters_Score,17.448
+279,Italy,Imports,31268.9
+2367,Italy,Missiles/Rockets/Bombs_Score,7.478999999999999
+3672,Italy,Naval Vessels_Score,24.603
+801,Italy,Normalized_Exports,0.059270604273957986
+1323,Italy,Normalized_Gross,0.09550327192201599
+1062,Italy,Normalized_Imports,0.22306771052996532
+3411,Italy,Radar/Detection Systems_Score,18.839
+2106,Italy,Specialized Equipment_Score,8.984
+2889,Italy,Unmanned Vehicles_Score,4.737
+3933,Italy,ZZ_loop_score,9.467
+1978,Jamaica,Aircraft_Score,0.006
+1717,Jamaica,Country_Score,0.045
+151,Jamaica,Exports,0.0
+673,Jamaica,Gross_Deals,0.0
+3283,Jamaica,Ground Vehicles/Artillery_Score,0.011000000000000001
+2761,Jamaica,Helicopters_Score,0.208
+412,Jamaica,Imports,210.5
+2500,Jamaica,Missiles/Rockets/Bombs_Score,
+3805,Jamaica,Naval Vessels_Score,0.17500000000000002
+934,Jamaica,Normalized_Exports,0.0
+1456,Jamaica,Normalized_Gross,0.0
+1195,Jamaica,Normalized_Imports,0.0015016758845548676
+3544,Jamaica,Radar/Detection Systems_Score,
+2239,Jamaica,Specialized Equipment_Score,0.027999999999999997
+3022,Jamaica,Unmanned Vehicles_Score,
+4066,Jamaica,ZZ_loop_score,0.006
+1832,Japan,Aircraft_Score,23.552
+1571,Japan,Country_Score,19.237000000000002
+5,Japan,Exports,1556.1100000000001
+527,Japan,Gross_Deals,77395.78
+3137,Japan,Ground Vehicles/Artillery_Score,2.9579999999999997
+2615,Japan,Helicopters_Score,34.617
+266,Japan,Imports,75839.67
+2354,Japan,Missiles/Rockets/Bombs_Score,25.336
+3659,Japan,Naval Vessels_Score,1.3259999999999998
+788,Japan,Normalized_Exports,0.002068551469486277
+1310,Japan,Normalized_Gross,0.09744132695632786
+1049,Japan,Normalized_Imports,0.5410289953995214
+3398,Japan,Radar/Detection Systems_Score,8.865
+2093,Japan,Specialized Equipment_Score,16.097
+2876,Japan,Unmanned Vehicles_Score,4.0009999999999994
+3920,Japan,ZZ_loop_score,23.552
+1876,Jordan,Aircraft_Score,2.386
+1615,Jordan,Country_Score,3.2359999999999998
+49,Jordan,Exports,1421.1200000000001
+571,Jordan,Gross_Deals,13761.460000000001
+3181,Jordan,Ground Vehicles/Artillery_Score,7.011000000000001
+2659,Jordan,Helicopters_Score,2.793
+310,Jordan,Imports,12340.34
+2398,Jordan,Missiles/Rockets/Bombs_Score,4.022
+3703,Jordan,Naval Vessels_Score,0.041
+832,Jordan,Normalized_Exports,0.0018891080092771964
+1354,Jordan,Normalized_Gross,0.017325685240932098
+1093,Jordan,Normalized_Imports,0.08803416144991837
+3442,Jordan,Radar/Detection Systems_Score,1.204
+2137,Jordan,Specialized Equipment_Score,0.73
+2920,Jordan,Unmanned Vehicles_Score,0.979
+3964,Jordan,ZZ_loop_score,2.386
+2042,Katanga,Aircraft_Score,0.005
+1781,Katanga,Country_Score,0.002
+215,Katanga,Exports,0.0
+737,Katanga,Gross_Deals,0.0
+3347,Katanga,Ground Vehicles/Artillery_Score,
+2825,Katanga,Helicopters_Score,
+476,Katanga,Imports,9.52
+2564,Katanga,Missiles/Rockets/Bombs_Score,
+3869,Katanga,Naval Vessels_Score,
+998,Katanga,Normalized_Exports,0.0
+1520,Katanga,Normalized_Gross,0.0
+1259,Katanga,Normalized_Imports,6.791427278366907e-05
+3608,Katanga,Radar/Detection Systems_Score,
+2303,Katanga,Specialized Equipment_Score,
+3086,Katanga,Unmanned Vehicles_Score,
+4130,Katanga,ZZ_loop_score,0.005
+1905,Kazakhstan,Aircraft_Score,1.2449999999999999
+1644,Kazakhstan,Country_Score,0.9990000000000001
+78,Kazakhstan,Exports,92.06
+600,Kazakhstan,Gross_Deals,4027.43
+3210,Kazakhstan,Ground Vehicles/Artillery_Score,0.51
+2688,Kazakhstan,Helicopters_Score,1.7389999999999999
+339,Kazakhstan,Imports,3935.37
+2427,Kazakhstan,Missiles/Rockets/Bombs_Score,0.796
+3732,Kazakhstan,Naval Vessels_Score,0.13899999999999998
+861,Kazakhstan,Normalized_Exports,0.0001223762126590708
+1383,Kazakhstan,Normalized_Gross,0.005070536448159363
+1122,Kazakhstan,Normalized_Imports,0.028074347866036527
+3471,Kazakhstan,Radar/Detection Systems_Score,1.484
+2166,Kazakhstan,Specialized Equipment_Score,0.133
+2949,Kazakhstan,Unmanned Vehicles_Score,0.6479999999999999
+3993,Kazakhstan,ZZ_loop_score,1.2449999999999999
+1919,Kenya,Aircraft_Score,0.40499999999999997
+1658,Kenya,Country_Score,0.436
+92,Kenya,Exports,12.0
+614,Kenya,Gross_Deals,1740.27
+3224,Kenya,Ground Vehicles/Artillery_Score,0.42500000000000004
+2702,Kenya,Helicopters_Score,0.7100000000000001
+353,Kenya,Imports,1728.27
+2441,Kenya,Missiles/Rockets/Bombs_Score,0.131
+3746,Kenya,Naval Vessels_Score,0.488
+875,Kenya,Normalized_Exports,1.5951711404614922e-05
+1397,Kenya,Normalized_Gross,0.0021910008279816895
+1136,Kenya,Normalized_Imports,0.012329222712587368
+3485,Kenya,Radar/Detection Systems_Score,0.034999999999999996
+2180,Kenya,Specialized Equipment_Score,0.08499999999999999
+2963,Kenya,Unmanned Vehicles_Score,0.003
+4007,Kenya,ZZ_loop_score,0.40499999999999997
+2030,Khmer Rouge (Cambodia)*,Aircraft_Score,
+1769,Khmer Rouge (Cambodia)*,Country_Score,0.005
+203,Khmer Rouge (Cambodia)*,Exports,0.0
+725,Khmer Rouge (Cambodia)*,Gross_Deals,0.0
+3335,Khmer Rouge (Cambodia)*,Ground Vehicles/Artillery_Score,0.027999999999999997
+2813,Khmer Rouge (Cambodia)*,Helicopters_Score,
+464,Khmer Rouge (Cambodia)*,Imports,25.0
+2552,Khmer Rouge (Cambodia)*,Missiles/Rockets/Bombs_Score,0.001
+3857,Khmer Rouge (Cambodia)*,Naval Vessels_Score,
+986,Khmer Rouge (Cambodia)*,Normalized_Exports,0.0
+1508,Khmer Rouge (Cambodia)*,Normalized_Gross,0.0
+1247,Khmer Rouge (Cambodia)*,Normalized_Imports,0.0001783463045789629
+3596,Khmer Rouge (Cambodia)*,Radar/Detection Systems_Score,
+2291,Khmer Rouge (Cambodia)*,Specialized Equipment_Score,
+3074,Khmer Rouge (Cambodia)*,Unmanned Vehicles_Score,
+4118,Khmer Rouge (Cambodia)*,ZZ_loop_score,
+2039,Kiribati,Aircraft_Score,
+1778,Kiribati,Country_Score,0.003
+212,Kiribati,Exports,0.0
+734,Kiribati,Gross_Deals,0.0
+3344,Kiribati,Ground Vehicles/Artillery_Score,
+2822,Kiribati,Helicopters_Score,
+473,Kiribati,Imports,13.0
+2561,Kiribati,Missiles/Rockets/Bombs_Score,
+3866,Kiribati,Naval Vessels_Score,0.022000000000000002
+995,Kiribati,Normalized_Exports,0.0
+1517,Kiribati,Normalized_Gross,0.0
+1256,Kiribati,Normalized_Imports,9.274007838106071e-05
+3605,Kiribati,Radar/Detection Systems_Score,
+2300,Kiribati,Specialized Equipment_Score,
+3083,Kiribati,Unmanned Vehicles_Score,
+4127,Kiribati,ZZ_loop_score,
+2024,Kosovo,Aircraft_Score,
+1763,Kosovo,Country_Score,0.006999999999999999
+197,Kosovo,Exports,0.0
+719,Kosovo,Gross_Deals,0.0
+3329,Kosovo,Ground Vehicles/Artillery_Score,0.024
+2807,Kosovo,Helicopters_Score,
+458,Kosovo,Imports,33.87
+2546,Kosovo,Missiles/Rockets/Bombs_Score,0.001
+3851,Kosovo,Naval Vessels_Score,
+980,Kosovo,Normalized_Exports,0.0
+1502,Kosovo,Normalized_Gross,0.0
+1241,Kosovo,Normalized_Imports,0.00024162357344357892
+3590,Kosovo,Radar/Detection Systems_Score,
+2285,Kosovo,Specialized Equipment_Score,0.002
+3068,Kosovo,Unmanned Vehicles_Score,0.432
+4112,Kosovo,ZZ_loop_score,
+2072,Kurdistan Regional Government (Iraq)*,Aircraft_Score,
+1811,Kurdistan Regional Government (Iraq)*,Country_Score,0.0
+245,Kurdistan Regional Government (Iraq)*,Exports,0.0
+767,Kurdistan Regional Government (Iraq)*,Gross_Deals,0.0
+3377,Kurdistan Regional Government (Iraq)*,Ground Vehicles/Artillery_Score,0.002
+2855,Kurdistan Regional Government (Iraq)*,Helicopters_Score,
+506,Kurdistan Regional Government (Iraq)*,Imports,1.8
+2594,Kurdistan Regional Government (Iraq)*,Missiles/Rockets/Bombs_Score,
+3899,Kurdistan Regional Government (Iraq)*,Naval Vessels_Score,
+1028,Kurdistan Regional Government (Iraq)*,Normalized_Exports,0.0
+1550,Kurdistan Regional Government (Iraq)*,Normalized_Gross,0.0
+1289,Kurdistan Regional Government (Iraq)*,Normalized_Imports,1.284093392968533e-05
+3638,Kurdistan Regional Government (Iraq)*,Radar/Detection Systems_Score,
+2333,Kurdistan Regional Government (Iraq)*,Specialized Equipment_Score,
+3116,Kurdistan Regional Government (Iraq)*,Unmanned Vehicles_Score,
+4160,Kurdistan Regional Government (Iraq)*,ZZ_loop_score,
+1868,Kuwait,Aircraft_Score,3.705
+1607,Kuwait,Country_Score,4.166
+41,Kuwait,Exports,127.96
+563,Kuwait,Gross_Deals,16628.52
+3173,Kuwait,Ground Vehicles/Artillery_Score,7.210999999999999
+2651,Kuwait,Helicopters_Score,3.114
+302,Kuwait,Imports,16500.56
+2390,Kuwait,Missiles/Rockets/Bombs_Score,4.636
+3695,Kuwait,Naval Vessels_Score,1.48
+824,Kuwait,Normalized_Exports,0.00017009841594454377
+1346,Kuwait,Normalized_Gross,0.02093531526033896
+1085,Kuwait,Normalized_Imports,0.1177125559793381
+3434,Kuwait,Radar/Detection Systems_Score,1.931
+2129,Kuwait,Specialized Equipment_Score,0.167
+2912,Kuwait,Unmanned Vehicles_Score,0.0
+3956,Kuwait,ZZ_loop_score,3.705
+1976,Kyrgyzstan,Aircraft_Score,0.021
+1715,Kyrgyzstan,Country_Score,0.046
+149,Kyrgyzstan,Exports,213.70000000000002
+671,Kyrgyzstan,Gross_Deals,318.76
+3281,Kyrgyzstan,Ground Vehicles/Artillery_Score,0.021
+2759,Kyrgyzstan,Helicopters_Score,0.201
+410,Kyrgyzstan,Imports,105.06
+2498,Kyrgyzstan,Missiles/Rockets/Bombs_Score,0.016
+3803,Kyrgyzstan,Naval Vessels_Score,
+932,Kyrgyzstan,Normalized_Exports,0.0002840733939305174
+1454,Kyrgyzstan,Normalized_Gross,0.000401319004480594
+1193,Kyrgyzstan,Normalized_Imports,0.0007494825103626337
+3542,Kyrgyzstan,Radar/Detection Systems_Score,0.013999999999999999
+2237,Kyrgyzstan,Specialized Equipment_Score,
+3020,Kyrgyzstan,Unmanned Vehicles_Score,1.119
+4064,Kyrgyzstan,ZZ_loop_score,0.021
+1998,LF (Lebanon)*,Aircraft_Score,
+1737,LF (Lebanon)*,Country_Score,0.02
+171,LF (Lebanon)*,Exports,0.0
+693,LF (Lebanon)*,Gross_Deals,0.0
+3303,LF (Lebanon)*,Ground Vehicles/Artillery_Score,0.11100000000000002
+2781,LF (Lebanon)*,Helicopters_Score,
+432,LF (Lebanon)*,Imports,94.75
+2520,LF (Lebanon)*,Missiles/Rockets/Bombs_Score,0.001
+3825,LF (Lebanon)*,Naval Vessels_Score,
+954,LF (Lebanon)*,Normalized_Exports,0.0
+1476,LF (Lebanon)*,Normalized_Gross,0.0
+1215,LF (Lebanon)*,Normalized_Imports,0.0006759324943542694
+3564,LF (Lebanon)*,Radar/Detection Systems_Score,
+2259,LF (Lebanon)*,Specialized Equipment_Score,
+3042,LF (Lebanon)*,Unmanned Vehicles_Score,
+4086,LF (Lebanon)*,ZZ_loop_score,
+2073,LRA (Uganda)*,Aircraft_Score,
+1812,LRA (Uganda)*,Country_Score,0.0
+246,LRA (Uganda)*,Exports,0.0
+768,LRA (Uganda)*,Gross_Deals,0.0
+3378,LRA (Uganda)*,Ground Vehicles/Artillery_Score,
+2856,LRA (Uganda)*,Helicopters_Score,
+507,LRA (Uganda)*,Imports,0.2
+2595,LRA (Uganda)*,Missiles/Rockets/Bombs_Score,0.0
+3900,LRA (Uganda)*,Naval Vessels_Score,
+1029,LRA (Uganda)*,Normalized_Exports,0.0
+1551,LRA (Uganda)*,Normalized_Gross,0.0
+1290,LRA (Uganda)*,Normalized_Imports,1.4267704366317031e-06
+3639,LRA (Uganda)*,Radar/Detection Systems_Score,
+2334,LRA (Uganda)*,Specialized Equipment_Score,
+3117,LRA (Uganda)*,Unmanned Vehicles_Score,
+4161,LRA (Uganda)*,ZZ_loop_score,
+2045,LTTE (Sri Lanka)*,Aircraft_Score,0.0
+1784,LTTE (Sri Lanka)*,Country_Score,0.001
+218,LTTE (Sri Lanka)*,Exports,0.0
+740,LTTE (Sri Lanka)*,Gross_Deals,0.0
+3350,LTTE (Sri Lanka)*,Ground Vehicles/Artillery_Score,0.005
+2828,LTTE (Sri Lanka)*,Helicopters_Score,0.0
+479,LTTE (Sri Lanka)*,Imports,4.87
+2567,LTTE (Sri Lanka)*,Missiles/Rockets/Bombs_Score,0.001
+3872,LTTE (Sri Lanka)*,Naval Vessels_Score,
+1001,LTTE (Sri Lanka)*,Normalized_Exports,0.0
+1523,LTTE (Sri Lanka)*,Normalized_Gross,0.0
+1262,LTTE (Sri Lanka)*,Normalized_Imports,3.4741860131981974e-05
+3611,LTTE (Sri Lanka)*,Radar/Detection Systems_Score,
+2306,LTTE (Sri Lanka)*,Specialized Equipment_Score,
+3089,LTTE (Sri Lanka)*,Unmanned Vehicles_Score,
+4133,LTTE (Sri Lanka)*,ZZ_loop_score,0.0
+1937,Laos,Aircraft_Score,0.267
+1676,Laos,Country_Score,0.23800000000000002
+110,Laos,Exports,0.0
+632,Laos,Gross_Deals,0.0
+3242,Laos,Ground Vehicles/Artillery_Score,0.266
+2720,Laos,Helicopters_Score,0.636
+371,Laos,Imports,1110.07
+2459,Laos,Missiles/Rockets/Bombs_Score,0.13799999999999998
+3764,Laos,Naval Vessels_Score,
+893,Laos,Normalized_Exports,0.0
+1415,Laos,Normalized_Gross,0.0
+1154,Laos,Normalized_Imports,0.007919075292958773
+3503,Laos,Radar/Detection Systems_Score,0.012
+2198,Laos,Specialized Equipment_Score,0.021
+2981,Laos,Unmanned Vehicles_Score,0.413
+4025,Laos,ZZ_loop_score,0.267
+1948,Latvia,Aircraft_Score,0.003
+1687,Latvia,Country_Score,0.155
+121,Latvia,Exports,26.05
+643,Latvia,Gross_Deals,630.6099999999999
+3253,Latvia,Ground Vehicles/Artillery_Score,0.247
+2731,Latvia,Helicopters_Score,0.17500000000000002
+382,Latvia,Imports,604.56
+2470,Latvia,Missiles/Rockets/Bombs_Score,0.12
+3775,Latvia,Naval Vessels_Score,0.332
+904,Latvia,Normalized_Exports,3.462850684085156e-05
+1426,Latvia,Normalized_Gross,0.0007939383153956185
+1165,Latvia,Normalized_Imports,0.004312841675850312
+3514,Latvia,Radar/Detection Systems_Score,0.41000000000000003
+2209,Latvia,Specialized Equipment_Score,0.034999999999999996
+2992,Latvia,Unmanned Vehicles_Score,0.031
+4036,Latvia,ZZ_loop_score,0.003
+1921,Lebanon,Aircraft_Score,0.136
+1660,Lebanon,Country_Score,0.40800000000000003
+94,Lebanon,Exports,50.46
+616,Lebanon,Gross_Deals,1653.21
+3226,Lebanon,Ground Vehicles/Artillery_Score,1.101
+2704,Lebanon,Helicopters_Score,0.754
+355,Lebanon,Imports,1602.75
+2443,Lebanon,Missiles/Rockets/Bombs_Score,0.219
+3748,Lebanon,Naval Vessels_Score,0.087
+877,Lebanon,Normalized_Exports,6.707694645640574e-05
+1399,Lebanon,Normalized_Gross,0.002081392243058611
+1138,Lebanon,Normalized_Imports,0.011433781586557312
+3487,Lebanon,Radar/Detection Systems_Score,
+2182,Lebanon,Specialized Equipment_Score,0.018000000000000002
+2965,Lebanon,Unmanned Vehicles_Score,0.03
+4009,Lebanon,ZZ_loop_score,0.136
+2026,Lebanon Palestinian rebels*,Aircraft_Score,
+1765,Lebanon Palestinian rebels*,Country_Score,0.006
+199,Lebanon Palestinian rebels*,Exports,0.0
+721,Lebanon Palestinian rebels*,Gross_Deals,0.0
+3331,Lebanon Palestinian rebels*,Ground Vehicles/Artillery_Score,0.033
+2809,Lebanon Palestinian rebels*,Helicopters_Score,
+460,Lebanon Palestinian rebels*,Imports,27.5
+2548,Lebanon Palestinian rebels*,Missiles/Rockets/Bombs_Score,
+3853,Lebanon Palestinian rebels*,Naval Vessels_Score,
+982,Lebanon Palestinian rebels*,Normalized_Exports,0.0
+1504,Lebanon Palestinian rebels*,Normalized_Gross,0.0
+1243,Lebanon Palestinian rebels*,Normalized_Imports,0.00019618093503685917
+3592,Lebanon Palestinian rebels*,Radar/Detection Systems_Score,
+2287,Lebanon Palestinian rebels*,Specialized Equipment_Score,
+3070,Lebanon Palestinian rebels*,Unmanned Vehicles_Score,
+4114,Lebanon Palestinian rebels*,ZZ_loop_score,
+2012,Lesotho,Aircraft_Score,0.011000000000000001
+1751,Lesotho,Country_Score,0.01
+185,Lesotho,Exports,0.0
+707,Lesotho,Gross_Deals,0.0
+3317,Lesotho,Ground Vehicles/Artillery_Score,0.002
+2795,Lesotho,Helicopters_Score,0.064
+446,Lesotho,Imports,47.7
+2534,Lesotho,Missiles/Rockets/Bombs_Score,
+3839,Lesotho,Naval Vessels_Score,
+968,Lesotho,Normalized_Exports,0.0
+1490,Lesotho,Normalized_Gross,0.0
+1229,Lesotho,Normalized_Imports,0.00034028474913666123
+3578,Lesotho,Radar/Detection Systems_Score,
+2273,Lesotho,Specialized Equipment_Score,
+3056,Lesotho,Unmanned Vehicles_Score,
+4100,Lesotho,ZZ_loop_score,0.011000000000000001
+2009,Liberia,Aircraft_Score,0.005
+1748,Liberia,Country_Score,0.013
+182,Liberia,Exports,0.0
+704,Liberia,Gross_Deals,0.0
+3314,Liberia,Ground Vehicles/Artillery_Score,0.015
+2792,Liberia,Helicopters_Score,0.025
+443,Liberia,Imports,62.98
+2531,Liberia,Missiles/Rockets/Bombs_Score,
+3836,Liberia,Naval Vessels_Score,0.052
+965,Liberia,Normalized_Exports,0.0
+1487,Liberia,Normalized_Gross,0.0
+1226,Liberia,Normalized_Imports,0.0004492900104953233
+3575,Liberia,Radar/Detection Systems_Score,
+2270,Liberia,Specialized Equipment_Score,
+3053,Liberia,Unmanned Vehicles_Score,
+4097,Liberia,ZZ_loop_score,0.005
+1855,Libya,Aircraft_Score,6.757000000000001
+1594,Libya,Country_Score,7.95
+28,Libya,Exports,1425.5
+550,Libya,Gross_Deals,32485.24
+3160,Libya,Ground Vehicles/Artillery_Score,14.11
+2638,Libya,Helicopters_Score,3.386
+289,Libya,Imports,31059.74
+2377,Libya,Missiles/Rockets/Bombs_Score,8.914
+3682,Libya,Naval Vessels_Score,6.296
+811,Libya,Normalized_Exports,0.0018949303839398807
+1333,Libya,Normalized_Gross,0.04089893392242807
+1072,Libya,Normalized_Imports,0.2215755940073359
+3421,Libya,Radar/Detection Systems_Score,1.796
+2116,Libya,Specialized Equipment_Score,3.037
+2899,Libya,Unmanned Vehicles_Score,1.482
+3943,Libya,ZZ_loop_score,6.757000000000001
+2022,Libya GNC,Aircraft_Score,
+1761,Libya GNC,Country_Score,0.008
+195,Libya GNC,Exports,0.0
+717,Libya GNC,Gross_Deals,0.0
+3327,Libya GNC,Ground Vehicles/Artillery_Score,0.006999999999999999
+2805,Libya GNC,Helicopters_Score,
+456,Libya GNC,Imports,35.74
+2544,Libya GNC,Missiles/Rockets/Bombs_Score,
+3849,Libya GNC,Naval Vessels_Score,
+978,Libya GNC,Normalized_Exports,0.0
+1500,Libya GNC,Normalized_Gross,0.0
+1239,Libya GNC,Normalized_Imports,0.00025496387702608536
+3588,Libya GNC,Radar/Detection Systems_Score,
+2283,Libya GNC,Specialized Equipment_Score,0.004
+3066,Libya GNC,Unmanned Vehicles_Score,1.0370000000000001
+4110,Libya GNC,ZZ_loop_score,
+1962,Libya HoR*,Aircraft_Score,0.106
+1701,Libya HoR*,Country_Score,0.079
+135,Libya HoR*,Exports,0.8800000000000001
+657,Libya HoR*,Gross_Deals,313.0
+3267,Libya HoR*,Ground Vehicles/Artillery_Score,0.068
+2745,Libya HoR*,Helicopters_Score,0.055999999999999994
+396,Libya HoR*,Imports,312.12
+2484,Libya HoR*,Missiles/Rockets/Bombs_Score,0.033
+3789,Libya HoR*,Naval Vessels_Score,0.017
+918,Libya HoR*,Normalized_Exports,1.169792169671761e-06
+1440,Libya HoR*,Normalized_Gross,0.00039406716150842616
+1179,Libya HoR*,Normalized_Imports,0.002226617943407436
+3528,Libya HoR*,Radar/Detection Systems_Score,
+2223,Libya HoR*,Specialized Equipment_Score,0.009000000000000001
+3006,Libya HoR*,Unmanned Vehicles_Score,
+4050,Libya HoR*,ZZ_loop_score,0.106
+1917,Lithuania,Aircraft_Score,0.041
+1656,Lithuania,Country_Score,0.45799999999999996
+90,Lithuania,Exports,98.14
+612,Lithuania,Gross_Deals,1882.98
+3222,Lithuania,Ground Vehicles/Artillery_Score,1.323
+2700,Lithuania,Helicopters_Score,0.153
+351,Lithuania,Imports,1784.84
+2439,Lithuania,Missiles/Rockets/Bombs_Score,0.7060000000000001
+3744,Lithuania,Naval Vessels_Score,0.415
+873,Lithuania,Normalized_Exports,0.0001304584131040757
+1395,Lithuania,Normalized_Gross,0.0023706727916202436
+1134,Lithuania,Normalized_Imports,0.012732784730588646
+3483,Lithuania,Radar/Detection Systems_Score,0.443
+2178,Lithuania,Specialized Equipment_Score,0.032
+2961,Lithuania,Unmanned Vehicles_Score,0.031
+4005,Lithuania,ZZ_loop_score,0.041
+1987,Luxembourg,Aircraft_Score,0.042
+1726,Luxembourg,Country_Score,0.034
+160,Luxembourg,Exports,0.64
+682,Luxembourg,Gross_Deals,135.32999999999998
+3292,Luxembourg,Ground Vehicles/Artillery_Score,0.043
+2770,Luxembourg,Helicopters_Score,0.017
+421,Luxembourg,Imports,134.69
+2509,Luxembourg,Missiles/Rockets/Bombs_Score,0.011000000000000001
+3814,Luxembourg,Naval Vessels_Score,
+943,Luxembourg,Normalized_Exports,8.507579415794624e-07
+1465,Luxembourg,Normalized_Gross,0.00017038053983046424
+1204,Luxembourg,Normalized_Imports,0.0009608585505496205
+3553,Luxembourg,Radar/Detection Systems_Score,
+2248,Luxembourg,Specialized Equipment_Score,0.043
+3031,Luxembourg,Unmanned Vehicles_Score,0.01
+4075,Luxembourg,ZZ_loop_score,0.042
+2074,MNLF (Philippines)*,Aircraft_Score,
+1813,MNLF (Philippines)*,Country_Score,0.0
+247,MNLF (Philippines)*,Exports,0.0
+769,MNLF (Philippines)*,Gross_Deals,0.0
+3379,MNLF (Philippines)*,Ground Vehicles/Artillery_Score,
+2857,MNLF (Philippines)*,Helicopters_Score,
+508,MNLF (Philippines)*,Imports,0.16
+2596,MNLF (Philippines)*,Missiles/Rockets/Bombs_Score,0.0
+3901,MNLF (Philippines)*,Naval Vessels_Score,
+1030,MNLF (Philippines)*,Normalized_Exports,0.0
+1552,MNLF (Philippines)*,Normalized_Gross,0.0
+1291,MNLF (Philippines)*,Normalized_Imports,1.1414163493053625e-06
+3640,MNLF (Philippines)*,Radar/Detection Systems_Score,
+2335,MNLF (Philippines)*,Specialized Equipment_Score,
+3118,MNLF (Philippines)*,Unmanned Vehicles_Score,
+4162,MNLF (Philippines)*,ZZ_loop_score,
+2064,MPLA (Portugal)*,Aircraft_Score,
+1803,MPLA (Portugal)*,Country_Score,0.0
+237,MPLA (Portugal)*,Exports,0.0
+759,MPLA (Portugal)*,Gross_Deals,0.0
+3369,MPLA (Portugal)*,Ground Vehicles/Artillery_Score,
+2847,MPLA (Portugal)*,Helicopters_Score,
+498,MPLA (Portugal)*,Imports,1.0
+2586,MPLA (Portugal)*,Missiles/Rockets/Bombs_Score,0.001
+3891,MPLA (Portugal)*,Naval Vessels_Score,
+1020,MPLA (Portugal)*,Normalized_Exports,0.0
+1542,MPLA (Portugal)*,Normalized_Gross,0.0
+1281,MPLA (Portugal)*,Normalized_Imports,7.133852183158516e-06
+3630,MPLA (Portugal)*,Radar/Detection Systems_Score,
+2325,MPLA (Portugal)*,Specialized Equipment_Score,
+3108,MPLA (Portugal)*,Unmanned Vehicles_Score,
+4152,MPLA (Portugal)*,ZZ_loop_score,
+2087,MTA (Myanmar)*,Aircraft_Score,
+1826,MTA (Myanmar)*,Country_Score,0.0
+260,MTA (Myanmar)*,Exports,0.0
+782,MTA (Myanmar)*,Gross_Deals,0.0
+3392,MTA (Myanmar)*,Ground Vehicles/Artillery_Score,
+2870,MTA (Myanmar)*,Helicopters_Score,
+521,MTA (Myanmar)*,Imports,0.16
+2609,MTA (Myanmar)*,Missiles/Rockets/Bombs_Score,0.0
+3914,MTA (Myanmar)*,Naval Vessels_Score,
+1043,MTA (Myanmar)*,Normalized_Exports,0.0
+1565,MTA (Myanmar)*,Normalized_Gross,0.0
+1304,MTA (Myanmar)*,Normalized_Imports,1.1414163493053625e-06
+3653,MTA (Myanmar)*,Radar/Detection Systems_Score,
+2348,MTA (Myanmar)*,Specialized Equipment_Score,
+3131,MTA (Myanmar)*,Unmanned Vehicles_Score,
+4175,MTA (Myanmar)*,ZZ_loop_score,
+1981,Madagascar,Aircraft_Score,0.055
+1720,Madagascar,Country_Score,0.041
+154,Madagascar,Exports,0.0
+676,Madagascar,Gross_Deals,0.0
+3286,Madagascar,Ground Vehicles/Artillery_Score,0.013
+2764,Madagascar,Helicopters_Score,0.043
+415,Madagascar,Imports,193.81
+2503,Madagascar,Missiles/Rockets/Bombs_Score,0.0
+3808,Madagascar,Naval Vessels_Score,0.097
+937,Madagascar,Normalized_Exports,0.0
+1459,Madagascar,Normalized_Gross,0.0
+1198,Madagascar,Normalized_Imports,0.001382611891617952
+3547,Madagascar,Radar/Detection Systems_Score,
+2242,Madagascar,Specialized Equipment_Score,
+3025,Madagascar,Unmanned Vehicles_Score,0.076
+4069,Madagascar,ZZ_loop_score,0.055
+1991,Malawi,Aircraft_Score,0.034
+1730,Malawi,Country_Score,0.031
+164,Malawi,Exports,0.88
+686,Malawi,Gross_Deals,123.66
+3296,Malawi,Ground Vehicles/Artillery_Score,0.032
+2774,Malawi,Helicopters_Score,0.07200000000000001
+425,Malawi,Imports,122.78
+2513,Malawi,Missiles/Rockets/Bombs_Score,0.006
+3818,Malawi,Naval Vessels_Score,
+947,Malawi,Normalized_Exports,1.1697921696717607e-06
+1469,Malawi,Normalized_Gross,0.00015568800380872836
+1208,Malawi,Normalized_Imports,0.0008758943710482026
+3557,Malawi,Radar/Detection Systems_Score,0.009000000000000001
+2252,Malawi,Specialized Equipment_Score,0.011000000000000001
+3035,Malawi,Unmanned Vehicles_Score,
+4079,Malawi,ZZ_loop_score,0.034
+1883,Malaysia,Aircraft_Score,2.409
+1622,Malaysia,Country_Score,2.904
+56,Malaysia,Exports,58.72
+578,Malaysia,Gross_Deals,11569.81
+3188,Malaysia,Ground Vehicles/Artillery_Score,1.529
+2666,Malaysia,Helicopters_Score,1.695
+317,Malaysia,Imports,11511.09
+2405,Malaysia,Missiles/Rockets/Bombs_Score,1.405
+3710,Malaysia,Naval Vessels_Score,7.7780000000000005
+839,Malaysia,Normalized_Exports,7.805704113991568e-05
+1361,Malaysia,Normalized_Gross,0.014566396760037712
+1100,Malaysia,Normalized_Imports,0.08211841452703417
+3449,Malaysia,Radar/Detection Systems_Score,2.791
+2144,Malaysia,Specialized Equipment_Score,1.79
+2927,Malaysia,Unmanned Vehicles_Score,0.541
+3971,Malaysia,ZZ_loop_score,2.409
+2015,Maldives,Aircraft_Score,
+1754,Maldives,Country_Score,0.009000000000000001
+188,Maldives,Exports,0.0
+710,Maldives,Gross_Deals,0.0
+3320,Maldives,Ground Vehicles/Artillery_Score,0.003
+2798,Maldives,Helicopters_Score,0.033
+449,Maldives,Imports,40.35
+2537,Maldives,Missiles/Rockets/Bombs_Score,
+3842,Maldives,Naval Vessels_Score,0.039
+971,Maldives,Normalized_Exports,0.0
+1493,Maldives,Normalized_Gross,0.0
+1232,Maldives,Normalized_Imports,0.00028785093559044613
+3581,Maldives,Radar/Detection Systems_Score,
+2276,Maldives,Specialized Equipment_Score,0.01
+3059,Maldives,Unmanned Vehicles_Score,
+4103,Maldives,ZZ_loop_score,
+1949,Mali,Aircraft_Score,0.13999999999999999
+1688,Mali,Country_Score,0.14200000000000002
+122,Mali,Exports,0.0
+644,Mali,Gross_Deals,0.0
+3254,Mali,Ground Vehicles/Artillery_Score,0.169
+2732,Mali,Helicopters_Score,0.37
+383,Mali,Imports,661.3
+2471,Mali,Missiles/Rockets/Bombs_Score,0.095
+3776,Mali,Naval Vessels_Score,
+905,Mali,Normalized_Exports,0.0
+1427,Mali,Normalized_Gross,0.0
+1166,Mali,Normalized_Imports,0.0047176164487227265
+3515,Mali,Radar/Detection Systems_Score,0.075
+2210,Mali,Specialized Equipment_Score,0.034999999999999996
+2993,Mali,Unmanned Vehicles_Score,0.22899999999999998
+4037,Mali,ZZ_loop_score,0.13999999999999999
+1982,Malta,Aircraft_Score,0.003
+1721,Malta,Country_Score,0.04
+155,Malta,Exports,15.2
+677,Malta,Gross_Deals,166.60999999999999
+3287,Malta,Ground Vehicles/Artillery_Score,
+2765,Malta,Helicopters_Score,0.055
+416,Malta,Imports,151.41
+2504,Malta,Missiles/Rockets/Bombs_Score,0.001
+3809,Malta,Naval Vessels_Score,0.183
+938,Malta,Normalized_Exports,2.020550111251223e-05
+1460,Malta,Normalized_Gross,0.00020976207597098683
+1199,Malta,Normalized_Imports,0.0010801365590520308
+3548,Malta,Radar/Detection Systems_Score,
+2243,Malta,Specialized Equipment_Score,0.08
+3026,Malta,Unmanned Vehicles_Score,
+4070,Malta,ZZ_loop_score,0.003
+2037,Marshall Islands,Aircraft_Score,
+1776,Marshall Islands,Country_Score,0.003
+210,Marshall Islands,Exports,0.0
+732,Marshall Islands,Gross_Deals,0.0
+3342,Marshall Islands,Ground Vehicles/Artillery_Score,
+2820,Marshall Islands,Helicopters_Score,
+471,Marshall Islands,Imports,15.32
+2559,Marshall Islands,Missiles/Rockets/Bombs_Score,
+3864,Marshall Islands,Naval Vessels_Score,0.026
+993,Marshall Islands,Normalized_Exports,0.0
+1515,Marshall Islands,Normalized_Gross,0.0
+1254,Marshall Islands,Normalized_Imports,0.00010929061544598846
+3603,Marshall Islands,Radar/Detection Systems_Score,
+2298,Marshall Islands,Specialized Equipment_Score,
+3081,Marshall Islands,Unmanned Vehicles_Score,
+4125,Marshall Islands,ZZ_loop_score,
+1956,Mauritania,Aircraft_Score,0.046
+1695,Mauritania,Country_Score,0.093
+129,Mauritania,Exports,0.0
+651,Mauritania,Gross_Deals,0.0
+3261,Mauritania,Ground Vehicles/Artillery_Score,0.149
+2739,Mauritania,Helicopters_Score,0.031
+390,Mauritania,Imports,436.38
+2478,Mauritania,Missiles/Rockets/Bombs_Score,0.001
+3783,Mauritania,Naval Vessels_Score,0.321
+912,Mauritania,Normalized_Exports,0.0
+1434,Mauritania,Normalized_Gross,0.0
+1173,Mauritania,Normalized_Imports,0.0031130704156867132
+3522,Mauritania,Radar/Detection Systems_Score,0.003
+2217,Mauritania,Specialized Equipment_Score,0.06899999999999999
+3000,Mauritania,Unmanned Vehicles_Score,
+4044,Mauritania,ZZ_loop_score,0.046
+1990,Mauritius,Aircraft_Score,0.002
+1729,Mauritius,Country_Score,0.031
+163,Mauritius,Exports,0.0
+685,Mauritius,Gross_Deals,0.0
+3295,Mauritius,Ground Vehicles/Artillery_Score,0.004
+2773,Mauritius,Helicopters_Score,0.008
+424,Mauritius,Imports,143.13
+2512,Mauritius,Missiles/Rockets/Bombs_Score,
+3817,Mauritius,Naval Vessels_Score,0.173
+946,Mauritius,Normalized_Exports,0.0
+1468,Mauritius,Normalized_Gross,0.0
+1207,Mauritius,Normalized_Imports,0.0010210682629754784
+3556,Mauritius,Radar/Detection Systems_Score,0.029
+2251,Mauritius,Specialized Equipment_Score,0.087
+3034,Mauritius,Unmanned Vehicles_Score,0.022000000000000002
+4078,Mauritius,ZZ_loop_score,0.002
+1896,Mexico,Aircraft_Score,0.849
+1635,Mexico,Country_Score,1.553
+69,Mexico,Exports,8.9
+591,Mexico,Gross_Deals,6171.99
+3201,Mexico,Ground Vehicles/Artillery_Score,0.44799999999999995
+2679,Mexico,Helicopters_Score,4.284000000000001
+330,Mexico,Imports,6163.09
+2418,Mexico,Missiles/Rockets/Bombs_Score,0.063
+3723,Mexico,Naval Vessels_Score,4.462
+852,Mexico,Normalized_Exports,1.18308526250894e-05
+1374,Mexico,Normalized_Gross,0.007770538594755243
+1113,Mexico,Normalized_Imports,0.043966573051502415
+3462,Mexico,Radar/Detection Systems_Score,1.099
+2157,Mexico,Specialized Equipment_Score,1.514
+2940,Mexico,Unmanned Vehicles_Score,0.439
+3984,Mexico,ZZ_loop_score,0.849
+2021,Micronesia,Aircraft_Score,
+1760,Micronesia,Country_Score,0.008
+194,Micronesia,Exports,0.0
+716,Micronesia,Gross_Deals,0.0
+3326,Micronesia,Ground Vehicles/Artillery_Score,
+2804,Micronesia,Helicopters_Score,
+455,Micronesia,Imports,36.64
+2543,Micronesia,Missiles/Rockets/Bombs_Score,
+3848,Micronesia,Naval Vessels_Score,0.063
+977,Micronesia,Normalized_Exports,0.0
+1499,Micronesia,Normalized_Gross,0.0
+1238,Micronesia,Normalized_Imports,0.000261384343990928
+3587,Micronesia,Radar/Detection Systems_Score,
+2282,Micronesia,Specialized Equipment_Score,
+3065,Micronesia,Unmanned Vehicles_Score,
+4109,Micronesia,ZZ_loop_score,
+1968,Moldova,Aircraft_Score,0.048
+1707,Moldova,Country_Score,0.053
+141,Moldova,Exports,487.26
+663,Moldova,Gross_Deals,521.54
+3273,Moldova,Ground Vehicles/Artillery_Score,0.038
+2751,Moldova,Helicopters_Score,0.009000000000000001
+402,Moldova,Imports,34.28
+2490,Moldova,Missiles/Rockets/Bombs_Score,0.0
+3795,Moldova,Naval Vessels_Score,
+924,Moldova,Normalized_Exports,0.0006477192415843888
+1446,Moldova,Normalized_Gross,0.00065661912911535
+1185,Moldova,Normalized_Imports,0.0002445484528386739
+3534,Moldova,Radar/Detection Systems_Score,0.039
+2229,Moldova,Specialized Equipment_Score,
+3012,Moldova,Unmanned Vehicles_Score,
+4056,Moldova,ZZ_loop_score,0.048
+1915,Mongolia,Aircraft_Score,0.20400000000000001
+1654,Mongolia,Country_Score,0.473
+88,Mongolia,Exports,0.0
+610,Mongolia,Gross_Deals,0.0
+3220,Mongolia,Ground Vehicles/Artillery_Score,1.718
+2698,Mongolia,Helicopters_Score,0.44
+349,Mongolia,Imports,2211.67
+2437,Mongolia,Missiles/Rockets/Bombs_Score,0.246
+3742,Mongolia,Naval Vessels_Score,
+871,Mongolia,Normalized_Exports,0.0
+1393,Mongolia,Normalized_Gross,0.0
+1132,Mongolia,Normalized_Imports,0.015777726857926194
+3481,Mongolia,Radar/Detection Systems_Score,0.023
+2176,Mongolia,Specialized Equipment_Score,
+2959,Mongolia,Unmanned Vehicles_Score,0.6479999999999999
+4003,Mongolia,ZZ_loop_score,0.20400000000000001
+1995,Montenegro,Aircraft_Score,0.001
+1734,Montenegro,Country_Score,0.026
+168,Montenegro,Exports,199.07999999999998
+690,Montenegro,Gross_Deals,230.07
+3300,Montenegro,Ground Vehicles/Artillery_Score,0.05
+2778,Montenegro,Helicopters_Score,0.044000000000000004
+429,Montenegro,Imports,30.990000000000002
+2517,Montenegro,Missiles/Rockets/Bombs_Score,0.016
+3822,Montenegro,Naval Vessels_Score,0.06999999999999999
+951,Montenegro,Normalized_Exports,0.0002646388922025615
+1473,Montenegro,Normalized_Gross,0.00028965824871643323
+1212,Montenegro,Normalized_Imports,0.00022107807915608242
+3561,Montenegro,Radar/Detection Systems_Score,
+2256,Montenegro,Specialized Equipment_Score,
+3039,Montenegro,Unmanned Vehicles_Score,
+4083,Montenegro,ZZ_loop_score,0.001
+1875,Morocco,Aircraft_Score,2.85
+1614,Morocco,Country_Score,3.5740000000000003
+48,Morocco,Exports,107.66
+570,Morocco,Gross_Deals,14261.44
+3180,Morocco,Ground Vehicles/Artillery_Score,6.311999999999999
+2658,Morocco,Helicopters_Score,2.564
+309,Morocco,Imports,14153.78
+2397,Morocco,Missiles/Rockets/Bombs_Score,1.464
+3702,Morocco,Naval Vessels_Score,3.615
+831,Morocco,Normalized_Exports,0.0001431134374850702
+1353,Morocco,Normalized_Gross,0.01795516031892246
+1092,Morocco,Normalized_Imports,0.10097097435294534
+3441,Morocco,Radar/Detection Systems_Score,2.694
+2136,Morocco,Specialized Equipment_Score,0.461
+2919,Morocco,Unmanned Vehicles_Score,1.4040000000000001
+3963,Morocco,ZZ_loop_score,2.85
+1926,Mozambique,Aircraft_Score,0.42
+1665,Mozambique,Country_Score,0.34099999999999997
+99,Mozambique,Exports,1.2
+621,Mozambique,Gross_Deals,1356.66
+3231,Mozambique,Ground Vehicles/Artillery_Score,0.27299999999999996
+2709,Mozambique,Helicopters_Score,0.5680000000000001
+360,Mozambique,Imports,1355.46
+2448,Mozambique,Missiles/Rockets/Bombs_Score,0.122
+3753,Mozambique,Naval Vessels_Score,0.157
+882,Mozambique,Normalized_Exports,1.595171140461492e-06
+1404,Mozambique,Normalized_Gross,0.0017080356400384071
+1143,Mozambique,Normalized_Imports,0.009669651280184042
+3492,Mozambique,Radar/Detection Systems_Score,0.02
+2187,Mozambique,Specialized Equipment_Score,0.004
+2970,Mozambique,Unmanned Vehicles_Score,0.209
+4014,Mozambique,ZZ_loop_score,0.42
+1985,Mujahedin (Afghanistan)*,Aircraft_Score,
+1724,Mujahedin (Afghanistan)*,Country_Score,0.034999999999999996
+158,Mujahedin (Afghanistan)*,Exports,0.8
+680,Mujahedin (Afghanistan)*,Gross_Deals,138.4
+3290,Mujahedin (Afghanistan)*,Ground Vehicles/Artillery_Score,0.03
+2768,Mujahedin (Afghanistan)*,Helicopters_Score,
+419,Mujahedin (Afghanistan)*,Imports,137.6
+2507,Mujahedin (Afghanistan)*,Missiles/Rockets/Bombs_Score,0.19
+3812,Mujahedin (Afghanistan)*,Naval Vessels_Score,
+941,Mujahedin (Afghanistan)*,Normalized_Exports,1.0634474269743282e-06
+1463,Mujahedin (Afghanistan)*,Normalized_Gross,0.00017424567141458843
+1202,Mujahedin (Afghanistan)*,Normalized_Imports,0.0009816180604026118
+3551,Mujahedin (Afghanistan)*,Radar/Detection Systems_Score,
+2246,Mujahedin (Afghanistan)*,Specialized Equipment_Score,
+3029,Mujahedin (Afghanistan)*,Unmanned Vehicles_Score,
+4073,Mujahedin (Afghanistan)*,ZZ_loop_score,
+1897,Myanmar,Aircraft_Score,1.371
+1636,Myanmar,Country_Score,1.533
+70,Myanmar,Exports,0.0
+592,Myanmar,Gross_Deals,0.0
+3202,Myanmar,Ground Vehicles/Artillery_Score,1.7000000000000002
+2680,Myanmar,Helicopters_Score,0.9520000000000001
+331,Myanmar,Imports,7164.06
+2419,Myanmar,Missiles/Rockets/Bombs_Score,1.486
+3724,Myanmar,Naval Vessels_Score,2.175
+853,Myanmar,Normalized_Exports,0.0
+1375,Myanmar,Normalized_Gross,0.0
+1114,Myanmar,Normalized_Imports,0.0511073450712786
+3463,Myanmar,Radar/Detection Systems_Score,0.621
+2158,Myanmar,Specialized Equipment_Score,0.688
+2941,Myanmar,Unmanned Vehicles_Score,1.1440000000000001
+3985,Myanmar,ZZ_loop_score,1.371
+1894,NATO**,Aircraft_Score,3.8609999999999998
+1633,NATO**,Country_Score,1.7489999999999999
+67,NATO**,Exports,0.0
+589,NATO**,Gross_Deals,0.0
+3199,NATO**,Ground Vehicles/Artillery_Score,
+2677,NATO**,Helicopters_Score,
+328,NATO**,Imports,8171.33
+2416,NATO**,Missiles/Rockets/Bombs_Score,0.012
+3721,NATO**,Naval Vessels_Score,
+850,NATO**,Normalized_Exports,0.0
+1372,NATO**,Normalized_Gross,0.0
+1111,NATO**,Normalized_Imports,0.05829306035980868
+3460,NATO**,Radar/Detection Systems_Score,0.5910000000000001
+2155,NATO**,Specialized Equipment_Score,0.744
+2938,NATO**,Unmanned Vehicles_Score,6.299
+3982,NATO**,ZZ_loop_score,3.8609999999999998
+2075,NLA (Macedonia)*,Aircraft_Score,
+1814,NLA (Macedonia)*,Country_Score,0.0
+248,NLA (Macedonia)*,Exports,0.0
+770,NLA (Macedonia)*,Gross_Deals,0.0
+3380,NLA (Macedonia)*,Ground Vehicles/Artillery_Score,
+2858,NLA (Macedonia)*,Helicopters_Score,
+509,NLA (Macedonia)*,Imports,0.4
+2597,NLA (Macedonia)*,Missiles/Rockets/Bombs_Score,0.001
+3902,NLA (Macedonia)*,Naval Vessels_Score,
+1031,NLA (Macedonia)*,Normalized_Exports,0.0
+1553,NLA (Macedonia)*,Normalized_Gross,0.0
+1292,NLA (Macedonia)*,Normalized_Imports,2.8535408732634063e-06
+3641,NLA (Macedonia)*,Radar/Detection Systems_Score,
+2336,NLA (Macedonia)*,Specialized Equipment_Score,
+3119,NLA (Macedonia)*,Unmanned Vehicles_Score,
+4163,NLA (Macedonia)*,ZZ_loop_score,
+2077,NTC (Libya)*,Aircraft_Score,
+1816,NTC (Libya)*,Country_Score,0.0
+250,NTC (Libya)*,Exports,0.0
+772,NTC (Libya)*,Gross_Deals,0.0
+3382,NTC (Libya)*,Ground Vehicles/Artillery_Score,0.0
+2860,NTC (Libya)*,Helicopters_Score,
+511,NTC (Libya)*,Imports,0.52
+2599,NTC (Libya)*,Missiles/Rockets/Bombs_Score,0.0
+3904,NTC (Libya)*,Naval Vessels_Score,
+1033,NTC (Libya)*,Normalized_Exports,0.0
+1555,NTC (Libya)*,Normalized_Gross,0.0
+1294,NTC (Libya)*,Normalized_Imports,3.7096031352424285e-06
+3643,NTC (Libya)*,Radar/Detection Systems_Score,
+2338,NTC (Libya)*,Specialized Equipment_Score,
+3121,NTC (Libya)*,Unmanned Vehicles_Score,
+4165,NTC (Libya)*,ZZ_loop_score,
+1966,Namibia,Aircraft_Score,0.062
+1705,Namibia,Country_Score,0.062
+139,Namibia,Exports,0.0
+661,Namibia,Gross_Deals,0.0
+3271,Namibia,Ground Vehicles/Artillery_Score,0.023
+2749,Namibia,Helicopters_Score,0.097
+400,Namibia,Imports,289.73
+2488,Namibia,Missiles/Rockets/Bombs_Score,0.006
+3793,Namibia,Naval Vessels_Score,0.16999999999999998
+922,Namibia,Normalized_Exports,0.0
+1444,Namibia,Normalized_Gross,0.0
+1183,Namibia,Normalized_Imports,0.002066890993026517
+3532,Namibia,Radar/Detection Systems_Score,
+2227,Namibia,Specialized Equipment_Score,0.026
+3010,Namibia,Unmanned Vehicles_Score,
+4054,Namibia,ZZ_loop_score,0.062
+1977,Nepal,Aircraft_Score,0.024
+1716,Nepal,Country_Score,0.046
+150,Nepal,Exports,0.0
+672,Nepal,Gross_Deals,0.0
+3282,Nepal,Ground Vehicles/Artillery_Score,0.073
+2760,Nepal,Helicopters_Score,0.27599999999999997
+411,Nepal,Imports,216.44
+2499,Nepal,Missiles/Rockets/Bombs_Score,
+3804,Nepal,Naval Vessels_Score,
+933,Nepal,Normalized_Exports,0.0
+1455,Nepal,Normalized_Gross,0.0
+1194,Nepal,Normalized_Imports,0.0015440509665228292
+3543,Nepal,Radar/Detection Systems_Score,
+2238,Nepal,Specialized Equipment_Score,0.004
+3021,Nepal,Unmanned Vehicles_Score,
+4065,Nepal,ZZ_loop_score,0.024
+1850,Netherlands,Aircraft_Score,7.249999999999999
+1589,Netherlands,Country_Score,9.464
+23,Netherlands,Exports,27285.99
+545,Netherlands,Gross_Deals,55016.56
+3155,Netherlands,Ground Vehicles/Artillery_Score,11.081000000000001
+2633,Netherlands,Helicopters_Score,7.417
+284,Netherlands,Imports,27730.57
+2372,Netherlands,Missiles/Rockets/Bombs_Score,8.622
+3677,Netherlands,Naval Vessels_Score,18.034
+806,Netherlands,Normalized_Exports,0.03627151982243406
+1328,Netherlands,Normalized_Gross,0.06926587742861987
+1067,Netherlands,Normalized_Imports,0.19782578733473005
+3416,Netherlands,Radar/Detection Systems_Score,31.334
+2111,Netherlands,Specialized Equipment_Score,4.4990000000000006
+2894,Netherlands,Unmanned Vehicles_Score,6.370000000000001
+3938,Netherlands,ZZ_loop_score,7.249999999999999
+1900,New Zealand,Aircraft_Score,1.13
+1639,New Zealand,Country_Score,1.113
+73,New Zealand,Exports,213.13
+595,New Zealand,Gross_Deals,4554.9800000000005
+3205,New Zealand,Ground Vehicles/Artillery_Score,0.43299999999999994
+2683,New Zealand,Helicopters_Score,1.058
+334,New Zealand,Imports,4341.85
+2422,New Zealand,Missiles/Rockets/Bombs_Score,0.424
+3727,New Zealand,Naval Vessels_Score,2.9530000000000003
+856,New Zealand,Normalized_Exports,0.00028331568763879814
+1378,New Zealand,Normalized_Gross,0.005734722170375882
+1117,New Zealand,Normalized_Imports,0.030974116101446805
+3466,New Zealand,Radar/Detection Systems_Score,0.61
+2161,New Zealand,Specialized Equipment_Score,0.636
+2944,New Zealand,Unmanned Vehicles_Score,
+3988,New Zealand,ZZ_loop_score,1.13
+1930,Nicaragua,Aircraft_Score,0.091
+1669,Nicaragua,Country_Score,0.28500000000000003
+103,Nicaragua,Exports,101.79
+625,Nicaragua,Gross_Deals,1198.3
+3235,Nicaragua,Ground Vehicles/Artillery_Score,0.321
+2713,Nicaragua,Helicopters_Score,1.52
+364,Nicaragua,Imports,1096.51
+2452,Nicaragua,Missiles/Rockets/Bombs_Score,0.219
+3757,Nicaragua,Naval Vessels_Score,0.047
+886,Nicaragua,Normalized_Exports,0.00013531039198964607
+1408,Nicaragua,Normalized_Gross,0.0015086603183244315
+1147,Nicaragua,Normalized_Imports,0.007822340257355145
+3496,Nicaragua,Radar/Detection Systems_Score,0.178
+2191,Nicaragua,Specialized Equipment_Score,
+2974,Nicaragua,Unmanned Vehicles_Score,0.32399999999999995
+4018,Nicaragua,ZZ_loop_score,0.091
+1963,Niger,Aircraft_Score,0.082
+1702,Niger,Country_Score,0.06999999999999999
+136,Niger,Exports,0.28
+658,Niger,Gross_Deals,277.21999999999997
+3268,Niger,Ground Vehicles/Artillery_Score,0.097
+2746,Niger,Helicopters_Score,0.097
+397,Niger,Imports,276.94
+2485,Niger,Missiles/Rockets/Bombs_Score,
+3790,Niger,Naval Vessels_Score,
+919,Niger,Normalized_Exports,3.7220659944101487e-07
+1441,Niger,Normalized_Gross,0.0003490201230458974
+1180,Niger,Normalized_Imports,0.0019756490236039195
+3529,Niger,Radar/Detection Systems_Score,
+2224,Niger,Specialized Equipment_Score,0.004
+3007,Niger,Unmanned Vehicles_Score,0.583
+4051,Niger,ZZ_loop_score,0.082
+1895,Nigeria,Aircraft_Score,1.2349999999999999
+1634,Nigeria,Country_Score,1.725
+68,Nigeria,Exports,10.04
+590,Nigeria,Gross_Deals,6855.61
+3200,Nigeria,Ground Vehicles/Artillery_Score,2.503
+2678,Nigeria,Helicopters_Score,2.121
+329,Nigeria,Imports,6845.57
+2417,Nigeria,Missiles/Rockets/Bombs_Score,0.505
+3722,Nigeria,Naval Vessels_Score,2.442
+851,Nigeria,Normalized_Exports,1.3346265208527816e-05
+1373,Nigeria,Normalized_Gross,0.008631216527504093
+1112,Nigeria,Normalized_Imports,0.04883528448946444
+3461,Nigeria,Radar/Detection Systems_Score,0.35300000000000004
+2156,Nigeria,Specialized Equipment_Score,0.919
+2939,Nigeria,Unmanned Vehicles_Score,2.64
+3983,Nigeria,ZZ_loop_score,1.2349999999999999
+1864,North Korea,Aircraft_Score,2.7720000000000002
+1603,North Korea,Country_Score,4.715
+37,North Korea,Exports,2300.33
+559,North Korea,Gross_Deals,20194.35
+3169,North Korea,Ground Vehicles/Artillery_Score,10.476
+2647,North Korea,Helicopters_Score,3.157
+298,North Korea,Imports,17894.02
+2386,North Korea,Missiles/Rockets/Bombs_Score,4.5969999999999995
+3691,North Korea,Naval Vessels_Score,6.427
+820,North Korea,Normalized_Exports,0.0030578500246148197
+1342,North Korea,Normalized_Gross,0.025424697070312093
+1081,North Korea,Normalized_Imports,0.12765329364248215
+3430,North Korea,Radar/Detection Systems_Score,0.47800000000000004
+2125,North Korea,Specialized Equipment_Score,
+2908,North Korea,Unmanned Vehicles_Score,
+3952,North Korea,ZZ_loop_score,2.7720000000000002
+1957,North Macedonia,Aircraft_Score,0.013999999999999999
+1696,North Macedonia,Country_Score,0.091
+130,North Macedonia,Exports,49.599999999999994
+652,North Macedonia,Gross_Deals,391.48
+3262,North Macedonia,Ground Vehicles/Artillery_Score,0.281
+2740,North Macedonia,Helicopters_Score,0.344
+391,North Macedonia,Imports,341.88
+2479,North Macedonia,Missiles/Rockets/Bombs_Score,0.006999999999999999
+3784,North Macedonia,Naval Vessels_Score,
+913,North Macedonia,Normalized_Exports,6.593374047240833e-05
+1435,North Macedonia,Normalized_Gross,0.0004928735220042131
+1174,North Macedonia,Normalized_Imports,0.0024389213843782334
+3523,North Macedonia,Radar/Detection Systems_Score,0.006
+2218,North Macedonia,Specialized Equipment_Score,0.015
+3001,North Macedonia,Unmanned Vehicles_Score,
+4045,North Macedonia,ZZ_loop_score,0.013999999999999999
+1913,North Yemen,Aircraft_Score,0.388
+1652,North Yemen,Country_Score,0.508
+86,North Yemen,Exports,3.4
+608,North Yemen,Gross_Deals,2019.67
+3218,North Yemen,Ground Vehicles/Artillery_Score,1.022
+2696,North Yemen,Helicopters_Score,0.565
+347,North Yemen,Imports,2016.27
+2435,North Yemen,Missiles/Rockets/Bombs_Score,0.307
+3740,North Yemen,Naval Vessels_Score,0.093
+869,North Yemen,Normalized_Exports,4.519651564640894e-06
+1391,North Yemen,Normalized_Gross,0.0025427655721524697
+1130,North Yemen,Normalized_Imports,0.014383772141337021
+3479,North Yemen,Radar/Detection Systems_Score,
+2174,North Yemen,Specialized Equipment_Score,
+2957,North Yemen,Unmanned Vehicles_Score,0.27
+4001,North Yemen,ZZ_loop_score,0.388
+1972,Northern Alliance (Afghanistan)*,Aircraft_Score,
+1711,Northern Alliance (Afghanistan)*,Country_Score,0.05
+145,Northern Alliance (Afghanistan)*,Exports,0.0
+667,Northern Alliance (Afghanistan)*,Gross_Deals,0.0
+3277,Northern Alliance (Afghanistan)*,Ground Vehicles/Artillery_Score,0.22
+2755,Northern Alliance (Afghanistan)*,Helicopters_Score,0.076
+406,Northern Alliance (Afghanistan)*,Imports,231.54
+2494,Northern Alliance (Afghanistan)*,Missiles/Rockets/Bombs_Score,0.025
+3799,Northern Alliance (Afghanistan)*,Naval Vessels_Score,
+928,Northern Alliance (Afghanistan)*,Normalized_Exports,0.0
+1450,Northern Alliance (Afghanistan)*,Normalized_Gross,0.0
+1189,Northern Alliance (Afghanistan)*,Normalized_Imports,0.0016517721344885227
+3538,Northern Alliance (Afghanistan)*,Radar/Detection Systems_Score,
+2233,Northern Alliance (Afghanistan)*,Specialized Equipment_Score,
+3016,Northern Alliance (Afghanistan)*,Unmanned Vehicles_Score,
+4060,Northern Alliance (Afghanistan)*,ZZ_loop_score,
+2078,Northern Cyprus,Aircraft_Score,
+1817,Northern Cyprus,Country_Score,0.0
+251,Northern Cyprus,Exports,0.0
+773,Northern Cyprus,Gross_Deals,0.0
+3383,Northern Cyprus,Ground Vehicles/Artillery_Score,
+2861,Northern Cyprus,Helicopters_Score,
+512,Northern Cyprus,Imports,1.44
+2600,Northern Cyprus,Missiles/Rockets/Bombs_Score,0.002
+3905,Northern Cyprus,Naval Vessels_Score,
+1034,Northern Cyprus,Normalized_Exports,0.0
+1556,Northern Cyprus,Normalized_Gross,0.0
+1295,Northern Cyprus,Normalized_Imports,1.0272747143748262e-05
+3644,Northern Cyprus,Radar/Detection Systems_Score,
+2339,Northern Cyprus,Specialized Equipment_Score,
+3122,Northern Cyprus,Unmanned Vehicles_Score,
+4166,Northern Cyprus,ZZ_loop_score,
+1862,Norway,Aircraft_Score,4.249
+1601,Norway,Country_Score,5.167
+35,Norway,Exports,7234.3
+557,Norway,Gross_Deals,25141.5
+3167,Norway,Ground Vehicles/Artillery_Score,3.125
+2645,Norway,Helicopters_Score,1.4460000000000002
+296,Norway,Imports,17907.2
+2384,Norway,Missiles/Rockets/Bombs_Score,6.335
+3689,Norway,Naval Vessels_Score,10.954
+818,Norway,Normalized_Exports,0.009616622151200478
+1340,Norway,Normalized_Gross,0.03165316147304823
+1079,Norway,Normalized_Imports,0.1277473178142562
+3428,Norway,Radar/Detection Systems_Score,10.054
+2123,Norway,Specialized Equipment_Score,1.394
+2906,Norway,Unmanned Vehicles_Score,
+3950,Norway,ZZ_loop_score,4.249
+2079,OSCE**,Aircraft_Score,
+1818,OSCE**,Country_Score,0.0
+252,OSCE**,Exports,0.0
+774,OSCE**,Gross_Deals,0.0
+3384,OSCE**,Ground Vehicles/Artillery_Score,
+2862,OSCE**,Helicopters_Score,
+513,OSCE**,Imports,1.2
+2601,OSCE**,Missiles/Rockets/Bombs_Score,
+3906,OSCE**,Naval Vessels_Score,
+1035,OSCE**,Normalized_Exports,0.0
+1557,OSCE**,Normalized_Gross,0.0
+1296,OSCE**,Normalized_Imports,8.560622619790219e-06
+3645,OSCE**,Radar/Detection Systems_Score,
+2340,OSCE**,Specialized Equipment_Score,
+3123,OSCE**,Unmanned Vehicles_Score,0.043
+4167,OSCE**,ZZ_loop_score,
+1892,Oman,Aircraft_Score,1.5859999999999999
+1631,Oman,Country_Score,1.805
+65,Oman,Exports,18.63
+587,Oman,Gross_Deals,7181.4800000000005
+3197,Oman,Ground Vehicles/Artillery_Score,1.195
+2675,Oman,Helicopters_Score,0.962
+326,Oman,Imports,7162.85
+2414,Oman,Missiles/Rockets/Bombs_Score,1.8610000000000002
+3719,Oman,Naval Vessels_Score,3.091
+848,Oman,Normalized_Exports,2.4765031955664664e-05
+1370,Oman,Normalized_Gross,0.009041487025653458
+1109,Oman,Normalized_Imports,0.05109871311013698
+3458,Oman,Radar/Detection Systems_Score,1.76
+2153,Oman,Specialized Equipment_Score,0.69
+2936,Oman,Unmanned Vehicles_Score,0.008
+3980,Oman,ZZ_loop_score,1.5859999999999999
+2080,PAIGC (Portugal)*,Aircraft_Score,
+1819,PAIGC (Portugal)*,Country_Score,0.0
+253,PAIGC (Portugal)*,Exports,0.0
+775,PAIGC (Portugal)*,Gross_Deals,0.0
+3385,PAIGC (Portugal)*,Ground Vehicles/Artillery_Score,
+2863,PAIGC (Portugal)*,Helicopters_Score,
+514,PAIGC (Portugal)*,Imports,1.0
+2602,PAIGC (Portugal)*,Missiles/Rockets/Bombs_Score,0.001
+3907,PAIGC (Portugal)*,Naval Vessels_Score,
+1036,PAIGC (Portugal)*,Normalized_Exports,0.0
+1558,PAIGC (Portugal)*,Normalized_Gross,0.0
+1297,PAIGC (Portugal)*,Normalized_Imports,7.133852183158516e-06
+3646,PAIGC (Portugal)*,Radar/Detection Systems_Score,
+2341,PAIGC (Portugal)*,Specialized Equipment_Score,
+3124,PAIGC (Portugal)*,Unmanned Vehicles_Score,
+4168,PAIGC (Portugal)*,ZZ_loop_score,
+2081,PIJ (Israel/Palestine)*,Aircraft_Score,
+1820,PIJ (Israel/Palestine)*,Country_Score,0.0
+254,PIJ (Israel/Palestine)*,Exports,0.0
+776,PIJ (Israel/Palestine)*,Gross_Deals,0.0
+3386,PIJ (Israel/Palestine)*,Ground Vehicles/Artillery_Score,
+2864,PIJ (Israel/Palestine)*,Helicopters_Score,
+515,PIJ (Israel/Palestine)*,Imports,0.4
+2603,PIJ (Israel/Palestine)*,Missiles/Rockets/Bombs_Score,0.001
+3908,PIJ (Israel/Palestine)*,Naval Vessels_Score,
+1037,PIJ (Israel/Palestine)*,Normalized_Exports,0.0
+1559,PIJ (Israel/Palestine)*,Normalized_Gross,0.0
+1298,PIJ (Israel/Palestine)*,Normalized_Imports,2.8535408732634063e-06
+3647,PIJ (Israel/Palestine)*,Radar/Detection Systems_Score,
+2342,PIJ (Israel/Palestine)*,Specialized Equipment_Score,
+3125,PIJ (Israel/Palestine)*,Unmanned Vehicles_Score,
+4169,PIJ (Israel/Palestine)*,ZZ_loop_score,
+2082,PKK (Turkiye)*,Aircraft_Score,
+1821,PKK (Turkiye)*,Country_Score,0.0
+255,PKK (Turkiye)*,Exports,0.0
+777,PKK (Turkiye)*,Gross_Deals,0.0
+3387,PKK (Turkiye)*,Ground Vehicles/Artillery_Score,
+2865,PKK (Turkiye)*,Helicopters_Score,
+516,PKK (Turkiye)*,Imports,0.72
+2604,PKK (Turkiye)*,Missiles/Rockets/Bombs_Score,0.001
+3909,PKK (Turkiye)*,Naval Vessels_Score,
+1038,PKK (Turkiye)*,Normalized_Exports,0.0
+1560,PKK (Turkiye)*,Normalized_Gross,0.0
+1299,PKK (Turkiye)*,Normalized_Imports,5.136373571874131e-06
+3648,PKK (Turkiye)*,Radar/Detection Systems_Score,
+2343,PKK (Turkiye)*,Specialized Equipment_Score,
+3126,PKK (Turkiye)*,Unmanned Vehicles_Score,
+4170,PKK (Turkiye)*,ZZ_loop_score,
+2025,PLO (Israel)*,Aircraft_Score,
+1764,PLO (Israel)*,Country_Score,0.006999999999999999
+198,PLO (Israel)*,Exports,0.0
+720,PLO (Israel)*,Gross_Deals,0.0
+3330,PLO (Israel)*,Ground Vehicles/Artillery_Score,0.034
+2808,PLO (Israel)*,Helicopters_Score,
+459,PLO (Israel)*,Imports,30.52
+2547,PLO (Israel)*,Missiles/Rockets/Bombs_Score,0.002
+3852,PLO (Israel)*,Naval Vessels_Score,
+981,PLO (Israel)*,Normalized_Exports,0.0
+1503,PLO (Israel)*,Normalized_Gross,0.0
+1242,PLO (Israel)*,Normalized_Imports,0.0002177251686299979
+3591,PLO (Israel)*,Radar/Detection Systems_Score,
+2286,PLO (Israel)*,Specialized Equipment_Score,
+3069,PLO (Israel)*,Unmanned Vehicles_Score,
+4113,PLO (Israel)*,ZZ_loop_score,
+2083,PRC (Israel/Palestine)*,Aircraft_Score,
+1822,PRC (Israel/Palestine)*,Country_Score,0.0
+256,PRC (Israel/Palestine)*,Exports,0.0
+778,PRC (Israel/Palestine)*,Gross_Deals,0.0
+3388,PRC (Israel/Palestine)*,Ground Vehicles/Artillery_Score,
+2866,PRC (Israel/Palestine)*,Helicopters_Score,
+517,PRC (Israel/Palestine)*,Imports,0.25
+2605,PRC (Israel/Palestine)*,Missiles/Rockets/Bombs_Score,0.0
+3910,PRC (Israel/Palestine)*,Naval Vessels_Score,
+1039,PRC (Israel/Palestine)*,Normalized_Exports,0.0
+1561,PRC (Israel/Palestine)*,Normalized_Gross,0.0
+1300,PRC (Israel/Palestine)*,Normalized_Imports,1.783463045789629e-06
+3649,PRC (Israel/Palestine)*,Radar/Detection Systems_Score,
+2344,PRC (Israel/Palestine)*,Specialized Equipment_Score,
+3127,PRC (Israel/Palestine)*,Unmanned Vehicles_Score,
+4171,PRC (Israel/Palestine)*,ZZ_loop_score,
+1843,Pakistan,Aircraft_Score,9.525
+1582,Pakistan,Country_Score,12.302
+16,Pakistan,Exports,307.03
+538,Pakistan,Gross_Deals,49056.02
+3148,Pakistan,Ground Vehicles/Artillery_Score,17.194000000000003
+2626,Pakistan,Helicopters_Score,4.25
+277,Pakistan,Imports,48748.99
+2365,Pakistan,Missiles/Rockets/Bombs_Score,7.5
+3670,Pakistan,Naval Vessels_Score,24.825
+799,Pakistan,Normalized_Exports,0.0004081378293799099
+1321,Pakistan,Normalized_Gross,0.06176155449297311
+1060,Pakistan,Normalized_Imports,0.34776808873827264
+3409,Pakistan,Radar/Detection Systems_Score,8.681
+2104,Pakistan,Specialized Equipment_Score,4.327
+2887,Pakistan,Unmanned Vehicles_Score,13.369
+3931,Pakistan,ZZ_loop_score,9.525
+2036,Palau,Aircraft_Score,
+1775,Palau,Country_Score,0.003
+209,Palau,Exports,0.0
+731,Palau,Gross_Deals,0.0
+3341,Palau,Ground Vehicles/Artillery_Score,
+2819,Palau,Helicopters_Score,
+470,Palau,Imports,15.32
+2558,Palau,Missiles/Rockets/Bombs_Score,
+3863,Palau,Naval Vessels_Score,0.026
+992,Palau,Normalized_Exports,0.0
+1514,Palau,Normalized_Gross,0.0
+1253,Palau,Normalized_Imports,0.00010929061544598846
+3602,Palau,Radar/Detection Systems_Score,
+2297,Palau,Specialized Equipment_Score,
+3080,Palau,Unmanned Vehicles_Score,
+4124,Palau,ZZ_loop_score,
+2016,Palestine,Aircraft_Score,
+1755,Palestine,Country_Score,0.009000000000000001
+189,Palestine,Exports,0.0
+711,Palestine,Gross_Deals,0.0
+3321,Palestine,Ground Vehicles/Artillery_Score,0.011000000000000001
+2799,Palestine,Helicopters_Score,0.06899999999999999
+450,Palestine,Imports,39.98
+2538,Palestine,Missiles/Rockets/Bombs_Score,
+3843,Palestine,Naval Vessels_Score,
+972,Palestine,Normalized_Exports,0.0
+1494,Palestine,Normalized_Gross,0.0
+1233,Palestine,Normalized_Imports,0.00028521141028267747
+3582,Palestine,Radar/Detection Systems_Score,
+2277,Palestine,Specialized Equipment_Score,
+3060,Palestine,Unmanned Vehicles_Score,0.151
+4104,Palestine,ZZ_loop_score,
+1983,Panama,Aircraft_Score,0.034999999999999996
+1722,Panama,Country_Score,0.04
+156,Panama,Exports,13.78
+678,Panama,Gross_Deals,169.31
+3288,Panama,Ground Vehicles/Artillery_Score,0.017
+2766,Panama,Helicopters_Score,0.2
+417,Panama,Imports,155.53
+2505,Panama,Missiles/Rockets/Bombs_Score,
+3810,Panama,Naval Vessels_Score,0.032
+939,Panama,Normalized_Exports,1.83178819296328e-05
+1461,Panama,Normalized_Gross,0.00021316137736419053
+1200,Panama,Normalized_Imports,0.001109528030046644
+3549,Panama,Radar/Detection Systems_Score,
+2244,Panama,Specialized Equipment_Score,0.004
+3027,Panama,Unmanned Vehicles_Score,
+4071,Panama,ZZ_loop_score,0.034999999999999996
+1989,Papua New Guinea,Aircraft_Score,0.02
+1728,Papua New Guinea,Country_Score,0.031
+162,Papua New Guinea,Exports,0.0
+684,Papua New Guinea,Gross_Deals,0.0
+3294,Papua New Guinea,Ground Vehicles/Artillery_Score,0.002
+2772,Papua New Guinea,Helicopters_Score,0.011000000000000001
+423,Papua New Guinea,Imports,143.52
+2511,Papua New Guinea,Missiles/Rockets/Bombs_Score,
+3816,Papua New Guinea,Naval Vessels_Score,0.156
+945,Papua New Guinea,Normalized_Exports,0.0
+1467,Papua New Guinea,Normalized_Gross,0.0
+1206,Papua New Guinea,Normalized_Imports,0.0010238504653269102
+3555,Papua New Guinea,Radar/Detection Systems_Score,
+2250,Papua New Guinea,Specialized Equipment_Score,0.027999999999999997
+3033,Papua New Guinea,Unmanned Vehicles_Score,
+4077,Papua New Guinea,ZZ_loop_score,0.02
+1974,Paraguay,Aircraft_Score,0.056999999999999995
+1713,Paraguay,Country_Score,0.048
+147,Paraguay,Exports,0.0
+669,Paraguay,Gross_Deals,0.0
+3279,Paraguay,Ground Vehicles/Artillery_Score,0.045
+2757,Paraguay,Helicopters_Score,0.056999999999999995
+408,Paraguay,Imports,222.5
+2496,Paraguay,Missiles/Rockets/Bombs_Score,
+3801,Paraguay,Naval Vessels_Score,0.055
+930,Paraguay,Normalized_Exports,0.0
+1452,Paraguay,Normalized_Gross,0.0
+1191,Paraguay,Normalized_Imports,0.0015872821107527698
+3540,Paraguay,Radar/Detection Systems_Score,0.047
+2235,Paraguay,Specialized Equipment_Score,0.022000000000000002
+3018,Paraguay,Unmanned Vehicles_Score,
+4062,Paraguay,ZZ_loop_score,0.056999999999999995
+2046,Pathet Lao (Laos)*,Aircraft_Score,0.002
+1785,Pathet Lao (Laos)*,Country_Score,0.001
+219,Pathet Lao (Laos)*,Exports,0.0
+741,Pathet Lao (Laos)*,Gross_Deals,0.0
+3351,Pathet Lao (Laos)*,Ground Vehicles/Artillery_Score,0.001
+2829,Pathet Lao (Laos)*,Helicopters_Score,
+480,Pathet Lao (Laos)*,Imports,3.48
+2568,Pathet Lao (Laos)*,Missiles/Rockets/Bombs_Score,
+3873,Pathet Lao (Laos)*,Naval Vessels_Score,
+1002,Pathet Lao (Laos)*,Normalized_Exports,0.0
+1524,Pathet Lao (Laos)*,Normalized_Gross,0.0
+1263,Pathet Lao (Laos)*,Normalized_Imports,2.4825805597391635e-05
+3612,Pathet Lao (Laos)*,Radar/Detection Systems_Score,
+2307,Pathet Lao (Laos)*,Specialized Equipment_Score,
+3090,Pathet Lao (Laos)*,Unmanned Vehicles_Score,
+4134,Pathet Lao (Laos)*,ZZ_loop_score,0.002
+1880,Peru,Aircraft_Score,2.251
+1619,Peru,Country_Score,3.007
+53,Peru,Exports,69.6
+575,Peru,Gross_Deals,11986.98
+3185,Peru,Ground Vehicles/Artillery_Score,1.2510000000000001
+2663,Peru,Helicopters_Score,4.72
+314,Peru,Imports,11917.38
+2402,Peru,Missiles/Rockets/Bombs_Score,1.443
+3707,Peru,Naval Vessels_Score,6.505
+836,Peru,Normalized_Exports,9.251992614676654e-05
+1358,Peru,Normalized_Gross,0.015091614005298
+1097,Peru,Normalized_Imports,0.08501682733052963
+3446,Peru,Radar/Detection Systems_Score,0.631
+2141,Peru,Specialized Equipment_Score,1.4569999999999999
+2924,Peru,Unmanned Vehicles_Score,0.129
+3968,Peru,ZZ_loop_score,2.251
+1898,Philippines,Aircraft_Score,0.823
+1637,Philippines,Country_Score,1.4000000000000001
+71,Philippines,Exports,4.58
+593,Philippines,Gross_Deals,5561.32
+3203,Philippines,Ground Vehicles/Artillery_Score,0.42900000000000005
+2681,Philippines,Helicopters_Score,2.666
+332,Philippines,Imports,5556.74
+2420,Philippines,Missiles/Rockets/Bombs_Score,0.628
+3725,Philippines,Naval Vessels_Score,2.666
+854,Philippines,Normalized_Exports,6.088236519428028e-06
+1376,Philippines,Normalized_Gross,0.007001704749648691
+1115,Philippines,Normalized_Imports,0.03964096178024425
+3464,Philippines,Radar/Detection Systems_Score,1.058
+2159,Philippines,Specialized Equipment_Score,1.701
+2942,Philippines,Unmanned Vehicles_Score,1.299
+3986,Philippines,ZZ_loop_score,0.823
+1841,Poland,Aircraft_Score,8.458
+1580,Poland,Country_Score,13.716000000000001
+14,Poland,Exports,9614.21
+536,Poland,Gross_Deals,60615.35
+3146,Poland,Ground Vehicles/Artillery_Score,26.817999999999998
+2624,Poland,Helicopters_Score,12.06
+275,Poland,Imports,51001.14
+2363,Poland,Missiles/Rockets/Bombs_Score,20.602
+3668,Poland,Naval Vessels_Score,11.724
+797,Poland,Normalized_Exports,0.012780258608613567
+1319,Poland,Normalized_Gross,0.07631475692760313
+1058,Poland,Normalized_Imports,0.3638345939325731
+3407,Poland,Radar/Detection Systems_Score,2.7720000000000002
+2102,Poland,Specialized Equipment_Score,3.113
+2885,Poland,Unmanned Vehicles_Score,13.874
+3929,Poland,ZZ_loop_score,8.458
+1888,Portugal,Aircraft_Score,2.056
+1627,Portugal,Country_Score,2.2079999999999997
+61,Portugal,Exports,719.95
+583,Portugal,Gross_Deals,9228.650000000001
+3193,Portugal,Ground Vehicles/Artillery_Score,0.8840000000000001
+2671,Portugal,Helicopters_Score,1.427
+322,Portugal,Imports,8508.7
+2410,Portugal,Missiles/Rockets/Bombs_Score,0.6839999999999999
+3715,Portugal,Naval Vessels_Score,7.385999999999999
+844,Portugal,Normalized_Exports,0.0009570362188127094
+1366,Portugal,Normalized_Gross,0.011618875111995967
+1105,Portugal,Normalized_Imports,0.06069980807084087
+3454,Portugal,Radar/Detection Systems_Score,1.29
+2149,Portugal,Specialized Equipment_Score,1.05
+2932,Portugal,Unmanned Vehicles_Score,
+3976,Portugal,ZZ_loop_score,2.056
+2084,Provisional IRA (UK)*,Aircraft_Score,
+1823,Provisional IRA (UK)*,Country_Score,0.0
+257,Provisional IRA (UK)*,Exports,0.0
+779,Provisional IRA (UK)*,Gross_Deals,0.0
+3389,Provisional IRA (UK)*,Ground Vehicles/Artillery_Score,
+2867,Provisional IRA (UK)*,Helicopters_Score,
+518,Provisional IRA (UK)*,Imports,1.2000000000000002
+2606,Provisional IRA (UK)*,Missiles/Rockets/Bombs_Score,0.002
+3911,Provisional IRA (UK)*,Naval Vessels_Score,
+1040,Provisional IRA (UK)*,Normalized_Exports,0.0
+1562,Provisional IRA (UK)*,Normalized_Gross,0.0
+1301,Provisional IRA (UK)*,Normalized_Imports,8.56062261979022e-06
+3650,Provisional IRA (UK)*,Radar/Detection Systems_Score,
+2345,Provisional IRA (UK)*,Specialized Equipment_Score,
+3128,Provisional IRA (UK)*,Unmanned Vehicles_Score,
+4172,Provisional IRA (UK)*,ZZ_loop_score,
+1866,Qatar,Aircraft_Score,4.686
+1605,Qatar,Country_Score,4.590000000000001
+39,Qatar,Exports,78.46000000000001
+561,Qatar,Gross_Deals,18279.53
+3171,Qatar,Ground Vehicles/Artillery_Score,1.653
+2649,Qatar,Helicopters_Score,2.665
+300,Qatar,Imports,18201.07
+2388,Qatar,Missiles/Rockets/Bombs_Score,6.563
+3693,Qatar,Naval Vessels_Score,3.2390000000000003
+822,Qatar,Normalized_Exports,0.00010429760640050724
+1344,Qatar,Normalized_Gross,0.023013937702262368
+1083,Qatar,Normalized_Imports,0.12984374295532097
+3432,Qatar,Radar/Detection Systems_Score,4.035
+2127,Qatar,Specialized Equipment_Score,1.314
+2910,Qatar,Unmanned Vehicles_Score,0.864
+3954,Qatar,ZZ_loop_score,4.686
+2085,RPF (Rwanda)*,Aircraft_Score,
+1824,RPF (Rwanda)*,Country_Score,0.0
+258,RPF (Rwanda)*,Exports,0.0
+780,RPF (Rwanda)*,Gross_Deals,0.0
+3390,RPF (Rwanda)*,Ground Vehicles/Artillery_Score,
+2868,RPF (Rwanda)*,Helicopters_Score,
+519,RPF (Rwanda)*,Imports,0.35
+2607,RPF (Rwanda)*,Missiles/Rockets/Bombs_Score,0.001
+3912,RPF (Rwanda)*,Naval Vessels_Score,
+1041,RPF (Rwanda)*,Normalized_Exports,0.0
+1563,RPF (Rwanda)*,Normalized_Gross,0.0
+1302,RPF (Rwanda)*,Normalized_Imports,2.4968482641054803e-06
+3651,RPF (Rwanda)*,Radar/Detection Systems_Score,
+2346,RPF (Rwanda)*,Specialized Equipment_Score,
+3129,RPF (Rwanda)*,Unmanned Vehicles_Score,
+4173,RPF (Rwanda)*,ZZ_loop_score,
+2086,RUF (Sierra Leone)*,Aircraft_Score,
+1825,RUF (Sierra Leone)*,Country_Score,0.0
+259,RUF (Sierra Leone)*,Exports,0.0
+781,RUF (Sierra Leone)*,Gross_Deals,0.0
+3391,RUF (Sierra Leone)*,Ground Vehicles/Artillery_Score,
+2869,RUF (Sierra Leone)*,Helicopters_Score,
+520,RUF (Sierra Leone)*,Imports,0.35
+2608,RUF (Sierra Leone)*,Missiles/Rockets/Bombs_Score,0.001
+3913,RUF (Sierra Leone)*,Naval Vessels_Score,
+1042,RUF (Sierra Leone)*,Normalized_Exports,0.0
+1564,RUF (Sierra Leone)*,Normalized_Gross,0.0
+1303,RUF (Sierra Leone)*,Normalized_Imports,2.4968482641054803e-06
+3652,RUF (Sierra Leone)*,Radar/Detection Systems_Score,
+2347,RUF (Sierra Leone)*,Specialized Equipment_Score,
+3130,RUF (Sierra Leone)*,Unmanned Vehicles_Score,
+4174,RUF (Sierra Leone)*,ZZ_loop_score,
+2034,Regional Security System**,Aircraft_Score,
+1773,Regional Security System**,Country_Score,0.003
+207,Regional Security System**,Exports,0.0
+729,Regional Security System**,Gross_Deals,0.0
+3339,Regional Security System**,Ground Vehicles/Artillery_Score,
+2817,Regional Security System**,Helicopters_Score,
+468,Regional Security System**,Imports,14.0
+2556,Regional Security System**,Missiles/Rockets/Bombs_Score,
+3861,Regional Security System**,Naval Vessels_Score,
+990,Regional Security System**,Normalized_Exports,0.0
+1512,Regional Security System**,Normalized_Gross,0.0
+1251,Regional Security System**,Normalized_Imports,9.987393056421923e-05
+3600,Regional Security System**,Radar/Detection Systems_Score,
+2295,Regional Security System**,Specialized Equipment_Score,0.05
+3078,Regional Security System**,Unmanned Vehicles_Score,
+4122,Regional Security System**,ZZ_loop_score,
+1863,Romania,Aircraft_Score,4.753
+1602,Romania,Country_Score,4.854
+36,Romania,Exports,1191.2
+558,Romania,Gross_Deals,20039.79
+3168,Romania,Ground Vehicles/Artillery_Score,4.813
+2646,Romania,Helicopters_Score,3.44
+297,Romania,Imports,18848.59
+2385,Romania,Missiles/Rockets/Bombs_Score,4.324
+3690,Romania,Naval Vessels_Score,6.23
+819,Romania,Normalized_Exports,0.0015834732187647745
+1341,Romania,Normalized_Gross,0.025230105950558926
+1080,Romania,Normalized_Imports,0.13446305492095978
+3429,Romania,Radar/Detection Systems_Score,2.6780000000000004
+2124,Romania,Specialized Equipment_Score,0.832
+2907,Romania,Unmanned Vehicles_Score,4.224
+3951,Romania,ZZ_loop_score,4.753
+1838,Russia,Aircraft_Score,11.185
+1577,Russia,Country_Score,15.073
+11,Russia,Exports,162672.4
+533,Russia,Gross_Deals,163781.43
+3143,Russia,Ground Vehicles/Artillery_Score,16.486
+2621,Russia,Helicopters_Score,17.031
+272,Russia,Imports,1109.03
+2360,Russia,Missiles/Rockets/Bombs_Score,17.498
+3665,Russia,Naval Vessels_Score,23.781
+794,Russia,Normalized_Exports,0.21624193152467333
+1316,Russia,Normalized_Gross,0.20620090488144086
+1055,Russia,Normalized_Imports,0.007911656086688288
+3404,Russia,Radar/Detection Systems_Score,4.8340000000000005
+2099,Russia,Specialized Equipment_Score,16.905
+2882,Russia,Unmanned Vehicles_Score,0.839
+3926,Russia,ZZ_loop_score,11.185
+1967,Rwanda,Aircraft_Score,0.006
+1706,Rwanda,Country_Score,0.061
+140,Rwanda,Exports,0.0
+662,Rwanda,Gross_Deals,0.0
+3272,Rwanda,Ground Vehicles/Artillery_Score,0.136
+2750,Rwanda,Helicopters_Score,0.375
+401,Rwanda,Imports,286.09
+2489,Rwanda,Missiles/Rockets/Bombs_Score,0.003
+3794,Rwanda,Naval Vessels_Score,
+923,Rwanda,Normalized_Exports,0.0
+1445,Rwanda,Normalized_Gross,0.0
+1184,Rwanda,Normalized_Imports,0.00204092377107982
+3533,Rwanda,Radar/Detection Systems_Score,0.043
+2228,Rwanda,Specialized Equipment_Score,0.009000000000000001
+3011,Rwanda,Unmanned Vehicles_Score,
+4055,Rwanda,ZZ_loop_score,0.006
+2013,SLA (Lebanon)*,Aircraft_Score,
+1752,SLA (Lebanon)*,Country_Score,0.01
+186,SLA (Lebanon)*,Exports,0.0
+708,SLA (Lebanon)*,Gross_Deals,0.0
+3318,SLA (Lebanon)*,Ground Vehicles/Artillery_Score,0.054
+2796,SLA (Lebanon)*,Helicopters_Score,
+447,SLA (Lebanon)*,Imports,45.16
+2535,SLA (Lebanon)*,Missiles/Rockets/Bombs_Score,
+3840,SLA (Lebanon)*,Naval Vessels_Score,
+969,SLA (Lebanon)*,Normalized_Exports,0.0
+1491,SLA (Lebanon)*,Normalized_Gross,0.0
+1230,SLA (Lebanon)*,Normalized_Imports,0.00032216476459143856
+3579,SLA (Lebanon)*,Radar/Detection Systems_Score,
+2274,SLA (Lebanon)*,Specialized Equipment_Score,
+3057,SLA (Lebanon)*,Unmanned Vehicles_Score,
+4101,SLA (Lebanon)*,ZZ_loop_score,
+2076,SNA (Somalia)*,Aircraft_Score,
+1815,SNA (Somalia)*,Country_Score,0.0
+249,SNA (Somalia)*,Exports,0.0
+771,SNA (Somalia)*,Gross_Deals,0.0
+3381,SNA (Somalia)*,Ground Vehicles/Artillery_Score,
+2859,SNA (Somalia)*,Helicopters_Score,
+510,SNA (Somalia)*,Imports,2.0
+2598,SNA (Somalia)*,Missiles/Rockets/Bombs_Score,0.003
+3903,SNA (Somalia)*,Naval Vessels_Score,
+1032,SNA (Somalia)*,Normalized_Exports,0.0
+1554,SNA (Somalia)*,Normalized_Gross,0.0
+1293,SNA (Somalia)*,Normalized_Imports,1.4267704366317031e-05
+3642,SNA (Somalia)*,Radar/Detection Systems_Score,
+2337,SNA (Somalia)*,Specialized Equipment_Score,
+3120,SNA (Somalia)*,Unmanned Vehicles_Score,
+4164,SNA (Somalia)*,ZZ_loop_score,
+2063,SPLA (Sudan)*,Aircraft_Score,
+1802,SPLA (Sudan)*,Country_Score,0.0
+236,SPLA (Sudan)*,Exports,0.0
+758,SPLA (Sudan)*,Gross_Deals,0.0
+3368,SPLA (Sudan)*,Ground Vehicles/Artillery_Score,
+2846,SPLA (Sudan)*,Helicopters_Score,
+497,SPLA (Sudan)*,Imports,2.0
+2585,SPLA (Sudan)*,Missiles/Rockets/Bombs_Score,0.003
+3890,SPLA (Sudan)*,Naval Vessels_Score,
+1019,SPLA (Sudan)*,Normalized_Exports,0.0
+1541,SPLA (Sudan)*,Normalized_Gross,0.0
+1280,SPLA (Sudan)*,Normalized_Imports,1.4267704366317031e-05
+3629,SPLA (Sudan)*,Radar/Detection Systems_Score,
+2324,SPLA (Sudan)*,Specialized Equipment_Score,
+3107,SPLA (Sudan)*,Unmanned Vehicles_Score,
+4151,SPLA (Sudan)*,ZZ_loop_score,
+2054,Saint Kitts and Nevis,Aircraft_Score,
+1793,Saint Kitts and Nevis,Country_Score,0.001
+227,Saint Kitts and Nevis,Exports,0.0
+749,Saint Kitts and Nevis,Gross_Deals,0.0
+3359,Saint Kitts and Nevis,Ground Vehicles/Artillery_Score,
+2837,Saint Kitts and Nevis,Helicopters_Score,
+488,Saint Kitts and Nevis,Imports,5.5
+2576,Saint Kitts and Nevis,Missiles/Rockets/Bombs_Score,
+3881,Saint Kitts and Nevis,Naval Vessels_Score,0.009000000000000001
+1010,Saint Kitts and Nevis,Normalized_Exports,0.0
+1532,Saint Kitts and Nevis,Normalized_Gross,0.0
+1271,Saint Kitts and Nevis,Normalized_Imports,3.9236187007371836e-05
+3620,Saint Kitts and Nevis,Radar/Detection Systems_Score,
+2315,Saint Kitts and Nevis,Specialized Equipment_Score,
+3098,Saint Kitts and Nevis,Unmanned Vehicles_Score,
+4142,Saint Kitts and Nevis,ZZ_loop_score,
+2055,Saint Vincent,Aircraft_Score,
+1794,Saint Vincent,Country_Score,0.001
+228,Saint Vincent,Exports,0.0
+750,Saint Vincent,Gross_Deals,0.0
+3360,Saint Vincent,Ground Vehicles/Artillery_Score,
+2838,Saint Vincent,Helicopters_Score,
+489,Saint Vincent,Imports,3.9
+2577,Saint Vincent,Missiles/Rockets/Bombs_Score,
+3882,Saint Vincent,Naval Vessels_Score,0.006999999999999999
+1011,Saint Vincent,Normalized_Exports,0.0
+1533,Saint Vincent,Normalized_Gross,0.0
+1272,Saint Vincent,Normalized_Imports,2.782202351431821e-05
+3621,Saint Vincent,Radar/Detection Systems_Score,
+2316,Saint Vincent,Specialized Equipment_Score,
+3099,Saint Vincent,Unmanned Vehicles_Score,
+4143,Saint Vincent,ZZ_loop_score,
+2038,Samoa,Aircraft_Score,
+1777,Samoa,Country_Score,0.003
+211,Samoa,Exports,0.0
+733,Samoa,Gross_Deals,0.0
+3343,Samoa,Ground Vehicles/Artillery_Score,
+2821,Samoa,Helicopters_Score,
+472,Samoa,Imports,13.0
+2560,Samoa,Missiles/Rockets/Bombs_Score,
+3865,Samoa,Naval Vessels_Score,0.022000000000000002
+994,Samoa,Normalized_Exports,0.0
+1516,Samoa,Normalized_Gross,0.0
+1255,Samoa,Normalized_Imports,9.274007838106071e-05
+3604,Samoa,Radar/Detection Systems_Score,
+2299,Samoa,Specialized Equipment_Score,
+3082,Samoa,Unmanned Vehicles_Score,
+4126,Samoa,ZZ_loop_score,
+1830,Saudi Arabia,Aircraft_Score,21.109
+1569,Saudi Arabia,Country_Score,21.211
+3,Saudi Arabia,Exports,170.04000000000002
+525,Saudi Arabia,Gross_Deals,84350.98
+3135,Saudi Arabia,Ground Vehicles/Artillery_Score,19.034000000000002
+2613,Saudi Arabia,Helicopters_Score,12.8
+264,Saudi Arabia,Imports,84180.94
+2352,Saudi Arabia,Missiles/Rockets/Bombs_Score,34.481
+3657,Saudi Arabia,Naval Vessels_Score,8.706999999999999
+786,Saudi Arabia,Normalized_Exports,0.00022603575060339346
+1308,Saudi Arabia,Normalized_Gross,0.10619792734522052
+1047,Saudi Arabia,Normalized_Imports,0.600534382599336
+3396,Saudi Arabia,Radar/Detection Systems_Score,17.351
+2091,Saudi Arabia,Specialized Equipment_Score,4.623
+2874,Saudi Arabia,Unmanned Vehicles_Score,12.466000000000001
+3918,Saudi Arabia,ZZ_loop_score,21.109
+1941,Senegal,Aircraft_Score,0.059000000000000004
+1680,Senegal,Country_Score,0.215
+114,Senegal,Exports,3.0
+636,Senegal,Gross_Deals,855.6
+3246,Senegal,Ground Vehicles/Artillery_Score,0.23700000000000002
+2724,Senegal,Helicopters_Score,0.19499999999999998
+375,Senegal,Imports,852.6
+2463,Senegal,Missiles/Rockets/Bombs_Score,0.023
+3768,Senegal,Naval Vessels_Score,0.8210000000000001
+897,Senegal,Normalized_Exports,3.9879278511537304e-06
+1419,Senegal,Normalized_Gross,0.001077200841490765
+1158,Senegal,Normalized_Imports,0.006082322371360951
+3507,Senegal,Radar/Detection Systems_Score,0.182
+2202,Senegal,Specialized Equipment_Score,0.166
+2985,Senegal,Unmanned Vehicles_Score,0.009000000000000001
+4029,Senegal,ZZ_loop_score,0.059000000000000004
+1918,Serbia,Aircraft_Score,0.11
+1657,Serbia,Country_Score,0.441
+91,Serbia,Exports,435.01
+613,Serbia,Gross_Deals,2030.02
+3223,Serbia,Ground Vehicles/Artillery_Score,0.645
+2701,Serbia,Helicopters_Score,0.662
+352,Serbia,Imports,1595.01
+2440,Serbia,Missiles/Rockets/Bombs_Score,0.967
+3745,Serbia,Naval Vessels_Score,
+874,Serbia,Normalized_Exports,0.0005782628315101281
+1396,Serbia,Normalized_Gross,0.0025557962274930838
+1135,Serbia,Normalized_Imports,0.011378565570659664
+3484,Serbia,Radar/Detection Systems_Score,0.8130000000000001
+2179,Serbia,Specialized Equipment_Score,0.048
+2962,Serbia,Unmanned Vehicles_Score,0.395
+4006,Serbia,ZZ_loop_score,0.11
+1986,Seychelles,Aircraft_Score,0.004
+1725,Seychelles,Country_Score,0.034999999999999996
+159,Seychelles,Exports,0.8999999999999999
+681,Seychelles,Gross_Deals,138.55
+3291,Seychelles,Ground Vehicles/Artillery_Score,0.003
+2769,Seychelles,Helicopters_Score,0.006999999999999999
+420,Seychelles,Imports,137.65
+2508,Seychelles,Missiles/Rockets/Bombs_Score,0.003
+3813,Seychelles,Naval Vessels_Score,0.173
+942,Seychelles,Normalized_Exports,1.1963783553461189e-06
+1464,Seychelles,Normalized_Gross,0.00017443452149198865
+1203,Seychelles,Normalized_Imports,0.0009819747530117697
+3552,Seychelles,Radar/Detection Systems_Score,0.02
+2247,Seychelles,Specialized Equipment_Score,0.062
+3030,Seychelles,Unmanned Vehicles_Score,0.032
+4074,Seychelles,ZZ_loop_score,0.004
+1988,Sierra Leone,Aircraft_Score,0.0
+1727,Sierra Leone,Country_Score,0.034
+161,Sierra Leone,Exports,0.0
+683,Sierra Leone,Gross_Deals,0.0
+3293,Sierra Leone,Ground Vehicles/Artillery_Score,0.015
+2771,Sierra Leone,Helicopters_Score,0.11
+422,Sierra Leone,Imports,160.64000000000001
+2510,Sierra Leone,Missiles/Rockets/Bombs_Score,
+3815,Sierra Leone,Naval Vessels_Score,0.181
+944,Sierra Leone,Normalized_Exports,0.0
+1466,Sierra Leone,Normalized_Gross,0.0
+1205,Sierra Leone,Normalized_Imports,0.001145982014702584
+3554,Sierra Leone,Radar/Detection Systems_Score,
+2249,Sierra Leone,Specialized Equipment_Score,0.001
+3032,Sierra Leone,Unmanned Vehicles_Score,
+4076,Sierra Leone,ZZ_loop_score,0.0
+1860,Singapore,Aircraft_Score,5.242
+1599,Singapore,Country_Score,5.603000000000001
+33,Singapore,Exports,1166.3600000000001
+555,Singapore,Gross_Deals,22998.09
+3165,Singapore,Ground Vehicles/Artillery_Score,2.342
+2643,Singapore,Helicopters_Score,4.797
+294,Singapore,Imports,21831.73
+2382,Singapore,Missiles/Rockets/Bombs_Score,4.566
+3687,Singapore,Naval Vessels_Score,11.913
+816,Singapore,Normalized_Exports,0.0015504531761572217
+1338,Singapore,Normalized_Gross,0.028954607177045753
+1077,Singapore,Normalized_Imports,0.15574433472262728
+3426,Singapore,Radar/Detection Systems_Score,6.052
+2121,Singapore,Specialized Equipment_Score,3.58
+2904,Singapore,Unmanned Vehicles_Score,2.105
+3948,Singapore,ZZ_loop_score,5.242
+1914,Slovakia,Aircraft_Score,0.638
+1653,Slovakia,Country_Score,0.502
+87,Slovakia,Exports,1110.07
+609,Slovakia,Gross_Deals,2702.9700000000003
+3219,Slovakia,Ground Vehicles/Artillery_Score,0.635
+2697,Slovakia,Helicopters_Score,0.32399999999999995
+348,Slovakia,Imports,1592.9
+2436,Slovakia,Missiles/Rockets/Bombs_Score,0.22499999999999998
+3741,Slovakia,Naval Vessels_Score,
+870,Slovakia,Normalized_Exports,0.0014756263565767402
+1392,Slovakia,Normalized_Gross,0.0034030406247362007
+1131,Slovakia,Normalized_Imports,0.0113635131425532
+3480,Slovakia,Radar/Detection Systems_Score,1.13
+2175,Slovakia,Specialized Equipment_Score,0.22399999999999998
+2958,Slovakia,Unmanned Vehicles_Score,0.006999999999999999
+4002,Slovakia,ZZ_loop_score,0.638
+1952,Slovenia,Aircraft_Score,0.029
+1691,Slovenia,Country_Score,0.11199999999999999
+125,Slovenia,Exports,49.8
+647,Slovenia,Gross_Deals,475.05
+3257,Slovenia,Ground Vehicles/Artillery_Score,0.166
+2735,Slovenia,Helicopters_Score,0.27
+386,Slovenia,Imports,425.25
+2474,Slovenia,Missiles/Rockets/Bombs_Score,0.11299999999999999
+3779,Slovenia,Naval Vessels_Score,0.05
+908,Slovenia,Normalized_Exports,6.619960232915192e-05
+1430,Slovenia,Normalized_Gross,0.0005980881951264468
+1169,Slovenia,Normalized_Imports,0.003033670640888159
+3518,Slovenia,Radar/Detection Systems_Score,0.27499999999999997
+2213,Slovenia,Specialized Equipment_Score,0.049
+2996,Slovenia,Unmanned Vehicles_Score,
+4040,Slovenia,ZZ_loop_score,0.029
+2027,Solomon Islands,Aircraft_Score,
+1766,Solomon Islands,Country_Score,0.006
+200,Solomon Islands,Exports,0.0
+722,Solomon Islands,Gross_Deals,0.0
+3332,Solomon Islands,Ground Vehicles/Artillery_Score,
+2810,Solomon Islands,Helicopters_Score,
+461,Solomon Islands,Imports,26.0
+2549,Solomon Islands,Missiles/Rockets/Bombs_Score,
+3854,Solomon Islands,Naval Vessels_Score,0.045
+983,Solomon Islands,Normalized_Exports,0.0
+1505,Solomon Islands,Normalized_Gross,0.0
+1244,Solomon Islands,Normalized_Imports,0.00018548015676212142
+3593,Solomon Islands,Radar/Detection Systems_Score,
+2288,Solomon Islands,Specialized Equipment_Score,
+3071,Solomon Islands,Unmanned Vehicles_Score,
+4115,Solomon Islands,ZZ_loop_score,
+1929,Somalia,Aircraft_Score,0.26
+1668,Somalia,Country_Score,0.327
+102,Somalia,Exports,0.0
+624,Somalia,Gross_Deals,0.0
+3234,Somalia,Ground Vehicles/Artillery_Score,0.747
+2712,Somalia,Helicopters_Score,0.152
+363,Somalia,Imports,1529.16
+2451,Somalia,Missiles/Rockets/Bombs_Score,0.28800000000000003
+3756,Somalia,Naval Vessels_Score,0.16199999999999998
+885,Somalia,Normalized_Exports,0.0
+1407,Somalia,Normalized_Gross,0.0
+1146,Somalia,Normalized_Imports,0.010908801404398677
+3495,Somalia,Radar/Detection Systems_Score,0.109
+2190,Somalia,Specialized Equipment_Score,
+2973,Somalia,Unmanned Vehicles_Score,0.33
+4017,Somalia,ZZ_loop_score,0.26
+1878,South Africa,Aircraft_Score,2.697
+1617,South Africa,Country_Score,3.1460000000000004
+51,South Africa,Exports,2879.42
+573,South Africa,Gross_Deals,14335.93
+3183,South Africa,Ground Vehicles/Artillery_Score,3.351
+2661,South Africa,Helicopters_Score,2.473
+312,South Africa,Imports,11456.51
+2400,South Africa,Missiles/Rockets/Bombs_Score,0.951
+3705,South Africa,Naval Vessels_Score,7.344
+834,South Africa,Normalized_Exports,0.0038276397377230245
+1356,South Africa,Normalized_Gross,0.0180489432673594
+1095,South Africa,Normalized_Imports,0.08172904887487736
+3444,South Africa,Radar/Detection Systems_Score,3.245
+2139,South Africa,Specialized Equipment_Score,1.71
+2922,South Africa,Unmanned Vehicles_Score,0.549
+3966,South Africa,ZZ_loop_score,2.697
+1836,South Korea,Aircraft_Score,14.205000000000002
+1575,South Korea,Country_Score,16.483999999999998
+9,South Korea,Exports,20014.69
+531,South Korea,Gross_Deals,78254.88
+3141,South Korea,Ground Vehicles/Artillery_Score,20.366999999999997
+2619,South Korea,Helicopters_Score,12.258
+270,South Korea,Imports,58240.19
+2358,South Korea,Missiles/Rockets/Bombs_Score,15.887
+3663,South Korea,Naval Vessels_Score,20.044999999999998
+792,South Korea,Normalized_Exports,0.026605713227736014
+1314,South Korea,Normalized_Gross,0.09852293429962464
+1053,South Korea,Normalized_Imports,0.4154769065790668
+3402,South Korea,Radar/Detection Systems_Score,10.283000000000001
+2097,South Korea,Specialized Equipment_Score,18.218999999999998
+2880,South Korea,Unmanned Vehicles_Score,6.825
+3924,South Korea,ZZ_loop_score,14.205000000000002
+1970,South Sudan,Aircraft_Score,0.003
+1709,South Sudan,Country_Score,0.052
+143,South Sudan,Exports,0.0
+665,South Sudan,Gross_Deals,0.0
+3275,South Sudan,Ground Vehicles/Artillery_Score,0.156
+2753,South Sudan,Helicopters_Score,0.22699999999999998
+404,South Sudan,Imports,241.14
+2492,South Sudan,Missiles/Rockets/Bombs_Score,0.023
+3797,South Sudan,Naval Vessels_Score,
+926,South Sudan,Normalized_Exports,0.0
+1448,South Sudan,Normalized_Gross,0.0
+1187,South Sudan,Normalized_Imports,0.0017202571154468444
+3536,South Sudan,Radar/Detection Systems_Score,
+2231,South Sudan,Specialized Equipment_Score,0.004
+3014,South Sudan,Unmanned Vehicles_Score,
+4058,South Sudan,ZZ_loop_score,0.003
+1893,South Vietnam,Aircraft_Score,2.257
+1632,South Vietnam,Country_Score,1.779
+66,South Vietnam,Exports,4.2
+588,South Vietnam,Gross_Deals,7069.18
+3198,South Vietnam,Ground Vehicles/Artillery_Score,1.442
+2676,South Vietnam,Helicopters_Score,3.884
+327,South Vietnam,Imports,7064.9800000000005
+2415,South Vietnam,Missiles/Rockets/Bombs_Score,
+3720,South Vietnam,Naval Vessels_Score,0.677
+849,South Vietnam,Normalized_Exports,5.583098991615222e-06
+1371,South Vietnam,Normalized_Gross,0.008900101267706505
+1110,South Vietnam,Normalized_Imports,0.05040052299697125
+3459,South Vietnam,Radar/Detection Systems_Score,
+2154,South Vietnam,Specialized Equipment_Score,0.308
+2937,South Vietnam,Unmanned Vehicles_Score,
+3981,South Vietnam,ZZ_loop_score,2.257
+1906,South Yemen,Aircraft_Score,0.596
+1645,South Yemen,Country_Score,0.958
+79,South Yemen,Exports,57.4
+601,South Yemen,Gross_Deals,3843.2400000000002
+3211,South Yemen,Ground Vehicles/Artillery_Score,1.778
+2689,South Yemen,Helicopters_Score,0.776
+340,South Yemen,Imports,3785.84
+2428,South Yemen,Missiles/Rockets/Bombs_Score,0.885
+3733,South Yemen,Naval Vessels_Score,0.876
+862,South Yemen,Normalized_Exports,7.630235288540803e-05
+1384,South Yemen,Normalized_Gross,0.004838641143117073
+1123,South Yemen,Normalized_Imports,0.027007622949088837
+3472,South Yemen,Radar/Detection Systems_Score,
+2167,South Yemen,Specialized Equipment_Score,
+2950,South Yemen,Unmanned Vehicles_Score,0.54
+3994,South Yemen,ZZ_loop_score,0.596
+2001,Southern rebels (Yemen)*,Aircraft_Score,0.017
+1740,Southern rebels (Yemen)*,Country_Score,0.017
+174,Southern rebels (Yemen)*,Exports,0.0
+696,Southern rebels (Yemen)*,Gross_Deals,0.0
+3306,Southern rebels (Yemen)*,Ground Vehicles/Artillery_Score,0.055999999999999994
+2784,Southern rebels (Yemen)*,Helicopters_Score,
+435,Southern rebels (Yemen)*,Imports,80.44
+2523,Southern rebels (Yemen)*,Missiles/Rockets/Bombs_Score,
+3828,Southern rebels (Yemen)*,Naval Vessels_Score,
+957,Southern rebels (Yemen)*,Normalized_Exports,0.0
+1479,Southern rebels (Yemen)*,Normalized_Gross,0.0
+1218,Southern rebels (Yemen)*,Normalized_Imports,0.000573847069613271
+3567,Southern rebels (Yemen)*,Radar/Detection Systems_Score,
+2262,Southern rebels (Yemen)*,Specialized Equipment_Score,
+3045,Southern rebels (Yemen)*,Unmanned Vehicles_Score,
+4089,Southern rebels (Yemen)*,ZZ_loop_score,0.017
+1828,Soviet Union,Aircraft_Score,30.641000000000002
+1567,Soviet Union,Country_Score,39.467
+1,Soviet Union,Exports,373140.03
+523,Soviet Union,Gross_Deals,395114.9
+3133,Soviet Union,Ground Vehicles/Artillery_Score,75.672
+2611,Soviet Union,Helicopters_Score,23.605
+262,Soviet Union,Imports,21974.87
+2350,Soviet Union,Missiles/Rockets/Bombs_Score,21.605
+3655,Soviet Union,Naval Vessels_Score,47.469
+784,Soviet Union,Normalized_Exports,0.4960185060057795
+1306,Soviet Union,Normalized_Gross,0.4974498629798264
+1045,Soviet Union,Normalized_Imports,0.15676547432412458
+3394,Soviet Union,Radar/Detection Systems_Score,21.23
+2089,Soviet Union,Specialized Equipment_Score,1.421
+2872,Soviet Union,Unmanned Vehicles_Score,21.845
+3916,Soviet Union,ZZ_loop_score,30.641000000000002
+1854,Spain,Aircraft_Score,5.721
+1593,Spain,Country_Score,8.37
+27,Spain,Exports,19796.19
+549,Spain,Gross_Deals,45887.47
+3159,Spain,Ground Vehicles/Artillery_Score,5.2909999999999995
+2637,Spain,Helicopters_Score,8.993
+288,Spain,Imports,26091.28
+2376,Spain,Missiles/Rockets/Bombs_Score,6.329999999999999
+3681,Spain,Naval Vessels_Score,24.9
+810,Spain,Normalized_Exports,0.026315259149243653
+1332,Spain,Normalized_Gross,0.057772348407997
+1071,Spain,Normalized_Imports,0.1861313347894001
+3420,Spain,Radar/Detection Systems_Score,9.824
+2115,Spain,Specialized Equipment_Score,12.873999999999999
+2898,Spain,Unmanned Vehicles_Score,10.468
+3942,Spain,ZZ_loop_score,5.721
+1909,Sri Lanka,Aircraft_Score,0.298
+1648,Sri Lanka,Country_Score,0.611
+82,Sri Lanka,Exports,8.0
+604,Sri Lanka,Gross_Deals,2430.04
+3214,Sri Lanka,Ground Vehicles/Artillery_Score,0.459
+2692,Sri Lanka,Helicopters_Score,0.845
+343,Sri Lanka,Imports,2422.04
+2431,Sri Lanka,Missiles/Rockets/Bombs_Score,0.023
+3736,Sri Lanka,Naval Vessels_Score,2.289
+865,Sri Lanka,Normalized_Exports,1.063447426974328e-05
+1387,Sri Lanka,Normalized_Gross,0.0030594216139039486
+1126,Sri Lanka,Normalized_Imports,0.017278475341697252
+3475,Sri Lanka,Radar/Detection Systems_Score,0.317
+2170,Sri Lanka,Specialized Equipment_Score,0.148
+2953,Sri Lanka,Unmanned Vehicles_Score,0.076
+3997,Sri Lanka,ZZ_loop_score,0.298
+1902,Sudan,Aircraft_Score,1.208
+1641,Sudan,Country_Score,1.0959999999999999
+75,Sudan,Exports,15.96
+597,Sudan,Gross_Deals,4363.09
+3207,Sudan,Ground Vehicles/Artillery_Score,1.377
+2685,Sudan,Helicopters_Score,2.485
+336,Sudan,Imports,4347.13
+2424,Sudan,Missiles/Rockets/Bombs_Score,0.219
+3729,Sudan,Naval Vessels_Score,0.032
+858,Sudan,Normalized_Exports,2.1215776168137845e-05
+1380,Sudan,Normalized_Gross,0.0054931325613603805
+1119,Sudan,Normalized_Imports,0.03101178284097388
+3468,Sudan,Radar/Detection Systems_Score,0.268
+2163,Sudan,Specialized Equipment_Score,0.044000000000000004
+2946,Sudan,Unmanned Vehicles_Score,1.308
+3990,Sudan,ZZ_loop_score,1.208
+2007,Suriname,Aircraft_Score,0.005
+1746,Suriname,Country_Score,0.013999999999999999
+180,Suriname,Exports,0.0
+702,Suriname,Gross_Deals,0.0
+3312,Suriname,Ground Vehicles/Artillery_Score,0.01
+2790,Suriname,Helicopters_Score,0.012
+441,Suriname,Imports,66.94
+2529,Suriname,Missiles/Rockets/Bombs_Score,
+3834,Suriname,Naval Vessels_Score,0.059000000000000004
+963,Suriname,Normalized_Exports,0.0
+1485,Suriname,Normalized_Gross,0.0
+1224,Suriname,Normalized_Imports,0.00047754006514063105
+3573,Suriname,Radar/Detection Systems_Score,0.009000000000000001
+2268,Suriname,Specialized Equipment_Score,0.026
+3051,Suriname,Unmanned Vehicles_Score,
+4095,Suriname,ZZ_loop_score,0.005
+1869,Sweden,Aircraft_Score,1.204
+1608,Sweden,Country_Score,3.988
+42,Sweden,Exports,17275.78
+564,Sweden,Gross_Deals,26873.47
+3174,Sweden,Ground Vehicles/Artillery_Score,3.549
+2652,Sweden,Helicopters_Score,2.243
+303,Sweden,Imports,9597.69
+2391,Sweden,Missiles/Rockets/Bombs_Score,5.904
+3696,Sweden,Naval Vessels_Score,6.941999999999999
+825,Sweden,Normalized_Exports,0.022964854737468194
+1347,Sweden,Normalized_Gross,0.03383371259674711
+1086,Sweden,Normalized_Imports,0.06846850175977866
+3435,Sweden,Radar/Detection Systems_Score,16.334
+2130,Sweden,Specialized Equipment_Score,10.366
+2913,Sweden,Unmanned Vehicles_Score,0.311
+3957,Sweden,ZZ_loop_score,1.204
+1865,Switzerland,Aircraft_Score,3.9419999999999997
+1604,Switzerland,Country_Score,4.696
+38,Switzerland,Exports,17645.14
+560,Switzerland,Gross_Deals,29924.199999999997
+3170,Switzerland,Ground Vehicles/Artillery_Score,6.776
+2648,Switzerland,Helicopters_Score,0.938
+299,Switzerland,Imports,12279.06
+2387,Switzerland,Missiles/Rockets/Bombs_Score,4.994
+3692,Switzerland,Naval Vessels_Score,
+821,Switzerland,Normalized_Exports,0.023455848414502243
+1343,Switzerland,Normalized_Gross,0.03767458324092794
+1082,Switzerland,Normalized_Imports,0.0875969989881344
+3431,Switzerland,Radar/Detection Systems_Score,29.673
+2126,Switzerland,Specialized Equipment_Score,1.265
+2909,Switzerland,Unmanned Vehicles_Score,0.868
+3953,Switzerland,ZZ_loop_score,3.9419999999999997
+1849,Syria,Aircraft_Score,5.991
+1588,Syria,Country_Score,9.927
+22,Syria,Exports,466.46
+544,Syria,Gross_Deals,39724.95
+3154,Syria,Ground Vehicles/Artillery_Score,21.407999999999998
+2632,Syria,Helicopters_Score,3.8510000000000004
+283,Syria,Imports,39258.49
+2371,Syria,Missiles/Rockets/Bombs_Score,15.988
+3676,Syria,Naval Vessels_Score,2.099
+805,Syria,Normalized_Exports,0.0006200696084830563
+1327,Syria,Normalized_Gross,0.050013732548128284
+1066,Syria,Normalized_Imports,0.28006426459400674
+3415,Syria,Radar/Detection Systems_Score,2.781
+2110,Syria,Specialized Equipment_Score,0.294
+2893,Syria,Unmanned Vehicles_Score,6.425
+3937,Syria,ZZ_loop_score,5.991
+2052,Syria rebels*,Aircraft_Score,
+1791,Syria rebels*,Country_Score,0.001
+225,Syria rebels*,Exports,0.0
+747,Syria rebels*,Gross_Deals,0.0
+3357,Syria rebels*,Ground Vehicles/Artillery_Score,0.004
+2835,Syria rebels*,Helicopters_Score,
+486,Syria rebels*,Imports,4.98
+2574,Syria rebels*,Missiles/Rockets/Bombs_Score,0.003
+3879,Syria rebels*,Naval Vessels_Score,
+1008,Syria rebels*,Normalized_Exports,0.0
+1530,Syria rebels*,Normalized_Gross,0.0
+1269,Syria rebels*,Normalized_Imports,3.5526583872129415e-05
+3618,Syria rebels*,Radar/Detection Systems_Score,
+2313,Syria rebels*,Specialized Equipment_Score,
+3096,Syria rebels*,Unmanned Vehicles_Score,
+4140,Syria rebels*,ZZ_loop_score,
+1847,Taiwan,Aircraft_Score,10.262
+1586,Taiwan,Country_Score,10.928
+20,Taiwan,Exports,258.52
+542,Taiwan,Gross_Deals,43566.27
+3152,Taiwan,Ground Vehicles/Artillery_Score,4.8919999999999995
+2630,Taiwan,Helicopters_Score,8.157
+281,Taiwan,Imports,43307.75
+2369,Taiwan,Missiles/Rockets/Bombs_Score,9.182
+3674,Taiwan,Naval Vessels_Score,22.236
+803,Taiwan,Normalized_Exports,0.0003436530360267541
+1325,Taiwan,Normalized_Gross,0.054849956410254634
+1064,Taiwan,Normalized_Imports,0.3089510868851832
+3413,Taiwan,Radar/Detection Systems_Score,6.601
+2108,Taiwan,Specialized Equipment_Score,4.6899999999999995
+2891,Taiwan,Unmanned Vehicles_Score,1.08
+3935,Taiwan,ZZ_loop_score,10.262
+1994,Tajikistan,Aircraft_Score,0.004
+1733,Tajikistan,Country_Score,0.026
+167,Tajikistan,Exports,0.0
+689,Tajikistan,Gross_Deals,0.0
+3299,Tajikistan,Ground Vehicles/Artillery_Score,0.032
+2777,Tajikistan,Helicopters_Score,0.13899999999999998
+428,Tajikistan,Imports,123.8
+2516,Tajikistan,Missiles/Rockets/Bombs_Score,0.05
+3821,Tajikistan,Naval Vessels_Score,
+950,Tajikistan,Normalized_Exports,0.0
+1472,Tajikistan,Normalized_Gross,0.0
+1211,Tajikistan,Normalized_Imports,0.0008831709002750242
+3560,Tajikistan,Radar/Detection Systems_Score,0.006999999999999999
+2255,Tajikistan,Specialized Equipment_Score,
+3038,Tajikistan,Unmanned Vehicles_Score,0.032
+4082,Tajikistan,ZZ_loop_score,0.004
+1925,Tanzania,Aircraft_Score,0.413
+1664,Tanzania,Country_Score,0.361
+98,Tanzania,Exports,0.0
+620,Tanzania,Gross_Deals,0.0
+3230,Tanzania,Ground Vehicles/Artillery_Score,0.466
+2708,Tanzania,Helicopters_Score,0.22100000000000003
+359,Tanzania,Imports,1686.63
+2447,Tanzania,Missiles/Rockets/Bombs_Score,0.203
+3752,Tanzania,Naval Vessels_Score,0.32299999999999995
+881,Tanzania,Normalized_Exports,0.0
+1403,Tanzania,Normalized_Gross,0.0
+1142,Tanzania,Normalized_Imports,0.012032169107680648
+3491,Tanzania,Radar/Detection Systems_Score,0.196
+2186,Tanzania,Specialized Equipment_Score,0.036000000000000004
+2969,Tanzania,Unmanned Vehicles_Score,0.268
+4013,Tanzania,ZZ_loop_score,0.413
+1871,Thailand,Aircraft_Score,2.573
+1610,Thailand,Country_Score,3.8150000000000004
+44,Thailand,Exports,102.2
+566,Thailand,Gross_Deals,15215.720000000001
+3176,Thailand,Ground Vehicles/Artillery_Score,4.147
+2654,Thailand,Helicopters_Score,4.596
+305,Thailand,Imports,15113.52
+2393,Thailand,Missiles/Rockets/Bombs_Score,1.806
+3698,Thailand,Naval Vessels_Score,7.449999999999999
+827,Thailand,Normalized_Exports,0.0001358554087959704
+1349,Thailand,Normalized_Gross,0.01915659933133224
+1088,Thailand,Normalized_Imports,0.1078176176472099
+3437,Thailand,Radar/Detection Systems_Score,4.134
+2132,Thailand,Specialized Equipment_Score,2.091
+2915,Thailand,Unmanned Vehicles_Score,0.89
+3959,Thailand,ZZ_loop_score,2.573
+2011,Timor-Leste,Aircraft_Score,
+1750,Timor-Leste,Country_Score,0.01
+184,Timor-Leste,Exports,0.0
+706,Timor-Leste,Gross_Deals,0.0
+3316,Timor-Leste,Ground Vehicles/Artillery_Score,
+2794,Timor-Leste,Helicopters_Score,
+445,Timor-Leste,Imports,46.4
+2533,Timor-Leste,Missiles/Rockets/Bombs_Score,
+3838,Timor-Leste,Naval Vessels_Score,0.08
+967,Timor-Leste,Normalized_Exports,0.0
+1489,Timor-Leste,Normalized_Gross,0.0
+1228,Timor-Leste,Normalized_Imports,0.0003310107412985551
+3577,Timor-Leste,Radar/Detection Systems_Score,
+2272,Timor-Leste,Specialized Equipment_Score,
+3055,Timor-Leste,Unmanned Vehicles_Score,
+4099,Timor-Leste,ZZ_loop_score,
+1965,Togo,Aircraft_Score,0.055999999999999994
+1704,Togo,Country_Score,0.062
+138,Togo,Exports,0.0
+660,Togo,Gross_Deals,0.0
+3270,Togo,Ground Vehicles/Artillery_Score,0.08800000000000001
+2748,Togo,Helicopters_Score,0.16999999999999998
+399,Togo,Imports,287.63
+2487,Togo,Missiles/Rockets/Bombs_Score,0.001
+3792,Togo,Naval Vessels_Score,0.034999999999999996
+921,Togo,Normalized_Exports,0.0
+1443,Togo,Normalized_Gross,0.0
+1182,Togo,Normalized_Imports,0.002051909903441884
+3531,Togo,Radar/Detection Systems_Score,0.034999999999999996
+2226,Togo,Specialized Equipment_Score,0.009000000000000001
+3009,Togo,Unmanned Vehicles_Score,0.173
+4053,Togo,ZZ_loop_score,0.055999999999999994
+2020,Tonga,Aircraft_Score,0.0
+1759,Tonga,Country_Score,0.008
+193,Tonga,Exports,0.0
+715,Tonga,Gross_Deals,0.0
+3325,Tonga,Ground Vehicles/Artillery_Score,
+2803,Tonga,Helicopters_Score,
+454,Tonga,Imports,37.69
+2542,Tonga,Missiles/Rockets/Bombs_Score,
+3847,Tonga,Naval Vessels_Score,0.065
+976,Tonga,Normalized_Exports,0.0
+1498,Tonga,Normalized_Gross,0.0
+1237,Tonga,Normalized_Imports,0.00026887488878324443
+3586,Tonga,Radar/Detection Systems_Score,
+2281,Tonga,Specialized Equipment_Score,
+3064,Tonga,Unmanned Vehicles_Score,
+4108,Tonga,ZZ_loop_score,0.0
+1975,Trinidad and Tobago,Aircraft_Score,0.002
+1714,Trinidad and Tobago,Country_Score,0.048
+148,Trinidad and Tobago,Exports,0.0
+670,Trinidad and Tobago,Gross_Deals,0.0
+3280,Trinidad and Tobago,Ground Vehicles/Artillery_Score,
+2758,Trinidad and Tobago,Helicopters_Score,0.083
+409,Trinidad and Tobago,Imports,225.9
+2497,Trinidad and Tobago,Missiles/Rockets/Bombs_Score,
+3802,Trinidad and Tobago,Naval Vessels_Score,0.32399999999999995
+931,Trinidad and Tobago,Normalized_Exports,0.0
+1453,Trinidad and Tobago,Normalized_Gross,0.0
+1192,Trinidad and Tobago,Normalized_Imports,0.0016115372081755089
+3541,Trinidad and Tobago,Radar/Detection Systems_Score,0.006
+2236,Trinidad and Tobago,Specialized Equipment_Score,
+3019,Trinidad and Tobago,Unmanned Vehicles_Score,
+4063,Trinidad and Tobago,ZZ_loop_score,0.002
+1912,Tunisia,Aircraft_Score,0.27299999999999996
+1651,Tunisia,Country_Score,0.51
+85,Tunisia,Exports,0.0
+607,Tunisia,Gross_Deals,0.0
+3217,Tunisia,Ground Vehicles/Artillery_Score,0.653
+2695,Tunisia,Helicopters_Score,0.728
+346,Tunisia,Imports,2382.73
+2434,Tunisia,Missiles/Rockets/Bombs_Score,0.28800000000000003
+3739,Tunisia,Naval Vessels_Score,1.1039999999999999
+868,Tunisia,Normalized_Exports,0.0
+1390,Tunisia,Normalized_Gross,0.0
+1129,Tunisia,Normalized_Imports,0.016998043612377292
+3478,Tunisia,Radar/Detection Systems_Score,0.34099999999999997
+2173,Tunisia,Specialized Equipment_Score,0.268
+2956,Tunisia,Unmanned Vehicles_Score,0.5539999999999999
+4000,Tunisia,ZZ_loop_score,0.27299999999999996
+1837,Turkiye,Aircraft_Score,12.689
+1576,Turkiye,Country_Score,15.145
+10,Turkiye,Exports,5693.45
+532,Turkiye,Gross_Deals,63788.99
+3142,Turkiye,Ground Vehicles/Artillery_Score,13.941999999999998
+2620,Turkiye,Helicopters_Score,13.633999999999999
+271,Turkiye,Imports,58095.54
+2359,Turkiye,Missiles/Rockets/Bombs_Score,11.618
+3664,Turkiye,Naval Vessels_Score,30.570999999999998
+793,Turkiye,Normalized_Exports,0.0075683559413837346
+1315,Turkiye,Normalized_Gross,0.08031037132520569
+1054,Turkiye,Normalized_Imports,0.4144449948607729
+3403,Turkiye,Radar/Detection Systems_Score,14.549000000000001
+2098,Turkiye,Specialized Equipment_Score,5.906000000000001
+2881,Turkiye,Unmanned Vehicles_Score,24.024
+3925,Turkiye,ZZ_loop_score,12.689
+1924,Turkmenistan,Aircraft_Score,0.096
+1663,Turkmenistan,Country_Score,0.361
+97,Turkmenistan,Exports,0.0
+619,Turkmenistan,Gross_Deals,0.0
+3229,Turkmenistan,Ground Vehicles/Artillery_Score,0.172
+2707,Turkmenistan,Helicopters_Score,0.182
+358,Turkmenistan,Imports,1688.23
+2446,Turkmenistan,Missiles/Rockets/Bombs_Score,0.599
+3751,Turkmenistan,Naval Vessels_Score,1.174
+880,Turkmenistan,Normalized_Exports,0.0
+1402,Turkmenistan,Normalized_Gross,0.0
+1141,Turkmenistan,Normalized_Imports,0.012043583271173702
+3490,Turkmenistan,Radar/Detection Systems_Score,0.45399999999999996
+2185,Turkmenistan,Specialized Equipment_Score,0.21
+2968,Turkmenistan,Unmanned Vehicles_Score,0.726
+4012,Turkmenistan,ZZ_loop_score,0.096
+2040,Tuvalu,Aircraft_Score,
+1779,Tuvalu,Country_Score,0.003
+213,Tuvalu,Exports,0.0
+735,Tuvalu,Gross_Deals,0.0
+3345,Tuvalu,Ground Vehicles/Artillery_Score,
+2823,Tuvalu,Helicopters_Score,
+474,Tuvalu,Imports,13.0
+2562,Tuvalu,Missiles/Rockets/Bombs_Score,
+3867,Tuvalu,Naval Vessels_Score,0.022000000000000002
+996,Tuvalu,Normalized_Exports,0.0
+1518,Tuvalu,Normalized_Gross,0.0
+1257,Tuvalu,Normalized_Imports,9.274007838106071e-05
+3606,Tuvalu,Radar/Detection Systems_Score,
+2301,Tuvalu,Specialized Equipment_Score,
+3084,Tuvalu,Unmanned Vehicles_Score,
+4128,Tuvalu,ZZ_loop_score,
+1853,UAE,Aircraft_Score,5.8999999999999995
+1592,UAE,Country_Score,8.383000000000001
+26,UAE,Exports,1458.34
+548,UAE,Gross_Deals,34225.85
+3158,UAE,Ground Vehicles/Artillery_Score,8.718
+2636,UAE,Helicopters_Score,8.703
+287,UAE,Imports,32767.51
+2375,UAE,Missiles/Rockets/Bombs_Score,15.551
+3680,UAE,Naval Vessels_Score,6.8500000000000005
+809,UAE,Normalized_Exports,0.0019385849008171769
+1331,UAE,Normalized_Gross,0.043090362810585196
+1070,UAE,Normalized_Imports,0.23375857275016848
+3419,UAE,Radar/Detection Systems_Score,5.045999999999999
+2114,UAE,Specialized Equipment_Score,1.994
+2897,UAE,Unmanned Vehicles_Score,13.847999999999999
+3941,UAE,ZZ_loop_score,5.8999999999999995
+2059,UIC (Somalia)*,Aircraft_Score,
+1798,UIC (Somalia)*,Country_Score,0.0
+232,UIC (Somalia)*,Exports,0.0
+754,UIC (Somalia)*,Gross_Deals,0.0
+3364,UIC (Somalia)*,Ground Vehicles/Artillery_Score,
+2842,UIC (Somalia)*,Helicopters_Score,
+493,UIC (Somalia)*,Imports,0.19
+2581,UIC (Somalia)*,Missiles/Rockets/Bombs_Score,0.0
+3886,UIC (Somalia)*,Naval Vessels_Score,
+1015,UIC (Somalia)*,Normalized_Exports,0.0
+1537,UIC (Somalia)*,Normalized_Gross,0.0
+1276,UIC (Somalia)*,Normalized_Imports,1.355431914800118e-06
+3625,UIC (Somalia)*,Radar/Detection Systems_Score,
+2320,UIC (Somalia)*,Specialized Equipment_Score,
+3103,UIC (Somalia)*,Unmanned Vehicles_Score,
+4147,UIC (Somalia)*,ZZ_loop_score,
+2028,UNITA (Angola)*,Aircraft_Score,
+1767,UNITA (Angola)*,Country_Score,0.006
+201,UNITA (Angola)*,Exports,0.0
+723,UNITA (Angola)*,Gross_Deals,0.0
+3333,UNITA (Angola)*,Ground Vehicles/Artillery_Score,
+2811,UNITA (Angola)*,Helicopters_Score,
+462,UNITA (Angola)*,Imports,27.3
+2550,UNITA (Angola)*,Missiles/Rockets/Bombs_Score,0.04
+3855,UNITA (Angola)*,Naval Vessels_Score,
+984,UNITA (Angola)*,Normalized_Exports,0.0
+1506,UNITA (Angola)*,Normalized_Gross,0.0
+1245,UNITA (Angola)*,Normalized_Imports,0.0001947541646002275
+3594,UNITA (Angola)*,Radar/Detection Systems_Score,
+2289,UNITA (Angola)*,Specialized Equipment_Score,
+3072,UNITA (Angola)*,Unmanned Vehicles_Score,
+4116,UNITA (Angola)*,ZZ_loop_score,
+1920,Uganda,Aircraft_Score,0.33
+1659,Uganda,Country_Score,0.42100000000000004
+93,Uganda,Exports,4.3
+615,Uganda,Gross_Deals,1673.59
+3225,Uganda,Ground Vehicles/Artillery_Score,0.716
+2703,Uganda,Helicopters_Score,0.717
+354,Uganda,Imports,1669.29
+2442,Uganda,Missiles/Rockets/Bombs_Score,0.299
+3747,Uganda,Naval Vessels_Score,
+876,Uganda,Normalized_Exports,5.7160299199870125e-06
+1398,Uganda,Normalized_Gross,0.0021070506735747186
+1137,Uganda,Normalized_Imports,0.01190846811082468
+3486,Uganda,Radar/Detection Systems_Score,
+2181,Uganda,Specialized Equipment_Score,0.005
+2964,Uganda,Unmanned Vehicles_Score,0.7100000000000001
+4008,Uganda,ZZ_loop_score,0.33
+1873,Ukraine,Aircraft_Score,1.057
+1612,Ukraine,Country_Score,3.682
+46,Ukraine,Exports,12995.29
+568,Ukraine,Gross_Deals,22924.300000000003
+3178,Ukraine,Ground Vehicles/Artillery_Score,7.803
+2656,Ukraine,Helicopters_Score,1.432
+307,Ukraine,Imports,9929.01
+2395,Ukraine,Missiles/Rockets/Bombs_Score,6.187
+3700,Ukraine,Naval Vessels_Score,3.501
+829,Ukraine,Normalized_Exports,0.01727475964160652
+1351,Ukraine,Normalized_Gross,0.028861705528970015
+1090,Ukraine,Normalized_Imports,0.07083208966510274
+3439,Ukraine,Radar/Detection Systems_Score,3.961
+2134,Ukraine,Specialized Equipment_Score,7.114
+2917,Ukraine,Unmanned Vehicles_Score,28.372999999999998
+3961,Ukraine,ZZ_loop_score,1.057
+2032,Ukraine Rebels*,Aircraft_Score,
+1771,Ukraine Rebels*,Country_Score,0.005
+205,Ukraine Rebels*,Exports,0.0
+727,Ukraine Rebels*,Gross_Deals,0.0
+3337,Ukraine Rebels*,Ground Vehicles/Artillery_Score,0.026
+2815,Ukraine Rebels*,Helicopters_Score,
+466,Ukraine Rebels*,Imports,23.83
+2554,Ukraine Rebels*,Missiles/Rockets/Bombs_Score,0.003
+3859,Ukraine Rebels*,Naval Vessels_Score,
+988,Ukraine Rebels*,Normalized_Exports,0.0
+1510,Ukraine Rebels*,Normalized_Gross,0.0
+1249,Ukraine Rebels*,Normalized_Imports,0.00016999969752466742
+3598,Ukraine Rebels*,Radar/Detection Systems_Score,
+2293,Ukraine Rebels*,Specialized Equipment_Score,
+3076,Ukraine Rebels*,Unmanned Vehicles_Score,
+4120,Ukraine Rebels*,ZZ_loop_score,
+1831,United Kingdom,Aircraft_Score,16.682
+1570,United Kingdom,Country_Score,19.968
+4,United Kingdom,Exports,102732.99
+526,United Kingdom,Gross_Deals,144933.33000000002
+3136,United Kingdom,Ground Vehicles/Artillery_Score,11.527999999999999
+2614,United Kingdom,Helicopters_Score,19.37
+265,United Kingdom,Imports,42200.34
+2353,United Kingdom,Missiles/Rockets/Bombs_Score,25.799
+3658,United Kingdom,Naval Vessels_Score,31.678
+787,United Kingdom,Normalized_Exports,0.1365639173510992
+1309,United Kingdom,Normalized_Gross,0.18247113725579564
+1048,United Kingdom,Normalized_Imports,0.3010509876390316
+3397,United Kingdom,Radar/Detection Systems_Score,20.238999999999997
+2092,United Kingdom,Specialized Equipment_Score,53.010000000000005
+2875,United Kingdom,Unmanned Vehicles_Score,23.418
+3919,United Kingdom,ZZ_loop_score,16.682
+1979,United Nations**,Aircraft_Score,0.006
+1718,United Nations**,Country_Score,0.043
+152,United Nations**,Exports,0.18
+674,United Nations**,Gross_Deals,170.24
+3284,United Nations**,Ground Vehicles/Artillery_Score,0.192
+2762,United Nations**,Helicopters_Score,0.064
+413,United Nations**,Imports,170.06
+2501,United Nations**,Missiles/Rockets/Bombs_Score,
+3806,United Nations**,Naval Vessels_Score,
+935,United Nations**,Normalized_Exports,2.392756710692238e-07
+1457,United Nations**,Normalized_Gross,0.00021433224784407178
+1196,United Nations**,Normalized_Imports,0.0012131829022679372
+3545,United Nations**,Radar/Detection Systems_Score,
+2240,United Nations**,Specialized Equipment_Score,
+3023,United Nations**,Unmanned Vehicles_Score,0.022000000000000002
+4067,United Nations**,ZZ_loop_score,0.006
+1827,United States,Aircraft_Score,75.299
+1566,United States,Country_Score,78.991
+0,United States,Exports,752270.38
+522,United States,Gross_Deals,794280.85
+3132,United States,Ground Vehicles/Artillery_Score,58.469
+2610,United States,Helicopters_Score,78.385
+261,United States,Imports,42010.47
+2349,United States,Missiles/Rockets/Bombs_Score,81.471
+3654,United States,Naval Vessels_Score,59.521
+783,United States,Normalized_Exports,1.0
+1305,United States,Normalized_Gross,1.0
+1044,United States,Normalized_Imports,0.29969648312501534
+3393,United States,Radar/Detection Systems_Score,79.706
+2088,United States,Specialized Equipment_Score,100.0
+2871,United States,Unmanned Vehicles_Score,70.946
+3915,United States,ZZ_loop_score,75.299
+2048,United Wa State (Myanmar)*,Aircraft_Score,
+1787,United Wa State (Myanmar)*,Country_Score,0.001
+221,United Wa State (Myanmar)*,Exports,0.0
+743,United Wa State (Myanmar)*,Gross_Deals,0.0
+3353,United Wa State (Myanmar)*,Ground Vehicles/Artillery_Score,
+2831,United Wa State (Myanmar)*,Helicopters_Score,
+482,United Wa State (Myanmar)*,Imports,3.0
+2570,United Wa State (Myanmar)*,Missiles/Rockets/Bombs_Score,0.004
+3875,United Wa State (Myanmar)*,Naval Vessels_Score,
+1004,United Wa State (Myanmar)*,Normalized_Exports,0.0
+1526,United Wa State (Myanmar)*,Normalized_Gross,0.0
+1265,United Wa State (Myanmar)*,Normalized_Imports,2.1401556549475546e-05
+3614,United Wa State (Myanmar)*,Radar/Detection Systems_Score,
+2309,United Wa State (Myanmar)*,Specialized Equipment_Score,
+3092,United Wa State (Myanmar)*,Unmanned Vehicles_Score,
+4136,United Wa State (Myanmar)*,ZZ_loop_score,
+1933,Uruguay,Aircraft_Score,0.153
+1672,Uruguay,Country_Score,0.25
+106,Uruguay,Exports,7.24
+628,Uruguay,Gross_Deals,998.2
+3238,Uruguay,Ground Vehicles/Artillery_Score,0.187
+2716,Uruguay,Helicopters_Score,0.17700000000000002
+367,Uruguay,Imports,990.96
+2455,Uruguay,Missiles/Rockets/Bombs_Score,0.011000000000000001
+3760,Uruguay,Naval Vessels_Score,0.747
+889,Uruguay,Normalized_Exports,9.624199214117668e-06
+1411,Uruguay,Normalized_Gross,0.0012567343150725592
+1150,Uruguay,Normalized_Imports,0.007069362159422763
+3499,Uruguay,Radar/Detection Systems_Score,0.078
+2194,Uruguay,Specialized Equipment_Score,0.148
+2977,Uruguay,Unmanned Vehicles_Score,0.08099999999999999
+4021,Uruguay,ZZ_loop_score,0.153
+1934,Uzbekistan,Aircraft_Score,0.23500000000000001
+1673,Uzbekistan,Country_Score,0.247
+107,Uzbekistan,Exports,1110.6
+629,Uzbekistan,Gross_Deals,1690.4299999999998
+3239,Uzbekistan,Ground Vehicles/Artillery_Score,0.082
+2717,Uzbekistan,Helicopters_Score,0.7889999999999999
+368,Uzbekistan,Imports,579.83
+2456,Uzbekistan,Missiles/Rockets/Bombs_Score,0.219
+3761,Uzbekistan,Naval Vessels_Score,
+890,Uzbekistan,Normalized_Exports,0.0014763308904971108
+1412,Uzbekistan,Normalized_Gross,0.0021282522422641816
+1151,Uzbekistan,Normalized_Imports,0.004136421511360802
+3500,Uzbekistan,Radar/Detection Systems_Score,
+2195,Uzbekistan,Specialized Equipment_Score,0.026
+2978,Uzbekistan,Unmanned Vehicles_Score,0.886
+4022,Uzbekistan,ZZ_loop_score,0.23500000000000001
+2035,Vanuatu,Aircraft_Score,
+1774,Vanuatu,Country_Score,0.003
+208,Vanuatu,Exports,0.0
+730,Vanuatu,Gross_Deals,0.0
+3340,Vanuatu,Ground Vehicles/Artillery_Score,
+2818,Vanuatu,Helicopters_Score,
+469,Vanuatu,Imports,13.0
+2557,Vanuatu,Missiles/Rockets/Bombs_Score,
+3862,Vanuatu,Naval Vessels_Score,0.022000000000000002
+991,Vanuatu,Normalized_Exports,0.0
+1513,Vanuatu,Normalized_Gross,0.0
+1252,Vanuatu,Normalized_Imports,9.274007838106071e-05
+3601,Vanuatu,Radar/Detection Systems_Score,
+2296,Vanuatu,Specialized Equipment_Score,
+3079,Vanuatu,Unmanned Vehicles_Score,
+4123,Vanuatu,ZZ_loop_score,
+1881,Venezuela,Aircraft_Score,2.218
+1620,Venezuela,Country_Score,3.005
+54,Venezuela,Exports,80.47
+576,Venezuela,Gross_Deals,11984.21
+3186,Venezuela,Ground Vehicles/Artillery_Score,1.59
+2664,Venezuela,Helicopters_Score,2.921
+315,Venezuela,Imports,11903.74
+2403,Venezuela,Missiles/Rockets/Bombs_Score,3.517
+3708,Venezuela,Naval Vessels_Score,4.918
+837,Venezuela,Normalized_Exports,0.00010696951806078021
+1359,Venezuela,Normalized_Gross,0.015088126573868675
+1098,Venezuela,Normalized_Imports,0.08491952158675135
+3447,Venezuela,Radar/Detection Systems_Score,2.4570000000000003
+2142,Venezuela,Specialized Equipment_Score,0.8240000000000001
+2925,Venezuela,Unmanned Vehicles_Score,0.043
+3969,Venezuela,ZZ_loop_score,2.218
+2017,Viet Cong (South Vietnam)*,Aircraft_Score,
+1756,Viet Cong (South Vietnam)*,Country_Score,0.009000000000000001
+190,Viet Cong (South Vietnam)*,Exports,0.0
+712,Viet Cong (South Vietnam)*,Gross_Deals,0.0
+3322,Viet Cong (South Vietnam)*,Ground Vehicles/Artillery_Score,0.0
+2800,Viet Cong (South Vietnam)*,Helicopters_Score,
+451,Viet Cong (South Vietnam)*,Imports,40.28
+2539,Viet Cong (South Vietnam)*,Missiles/Rockets/Bombs_Score,0.059000000000000004
+3844,Viet Cong (South Vietnam)*,Naval Vessels_Score,
+973,Viet Cong (South Vietnam)*,Normalized_Exports,0.0
+1495,Viet Cong (South Vietnam)*,Normalized_Gross,0.0
+1234,Viet Cong (South Vietnam)*,Normalized_Imports,0.00028735156593762503
+3583,Viet Cong (South Vietnam)*,Radar/Detection Systems_Score,
+2278,Viet Cong (South Vietnam)*,Specialized Equipment_Score,
+3061,Viet Cong (South Vietnam)*,Unmanned Vehicles_Score,
+4105,Viet Cong (South Vietnam)*,ZZ_loop_score,
+1857,Viet Nam,Aircraft_Score,4.4350000000000005
+1596,Viet Nam,Country_Score,6.907000000000001
+30,Viet Nam,Exports,35.68
+552,Viet Nam,Gross_Deals,27453.63
+3162,Viet Nam,Ground Vehicles/Artillery_Score,7.475
+2640,Viet Nam,Helicopters_Score,3.118
+291,Viet Nam,Imports,27417.95
+2379,Viet Nam,Missiles/Rockets/Bombs_Score,9.719
+3684,Viet Nam,Naval Vessels_Score,11.368
+813,Viet Nam,Normalized_Exports,4.742975524305503e-05
+1335,Viet Nam,Normalized_Gross,0.03456413433611046
+1074,Viet Nam,Normalized_Imports,0.19559560246523103
+3423,Viet Nam,Radar/Detection Systems_Score,6.719
+2118,Viet Nam,Specialized Equipment_Score,0.625
+2901,Viet Nam,Unmanned Vehicles_Score,0.819
+3945,Viet Nam,ZZ_loop_score,4.4350000000000005
+2003,Western Sahara,Aircraft_Score,
+1742,Western Sahara,Country_Score,0.017
+176,Western Sahara,Exports,0.0
+698,Western Sahara,Gross_Deals,0.0
+3308,Western Sahara,Ground Vehicles/Artillery_Score,0.027999999999999997
+2786,Western Sahara,Helicopters_Score,
+437,Western Sahara,Imports,78.1
+2525,Western Sahara,Missiles/Rockets/Bombs_Score,0.08
+3830,Western Sahara,Naval Vessels_Score,
+959,Western Sahara,Normalized_Exports,0.0
+1481,Western Sahara,Normalized_Gross,0.0
+1220,Western Sahara,Normalized_Imports,0.00055715385550468
+3569,Western Sahara,Radar/Detection Systems_Score,
+2264,Western Sahara,Specialized Equipment_Score,
+3047,Western Sahara,Unmanned Vehicles_Score,
+4091,Western Sahara,ZZ_loop_score,
+1911,Yemen,Aircraft_Score,0.451
+1650,Yemen,Country_Score,0.519
+84,Yemen,Exports,0.0
+606,Yemen,Gross_Deals,0.0
+3216,Yemen,Ground Vehicles/Artillery_Score,0.9520000000000001
+2694,Yemen,Helicopters_Score,0.032
+345,Yemen,Imports,2427.26
+2433,Yemen,Missiles/Rockets/Bombs_Score,0.35200000000000004
+3738,Yemen,Naval Vessels_Score,0.673
+867,Yemen,Normalized_Exports,0.0
+1389,Yemen,Normalized_Gross,0.0
+1128,Yemen,Normalized_Imports,0.017315714050093342
+3477,Yemen,Radar/Detection Systems_Score,0.27399999999999997
+2172,Yemen,Specialized Equipment_Score,0.077
+2955,Yemen,Unmanned Vehicles_Score,
+3999,Yemen,ZZ_loop_score,0.451
+2002,Yemen Arab Republic (North Yemen),Aircraft_Score,0.021
+1741,Yemen Arab Republic (North Yemen),Country_Score,0.017
+175,Yemen Arab Republic (North Yemen),Exports,0.0
+697,Yemen Arab Republic (North Yemen),Gross_Deals,0.0
+3307,Yemen Arab Republic (North Yemen),Ground Vehicles/Artillery_Score,0.032
+2785,Yemen Arab Republic (North Yemen),Helicopters_Score,
+436,Yemen Arab Republic (North Yemen),Imports,79.88
+2524,Yemen Arab Republic (North Yemen),Missiles/Rockets/Bombs_Score,
+3829,Yemen Arab Republic (North Yemen),Naval Vessels_Score,0.019
+958,Yemen Arab Republic (North Yemen),Normalized_Exports,0.0
+1480,Yemen Arab Republic (North Yemen),Normalized_Gross,0.0
+1219,Yemen Arab Republic (North Yemen),Normalized_Imports,0.0005698521123907022
+3568,Yemen Arab Republic (North Yemen),Radar/Detection Systems_Score,
+2263,Yemen Arab Republic (North Yemen),Specialized Equipment_Score,
+3046,Yemen Arab Republic (North Yemen),Unmanned Vehicles_Score,
+4090,Yemen Arab Republic (North Yemen),ZZ_loop_score,0.021
+1872,Yugoslavia,Aircraft_Score,2.152
+1611,Yugoslavia,Country_Score,3.7699999999999996
+45,Yugoslavia,Exports,1412.66
+567,Yugoslavia,Gross_Deals,15873.789999999999
+3177,Yugoslavia,Ground Vehicles/Artillery_Score,8.258000000000001
+2655,Yugoslavia,Helicopters_Score,3.1850000000000005
+306,Yugoslavia,Imports,14461.13
+2394,Yugoslavia,Missiles/Rockets/Bombs_Score,4.7379999999999995
+3699,Yugoslavia,Naval Vessels_Score,2.1420000000000003
+828,Yugoslavia,Normalized_Exports,0.001877862052736943
+1350,Yugoslavia,Normalized_Gross,0.019985109800897252
+1089,Yugoslavia,Normalized_Imports,0.1031635638214391
+3438,Yugoslavia,Radar/Detection Systems_Score,1.143
+2133,Yugoslavia,Specialized Equipment_Score,1.4200000000000002
+2916,Yugoslavia,Unmanned Vehicles_Score,0.27
+3960,Yugoslavia,ZZ_loop_score,2.152
+2060,ZAPU (Zimbabwe)*,Aircraft_Score,
+1799,ZAPU (Zimbabwe)*,Country_Score,0.0
+233,ZAPU (Zimbabwe)*,Exports,0.0
+755,ZAPU (Zimbabwe)*,Gross_Deals,0.0
+3365,ZAPU (Zimbabwe)*,Ground Vehicles/Artillery_Score,0.0
+2843,ZAPU (Zimbabwe)*,Helicopters_Score,
+494,ZAPU (Zimbabwe)*,Imports,1.4100000000000001
+2582,ZAPU (Zimbabwe)*,Missiles/Rockets/Bombs_Score,0.001
+3887,ZAPU (Zimbabwe)*,Naval Vessels_Score,
+1016,ZAPU (Zimbabwe)*,Normalized_Exports,0.0
+1538,ZAPU (Zimbabwe)*,Normalized_Gross,0.0
+1277,ZAPU (Zimbabwe)*,Normalized_Imports,1.0058731578253508e-05
+3626,ZAPU (Zimbabwe)*,Radar/Detection Systems_Score,
+2321,ZAPU (Zimbabwe)*,Specialized Equipment_Score,
+3104,ZAPU (Zimbabwe)*,Unmanned Vehicles_Score,0.027
+4148,ZAPU (Zimbabwe)*,ZZ_loop_score,
+1928,Zambia,Aircraft_Score,0.413
+1667,Zambia,Country_Score,0.33
+101,Zambia,Exports,1.5
+623,Zambia,Gross_Deals,1310.85
+3233,Zambia,Ground Vehicles/Artillery_Score,0.182
+2711,Zambia,Helicopters_Score,0.43299999999999994
+362,Zambia,Imports,1309.35
+2450,Zambia,Missiles/Rockets/Bombs_Score,0.293
+3755,Zambia,Naval Vessels_Score,0.013999999999999999
+884,Zambia,Normalized_Exports,1.9939639255768652e-06
+1406,Zambia,Normalized_Gross,0.0016503608264003846
+1145,Zambia,Normalized_Imports,0.009340709356018603
+3494,Zambia,Radar/Detection Systems_Score,0.05
+2189,Zambia,Specialized Equipment_Score,0.158
+2972,Zambia,Unmanned Vehicles_Score,0.53
+4016,Zambia,ZZ_loop_score,0.413
+1940,Zimbabwe,Aircraft_Score,0.256
+1679,Zimbabwe,Country_Score,0.215
+113,Zimbabwe,Exports,5.01
+635,Zimbabwe,Gross_Deals,855.93
+3245,Zimbabwe,Ground Vehicles/Artillery_Score,0.416
+2723,Zimbabwe,Helicopters_Score,0.31
+374,Zimbabwe,Imports,850.92
+2462,Zimbabwe,Missiles/Rockets/Bombs_Score,
+3767,Zimbabwe,Naval Vessels_Score,
+896,Zimbabwe,Normalized_Exports,6.659839511426729e-06
+1418,Zimbabwe,Normalized_Gross,0.0010776163116610453
+1157,Zimbabwe,Normalized_Imports,0.006070337499693244
+3506,Zimbabwe,Radar/Detection Systems_Score,0.001
+2201,Zimbabwe,Specialized Equipment_Score,0.026
+2984,Zimbabwe,Unmanned Vehicles_Score,
+4028,Zimbabwe,ZZ_loop_score,0.256
+2041,eSwatini,Aircraft_Score,0.003
+1780,eSwatini,Country_Score,0.002
+214,eSwatini,Exports,0.0
+736,eSwatini,Gross_Deals,0.0
+3346,eSwatini,Ground Vehicles/Artillery_Score,0.001
+2824,eSwatini,Helicopters_Score,0.008
+475,eSwatini,Imports,9.940000000000001
+2563,eSwatini,Missiles/Rockets/Bombs_Score,
+3868,eSwatini,Naval Vessels_Score,
+997,eSwatini,Normalized_Exports,0.0
+1519,eSwatini,Normalized_Gross,0.0
+1258,eSwatini,Normalized_Imports,7.091049070059566e-05
+3607,eSwatini,Radar/Detection Systems_Score,
+2302,eSwatini,Specialized Equipment_Score,
+3085,eSwatini,Unmanned Vehicles_Score,
+4129,eSwatini,ZZ_loop_score,0.003
+2061,unknown rebel group*,Aircraft_Score,
+1800,unknown rebel group*,Country_Score,0.0
+234,unknown rebel group*,Exports,0.0
+756,unknown rebel group*,Gross_Deals,0.0
+3366,unknown rebel group*,Ground Vehicles/Artillery_Score,
+2844,unknown rebel group*,Helicopters_Score,
+495,unknown rebel group*,Imports,0.2
+2583,unknown rebel group*,Missiles/Rockets/Bombs_Score,0.0
+3888,unknown rebel group*,Naval Vessels_Score,
+1017,unknown rebel group*,Normalized_Exports,0.0
+1539,unknown rebel group*,Normalized_Gross,0.0
+1278,unknown rebel group*,Normalized_Imports,1.4267704366317031e-06
+3627,unknown rebel group*,Radar/Detection Systems_Score,
+2322,unknown rebel group*,Specialized Equipment_Score,
+3105,unknown rebel group*,Unmanned Vehicles_Score,
+4149,unknown rebel group*,ZZ_loop_score,
+1927,unknown recipient(s),Aircraft_Score,0.003
+1666,unknown recipient(s),Country_Score,0.333
+100,unknown recipient(s),Exports,0.0
+622,unknown recipient(s),Gross_Deals,0.0
+3232,unknown recipient(s),Ground Vehicles/Artillery_Score,0.19
+2710,unknown recipient(s),Helicopters_Score,0.011000000000000001
+361,unknown recipient(s),Imports,1556.7
+2449,unknown recipient(s),Missiles/Rockets/Bombs_Score,1.667
+3754,unknown recipient(s),Naval Vessels_Score,
+883,unknown recipient(s),Normalized_Exports,0.0
+1405,unknown recipient(s),Normalized_Gross,0.0
+1144,unknown recipient(s),Normalized_Imports,0.011105267693522863
+3493,unknown recipient(s),Radar/Detection Systems_Score,0.787
+2188,unknown recipient(s),Specialized Equipment_Score,0.0
+2971,unknown recipient(s),Unmanned Vehicles_Score,1.77
+4015,unknown recipient(s),ZZ_loop_score,0.003
+1964,unknown supplier(s),Aircraft_Score,0.038
+1703,unknown supplier(s),Country_Score,0.067
+137,unknown supplier(s),Exports,1260.08
+659,unknown supplier(s),Gross_Deals,0.0
+3269,unknown supplier(s),Ground Vehicles/Artillery_Score,0.08099999999999999
+2747,unknown supplier(s),Helicopters_Score,0.17600000000000002
+398,unknown supplier(s),Imports,0.0
+2486,unknown supplier(s),Missiles/Rockets/Bombs_Score,0.059000000000000004
+3791,unknown supplier(s),Naval Vessels_Score,0.013
+920,unknown supplier(s),Normalized_Exports,0.001675036042227264
+1442,unknown supplier(s),Normalized_Gross,0.0
+1181,unknown supplier(s),Normalized_Imports,0.0
+3530,unknown supplier(s),Radar/Detection Systems_Score,0.002
+2225,unknown supplier(s),Specialized Equipment_Score,0.266
+3008,unknown supplier(s),Unmanned Vehicles_Score,0.149
+4052,unknown supplier(s),ZZ_loop_score,0.038
