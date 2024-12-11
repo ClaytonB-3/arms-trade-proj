@@ -52,6 +52,25 @@
 
 ## Licensing and Attribution
 
+### Citation for SIPRI Arms Transfers Database
+
+The data used in this research is sourced from the SIPRI Arms Transfers Database, which provides comprehensive information on transfers of major conventional arms from 1950 to the most recent full calendar year. This resource supports monitoring and analysis of international arms flows by researchers, policymakers, analysts, media, and civil society. 
+
+**Source:** Stockholm International Peace Research Institute (SIPRI), SIPRI Arms Transfers Database, [https://www.sipri.org/databases/armstransfers](https://www.sipri.org/databases/armstransfers)
+
+The data is used under SIPRI's fair-use policy, which permits citation and usage for statistical and analytical purposes in academic and educational contexts, as long as SIPRI is clearly attributed. Reproduction of data beyond 10% of the dataset requires explicit permission from SIPRI. 
+
+### Citation for World Bank Development Indicators Dataset
+
+The data used in this research is sourced from the World Bank Development Indicators Dataset, a comprehensive collection of development data compiled from officially recognized international sources. This dataset provides global development insights for analysis, research, and policy-making.
+
+**Source:** World Bank, World Development Indicators Dataset, [https://datacatalog.worldbank.org/search/dataset/0037712](https://datacatalog.worldbank.org/search/dataset/0037712)
+
+This dataset is classified as **Public** under the Access to Information Classification Policy and is licensed under the **Creative Commons Attribution 4.0 (CC BY 4.0)** license. Users are free to share, copy, and adapt the material for any purpose, provided appropriate credit is given, a link to the license is provided, and any changes made are indicated. For more information, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
+
+
+### Citation for latitude and longitude data 
+
 **countries_latitude_longitude.csv**
 This data was sourced from the [Google Developers Public Data Documentation - Countries CSV](https://developers.google.com/public-data/docs/canonical/countries_csv).
 
